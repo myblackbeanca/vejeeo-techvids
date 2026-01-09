@@ -39,3 +39,6 @@ failed_channels.json
 
 # Keep example/template files
 !example_*.json
+
+# Local Netlify folder
+.netlify

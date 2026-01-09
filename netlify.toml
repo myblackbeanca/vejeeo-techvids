@@ -1,0 +1,51 @@
+# Netlify Configuration for Vejeeo TechVids
+
+[build]
+  # No build process needed - static HTML site
+  publish = "."
+
+[build.environment]
+  # Node version (if needed for future builds)
+  NODE_VERSION = "18"
+
+# Redirect rules
+[[redirects]]
+  from = "/"
+  to = "/index.html"
+  status = 200
+
+[[redirects]]
+  from = "/playbook"
+  to = "/playbookai.html"
+  status = 200
+
+[[redirects]]
+  from = "/channels"
+  to = "/channels-index.html"
+  status = 200
+
+# Headers for security and performance
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-Content-Type-Options = "nosniff"
+    X-XSS-Protection = "1; mode=block"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+
+[[headers]]
+  for = "/*.json"
+  [headers.values]
+    Content-Type = "application/json"
+    Cache-Control = "public, max-age=3600"
+
+[[headers]]
+  for = "/*.html"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# SPA-like behavior for 404s
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 404
