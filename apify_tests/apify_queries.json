@@ -1,0 +1,255 @@
+{
+  "total_queries": 20,
+  "queries": [
+    {
+      "type": "direct_url",
+      "channel_name": "freeCodeCamp.org",
+      "query": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "method": "Fetch channel page directly",
+      "expected_data": [
+        "Channel description",
+        "Subscriber count",
+        "Video count",
+        "Channel name",
+        "Latest video titles"
+      ]
+    },
+    {
+      "type": "search",
+      "channel_name": "freeCodeCamp.org",
+      "query": "YouTube channel freeCodeCamp.org subscribers views",
+      "method": "Search for channel information",
+      "expected_data": [
+        "Channel statistics",
+        "Channel URL",
+        "Description snippet",
+        "Verification info"
+      ]
+    },
+    {
+      "type": "direct_url",
+      "channel_name": "Academind",
+      "query": "https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/featured",
+      "method": "Fetch channel page directly",
+      "expected_data": [
+        "Channel description",
+        "Subscriber count",
+        "Video count",
+        "Channel name",
+        "Latest video titles"
+      ]
+    },
+    {
+      "type": "search",
+      "channel_name": "Academind",
+      "query": "YouTube channel Academind subscribers views",
+      "method": "Search for channel information",
+      "expected_data": [
+        "Channel statistics",
+        "Channel URL",
+        "Description snippet",
+        "Verification info"
+      ]
+    },
+    {
+      "type": "direct_url",
+      "channel_name": "Hitesh Choudhary",
+      "query": "https://www.youtube.com/user/hiteshitube",
+      "method": "Fetch channel page directly",
+      "expected_data": [
+        "Channel description",
+        "Subscriber count",
+        "Video count",
+        "Channel name",
+        "Latest video titles"
+      ]
+    },
+    {
+      "type": "search",
+      "channel_name": "Hitesh Choudhary",
+      "query": "YouTube channel Hitesh Choudhary subscribers views",
+      "method": "Search for channel information",
+      "expected_data": [
+        "Channel statistics",
+        "Channel URL",
+        "Description snippet",
+        "Verification info"
+      ]
+    },
+    {
+      "type": "direct_url",
+      "channel_name": "Chris Coyier",
+      "query": "https://www.youtube.com/user/realcsstricks",
+      "method": "Fetch channel page directly",
+      "expected_data": [
+        "Channel description",
+        "Subscriber count",
+        "Video count",
+        "Channel name",
+        "Latest video titles"
+      ]
+    },
+    {
+      "type": "search",
+      "channel_name": "Chris Coyier",
+      "query": "YouTube channel Chris Coyier subscribers views",
+      "method": "Search for channel information",
+      "expected_data": [
+        "Channel statistics",
+        "Channel URL",
+        "Description snippet",
+        "Verification info"
+      ]
+    },
+    {
+      "type": "direct_url",
+      "channel_name": "Chris Courses",
+      "query": "https://www.youtube.com/channel/UC9Yp2yz6-pwhQuPlIDV_mjA/videos",
+      "method": "Fetch channel page directly",
+      "expected_data": [
+        "Channel description",
+        "Subscriber count",
+        "Video count",
+        "Channel name",
+        "Latest video titles"
+      ]
+    },
+    {
+      "type": "search",
+      "channel_name": "Chris Courses",
+      "query": "YouTube channel Chris Courses subscribers views",
+      "method": "Search for channel information",
+      "expected_data": [
+        "Channel statistics",
+        "Channel URL",
+        "Description snippet",
+        "Verification info"
+      ]
+    },
+    {
+      "type": "direct_url",
+      "channel_name": "Harry Wolff",
+      "query": "https://www.youtube.com/c/hswolff",
+      "method": "Fetch channel page directly",
+      "expected_data": [
+        "Channel description",
+        "Subscriber count",
+        "Video count",
+        "Channel name",
+        "Latest video titles"
+      ]
+    },
+    {
+      "type": "search",
+      "channel_name": "Harry Wolff",
+      "query": "YouTube channel Harry Wolff subscribers views",
+      "method": "Search for channel information",
+      "expected_data": [
+        "Channel statistics",
+        "Channel URL",
+        "Description snippet",
+        "Verification info"
+      ]
+    },
+    {
+      "type": "direct_url",
+      "channel_name": "Benjamin N. Spak",
+      "query": "https://www.youtube.com/user/bnspak",
+      "method": "Fetch channel page directly",
+      "expected_data": [
+        "Channel description",
+        "Subscriber count",
+        "Video count",
+        "Channel name",
+        "Latest video titles"
+      ]
+    },
+    {
+      "type": "search",
+      "channel_name": "Benjamin N. Spak",
+      "query": "YouTube channel Benjamin N. Spak subscribers views",
+      "method": "Search for channel information",
+      "expected_data": [
+        "Channel statistics",
+        "Channel URL",
+        "Description snippet",
+        "Verification info"
+      ]
+    },
+    {
+      "type": "direct_url",
+      "channel_name": "ThinMatrix",
+      "query": "https://www.youtube.com/user/ThinMatrix",
+      "method": "Fetch channel page directly",
+      "expected_data": [
+        "Channel description",
+        "Subscriber count",
+        "Video count",
+        "Channel name",
+        "Latest video titles"
+      ]
+    },
+    {
+      "type": "search",
+      "channel_name": "ThinMatrix",
+      "query": "YouTube channel ThinMatrix subscribers views",
+      "method": "Search for channel information",
+      "expected_data": [
+        "Channel statistics",
+        "Channel URL",
+        "Description snippet",
+        "Verification info"
+      ]
+    },
+    {
+      "type": "direct_url",
+      "channel_name": "TheDevWay",
+      "query": "https://www.youtube.com/channel/UC76ftuGpHJnEtsEBefT4YUQ",
+      "method": "Fetch channel page directly",
+      "expected_data": [
+        "Channel description",
+        "Subscriber count",
+        "Video count",
+        "Channel name",
+        "Latest video titles"
+      ]
+    },
+    {
+      "type": "search",
+      "channel_name": "TheDevWay",
+      "query": "YouTube channel TheDevWay subscribers views",
+      "method": "Search for channel information",
+      "expected_data": [
+        "Channel statistics",
+        "Channel URL",
+        "Description snippet",
+        "Verification info"
+      ]
+    },
+    {
+      "type": "direct_url",
+      "channel_name": "Emrah Yuksel",
+      "query": "https://www.youtube.com/channel/UC2u9Gc37Rq44dB3mW4Kdi-w",
+      "method": "Fetch channel page directly",
+      "expected_data": [
+        "Channel description",
+        "Subscriber count",
+        "Video count",
+        "Channel name",
+        "Latest video titles"
+      ]
+    },
+    {
+      "type": "search",
+      "channel_name": "Emrah Yuksel",
+      "query": "YouTube channel Emrah Yuksel subscribers views",
+      "method": "Search for channel information",
+      "expected_data": [
+        "Channel statistics",
+        "Channel URL",
+        "Description snippet",
+        "Verification info"
+      ]
+    }
+  ]
+}

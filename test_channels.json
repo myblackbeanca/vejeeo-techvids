@@ -1,0 +1,86 @@
+{
+  "total": 10,
+  "channels": [
+    {
+      "index": 1,
+      "name": "freeCodeCamp.org",
+      "url": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "category": "Tutorial",
+      "language": "English"
+    },
+    {
+      "index": 2,
+      "name": "Academind",
+      "url": "https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/featured",
+      "channel_id": "UCSJbGtTlrDami-tDGPUV9-w",
+      "category": "Tutorial",
+      "language": "English"
+    },
+    {
+      "index": 3,
+      "name": "Hitesh Choudhary",
+      "url": "https://www.youtube.com/user/hiteshitube",
+      "channel_id": "@hiteshitube",
+      "category": "Tutorial",
+      "language": "English"
+    },
+    {
+      "index": 4,
+      "name": "Chris Coyier",
+      "url": "https://www.youtube.com/user/realcsstricks",
+      "channel_id": "@realcsstricks",
+      "category": "Tutorial",
+      "language": "English"
+    },
+    {
+      "index": 5,
+      "name": "Chris Courses",
+      "url": "https://www.youtube.com/channel/UC9Yp2yz6-pwhQuPlIDV_mjA/videos",
+      "channel_id": "UC9Yp2yz6-pwhQuPlIDV_mjA",
+      "category": "Tutorial",
+      "language": "English"
+    },
+    {
+      "index": 6,
+      "name": "Harry Wolff",
+      "url": "https://www.youtube.com/c/hswolff",
+      "channel_id": "@hswolff",
+      "category": "Tutorial",
+      "language": "English"
+    },
+    {
+      "index": 7,
+      "name": "Benjamin N. Spak",
+      "url": "https://www.youtube.com/user/bnspak",
+      "channel_id": "@bnspak",
+      "category": "Informational",
+      "language": "English"
+    },
+    {
+      "index": 8,
+      "name": "ThinMatrix",
+      "url": "https://www.youtube.com/user/ThinMatrix",
+      "channel_id": "@ThinMatrix",
+      "category": "Game Development",
+      "language": "English"
+    },
+    {
+      "index": 9,
+      "name": "TheDevWay",
+      "url": "https://www.youtube.com/channel/UC76ftuGpHJnEtsEBefT4YUQ",
+      "channel_id": "UC76ftuGpHJnEtsEBefT4YUQ",
+      "category": "Up And Coming",
+      "language": "English"
+    },
+    {
+      "index": 10,
+      "name": "Emrah Yuksel",
+      "url": "https://www.youtube.com/channel/UC2u9Gc37Rq44dB3mW4Kdi-w",
+      "channel_id": "UC2u9Gc37Rq44dB3mW4Kdi-w",
+      "category": "Tutorial",
+      "language": "Turkish"
+    }
+  ],
+  "notes": "These 10 channels have been selected for Apify testing"
+}
