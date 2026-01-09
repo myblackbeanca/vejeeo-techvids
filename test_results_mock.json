@@ -1,0 +1,343 @@
+{
+  "total_channels": 10,
+  "timestamp": "2024-01-08 20:30:00",
+  "channels": [
+    {
+      "index": 1,
+      "name": "freeCodeCamp.org",
+      "url": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "category": "Tutorial",
+      "language": "English",
+      "title": "freeCodeCamp.org",
+      "description": "Learn to code for free. We have JavaScript, Python, C++, Java, and more courses. Hundreds of hours of content. If you want to get a job as a web developer, or improve your coding skills, this channel is for you. We have beginner and intermediate level projects...",
+      "custom_url": "freecodecamp",
+      "published_at": "2014-12-26T12:57:41Z",
+      "country": "US",
+      "view_count": 523000000,
+      "subscriber_count": 8500000,
+      "video_count": 1827,
+      "latest_videos": [
+        {
+          "video_id": "ysEN5RaKOlA",
+          "title": "Full Stack Web Development for Beginners (Full Course on YouTube)",
+          "published_at": "2024-01-05T18:00:15Z"
+        },
+        {
+          "video_id": "nknP0NF0LKc",
+          "title": "Learn JavaScript - Full Course for Beginners",
+          "published_at": "2024-01-02T16:30:00Z"
+        },
+        {
+          "video_id": "zxQea8G8P30",
+          "title": "Python for Beginners – Learn Programming from Scratch",
+          "published_at": "2023-12-28T14:15:00Z"
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "name": "Academind",
+      "url": "https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/featured",
+      "channel_id": "UCSJbGtTlrDami-tDGPUV9-w",
+      "category": "Tutorial",
+      "language": "English",
+      "title": "Academind",
+      "description": "Join 1M+ students on my channel and become a better web developer. I create high-quality courses and tutorials on JavaScript, React, Angular, Vue, Node.js, Python, Django, and more. Let me help you with the exact knowledge...",
+      "custom_url": "academind",
+      "published_at": "2015-01-09T09:54:48Z",
+      "country": "DE",
+      "view_count": 185000000,
+      "subscriber_count": 1200000,
+      "video_count": 892,
+      "latest_videos": [
+        {
+          "video_id": "VEz9qKjGKAA",
+          "title": "React 2024 - The Complete Guide [Next.js, Redux & More]",
+          "published_at": "2024-01-06T12:00:00Z"
+        },
+        {
+          "video_id": "gI5qXyCcTEE",
+          "title": "JavaScript Fundamentals - Full Course",
+          "published_at": "2024-01-01T10:30:00Z"
+        },
+        {
+          "video_id": "cKxRvEZd-Kw",
+          "title": "Node.js & Express.js - Complete RESTful API",
+          "published_at": "2023-12-27T14:45:00Z"
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "name": "Hitesh Choudhary",
+      "url": "https://www.youtube.com/user/hiteshitube",
+      "channel_id": "UC_PEC7tJWjBqBtJZwTEiNgg",
+      "category": "Tutorial",
+      "language": "English",
+      "title": "Hitesh Choudhary",
+      "description": "I teach web development, JavaScript, React, Node.js, MongoDB and other web technologies. I create easy to understand tutorials for beginners.",
+      "custom_url": "hiteshchoudhary",
+      "published_at": "2015-06-14T11:22:35Z",
+      "country": "IN",
+      "view_count": 92000000,
+      "subscriber_count": 850000,
+      "video_count": 567,
+      "latest_videos": [
+        {
+          "video_id": "6pPWVmKT0Pg",
+          "title": "Web Development Full Course 2024",
+          "published_at": "2024-01-04T09:15:00Z"
+        },
+        {
+          "video_id": "mUmJ8A_0j_8",
+          "title": "JavaScript ES6 Complete Course",
+          "published_at": "2023-12-30T12:00:00Z"
+        },
+        {
+          "video_id": "lLh9g5F0SrY",
+          "title": "React.js Beginner to Advanced",
+          "published_at": "2023-12-25T10:30:00Z"
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "name": "Chris Coyier",
+      "url": "https://www.youtube.com/user/realcsstricks",
+      "channel_id": "UC33eBMNmtEUtqSXucvoOtww",
+      "category": "Tutorial",
+      "language": "English",
+      "title": "CSS-Tricks",
+      "description": "CSS-Tricks is all about front-end web design and development. We cover HTML, CSS, JavaScript, responsive design, and more.",
+      "custom_url": "csstricks",
+      "published_at": "2010-05-15T08:30:22Z",
+      "country": "US",
+      "view_count": 45000000,
+      "subscriber_count": 380000,
+      "video_count": 412,
+      "latest_videos": [
+        {
+          "video_id": "w67zRuSLas8",
+          "title": "CSS Grid & Flexbox - Complete Guide",
+          "published_at": "2024-01-03T11:00:00Z"
+        },
+        {
+          "video_id": "9Pv62wFHByM",
+          "title": "CSS Animation Techniques",
+          "published_at": "2023-12-29T13:20:00Z"
+        },
+        {
+          "video_id": "B2CEzLpeuVk",
+          "title": "Modern CSS Tips and Tricks",
+          "published_at": "2023-12-22T15:45:00Z"
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "name": "Chris Courses",
+      "url": "https://www.youtube.com/channel/UC9Yp2yz6-pwhQuPlIDV_mjA/videos",
+      "channel_id": "UC9Yp2yz6-pwhQuPlIDV_mjA",
+      "category": "Tutorial",
+      "language": "English",
+      "title": "Chris Courses",
+      "description": "Learn web development from the ground up. JavaScript, HTML, CSS, React, Node.js, and more. Tutorial videos for beginners.",
+      "custom_url": "chriscourses",
+      "published_at": "2017-08-22T14:10:05Z",
+      "country": "CA",
+      "view_count": 28000000,
+      "subscriber_count": 420000,
+      "video_count": 234,
+      "latest_videos": [
+        {
+          "video_id": "hKDqJ8sD4aQ",
+          "title": "JavaScript Async Await Tutorial",
+          "published_at": "2024-01-02T16:30:00Z"
+        },
+        {
+          "video_id": "3i9q7XSb9Lc",
+          "title": "DOM Manipulation Complete Course",
+          "published_at": "2023-12-26T10:15:00Z"
+        },
+        {
+          "video_id": "O7v8ZPQ0uEY",
+          "title": "Responsive Web Design Masterclass",
+          "published_at": "2023-12-20T12:45:00Z"
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "name": "Harry Wolff",
+      "url": "https://www.youtube.com/c/hswolff",
+      "channel_id": "UC4xKdmAXFh4ACyhpiQ_3qBw",
+      "category": "Tutorial",
+      "language": "English",
+      "title": "Harry Wolff",
+      "description": "JavaScript and web development tutorials. Building apps with React, TypeScript, and modern tools.",
+      "custom_url": "harryswolff",
+      "published_at": "2018-03-15T09:20:18Z",
+      "country": "US",
+      "view_count": 15000000,
+      "subscriber_count": 185000,
+      "video_count": 156,
+      "latest_videos": [
+        {
+          "video_id": "dQw4w9WgXcQ",
+          "title": "TypeScript Best Practices 2024",
+          "published_at": "2024-01-06T14:00:00Z"
+        },
+        {
+          "video_id": "jNQXAC9IVRw",
+          "title": "React Performance Optimization",
+          "published_at": "2023-12-31T09:30:00Z"
+        },
+        {
+          "video_id": "9bZkp7q19f0",
+          "title": "Modern JavaScript Patterns",
+          "published_at": "2023-12-24T11:15:00Z"
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "name": "Benjamin N. Spak",
+      "url": "https://www.youtube.com/user/bnspak",
+      "channel_id": "UCU3sEBT0kP8GQDO6_s7-sMA",
+      "category": "Informational",
+      "language": "English",
+      "title": "Benjamin N. Spak",
+      "description": "Developer career advice, technical interviews, and programming best practices.",
+      "custom_url": "benjaminspak",
+      "published_at": "2019-02-10T07:45:30Z",
+      "country": "US",
+      "view_count": 8000000,
+      "subscriber_count": 95000,
+      "video_count": 123,
+      "latest_videos": [
+        {
+          "video_id": "7qKnY7iKxQ0",
+          "title": "FAANG Interview Preparation 2024",
+          "published_at": "2024-01-05T13:20:00Z"
+        },
+        {
+          "video_id": "f7KSnjUNFnE",
+          "title": "System Design Interview Questions",
+          "published_at": "2023-12-28T10:45:00Z"
+        },
+        {
+          "video_id": "3gjl-i7rKXE",
+          "title": "Career Growth Strategies for Developers",
+          "published_at": "2023-12-21T15:00:00Z"
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "name": "ThinMatrix",
+      "url": "https://www.youtube.com/user/ThinMatrix",
+      "channel_id": "UC_3yEv81-R-2lhZKX0B9Keg",
+      "category": "Game Development",
+      "language": "English",
+      "title": "ThinMatrix",
+      "description": "Java game development tutorials. Learn LWJGL and OpenGL for 3D graphics.",
+      "custom_url": "thinmatrix",
+      "published_at": "2013-11-28T16:30:12Z",
+      "country": "GB",
+      "view_count": 32000000,
+      "subscriber_count": 540000,
+      "video_count": 298,
+      "latest_videos": [
+        {
+          "video_id": "U1W8A-rKs-c",
+          "title": "Java 3D Game Development Complete Course",
+          "published_at": "2024-01-04T11:30:00Z"
+        },
+        {
+          "video_id": "kzPUGLiBb2Q",
+          "title": "OpenGL Graphics Tutorial Series",
+          "published_at": "2023-12-29T09:15:00Z"
+        },
+        {
+          "video_id": "4I0vK7AuaF4",
+          "title": "Game Physics Engine Development",
+          "published_at": "2023-12-23T14:20:00Z"
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "name": "TheDevWay",
+      "url": "https://www.youtube.com/channel/UC76ftuGpHJnEtsEBefT4YUQ",
+      "channel_id": "UC76ftuGpHJnEtsEBefT4YUQ",
+      "category": "Up And Coming",
+      "language": "English",
+      "title": "TheDevWay",
+      "description": "Web development tutorials for beginners. Step-by-step guides for HTML, CSS, JavaScript.",
+      "custom_url": "",
+      "published_at": "2022-05-18T10:00:00Z",
+      "country": "",
+      "view_count": 125000,
+      "subscriber_count": 8500,
+      "video_count": 42,
+      "latest_videos": [
+        {
+          "video_id": "X2vFTWx4_vk",
+          "title": "React Hooks Tutorial for Beginners",
+          "published_at": "2024-01-07T12:00:00Z"
+        },
+        {
+          "video_id": "pmVUC9M0xAQ",
+          "title": "CSS Flexbox Explained",
+          "published_at": "2023-12-30T14:30:00Z"
+        },
+        {
+          "video_id": "mOkjsCl8KaI",
+          "title": "JavaScript Event Listeners",
+          "published_at": "2023-12-25T09:45:00Z"
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "name": "Emrah Yuksel",
+      "url": "https://www.youtube.com/channel/UC2u9Gc37Rq44dB3mW4Kdi-w",
+      "channel_id": "UC2u9Gc37Rq44dB3mW4Kdi-w",
+      "category": "Tutorial",
+      "language": "Turkish",
+      "title": "Emrah Yuksel",
+      "description": "Türkçe yazılım geliştirme öğretimi. Web development, JavaScript, React ve daha fazla...",
+      "custom_url": "",
+      "published_at": "2020-09-12T08:15:30Z",
+      "country": "TR",
+      "view_count": 5200000,
+      "subscriber_count": 185000,
+      "video_count": 187,
+      "latest_videos": [
+        {
+          "video_id": "K7U1vFZq2zw",
+          "title": "JavaScript Türkçe Rehber 2024",
+          "published_at": "2024-01-01T10:00:00Z"
+        },
+        {
+          "video_id": "vIWL76fDh4s",
+          "title": "React Türkçe Tutorial",
+          "published_at": "2023-12-27T13:15:00Z"
+        },
+        {
+          "video_id": "lSp7FDsGLK4",
+          "title": "Web Geliştirme Temelleri",
+          "published_at": "2023-12-20T11:30:00Z"
+        }
+      ]
+    }
+  ],
+  "statistics": {
+    "success": 10,
+    "failed": 0,
+    "total_subscribers": 12370500,
+    "total_views": 932200000,
+    "total_videos": 5138
+  }
+}
