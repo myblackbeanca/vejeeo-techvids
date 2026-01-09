@@ -1,0 +1,4569 @@
+{
+  "total_channels": 652,
+  "channels": [
+    {
+      "name": "freeCodeCamp.org",
+      "url": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "channel_id": "UC8butISFwT-Wl7EV0hUK0BQ",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Programming with Mosh",
+      "url": "https://www.youtube.com/user/programmingwithmosh",
+      "channel_id": "@programmingwithmosh",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Traversy Media",
+      "url": "https://www.youtube.com/user/TechGuyWeb",
+      "channel_id": "@TechGuyWeb",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Derek Banas",
+      "url": "https://www.youtube.com/user/derekbanas",
+      "channel_id": "@derekbanas",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Caleb Curry",
+      "url": "https://www.youtube.com/user/CalebTheVideoMaker2",
+      "channel_id": "@CalebTheVideoMaker2",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "The Net Ninja",
+      "url": "https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg",
+      "channel_id": "UCW5YeuERMmlnqo4oq8vwUpg",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "CS50",
+      "url": "https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA",
+      "channel_id": "UCcabW7890RKJzL968QWEykA",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Chris Hawkes",
+      "url": "https://www.youtube.com/user/noobtoprofessional",
+      "channel_id": "@noobtoprofessional",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "LearnCode.academy",
+      "url": "https://www.youtube.com/user/learncodeacademy",
+      "channel_id": "@learncodeacademy",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Eli the Computer Guy",
+      "url": "https://www.youtube.com/user/elithecomputerguy",
+      "channel_id": "@elithecomputerguy",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Academind",
+      "url": "https://www.youtube.com/channel/UCSJbGtTlrDami-tDGPUV9-w/featured",
+      "channel_id": "UCSJbGtTlrDami-tDGPUV9-w",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Level Up Tuts",
+      "url": "https://www.youtube.com/user/LevelUpTuts",
+      "channel_id": "@LevelUpTuts",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Codecourse",
+      "url": "https://www.youtube.com/user/phpacademy",
+      "channel_id": "@phpacademy",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Crash Course Computer Science",
+      "url": "https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo&app=desktop",
+      "channel_id": "@playlist",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "DevTips",
+      "url": "https://www.youtube.com/user/DevTipsForDesigners",
+      "channel_id": "@DevTipsForDesigners",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Tech Primers",
+      "url": "https://www.youtube.com/channel/UCB12jjYsYv-eipCvBDcMbXw",
+      "channel_id": "UCB12jjYsYv-eipCvBDcMbXw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Wes Bos",
+      "url": "https://www.youtube.com/user/wesbos",
+      "channel_id": "@wesbos",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Dev Ed",
+      "url": "https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q",
+      "channel_id": "UClb90NQQcskPUGDIXsQEz5Q",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Paul Halliday",
+      "url": "https://www.youtube.com/channel/UCYJ9O6X1oFt7YGXpfRwrcWg",
+      "channel_id": "UCYJ9O6X1oFt7YGXpfRwrcWg",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Andre Madarang",
+      "url": "https://www.youtube.com/channel/UCtb40EQj2inp8zuaQlLx3iQ",
+      "channel_id": "UCtb40EQj2inp8zuaQlLx3iQ",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Hitesh Choudhary",
+      "url": "https://www.youtube.com/user/hiteshitube",
+      "channel_id": "@hiteshitube",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Jason Weimann",
+      "url": "https://www.youtube.com/channel/UCX_b3NNQN5bzExm-22-NVVg",
+      "channel_id": "UCX_b3NNQN5bzExm-22-NVVg",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Fireship",
+      "url": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+      "channel_id": "UCsBjURrPoezykLs9EqgamOA",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Ben Awad",
+      "url": "https://www.youtube.com/user/99baddawg",
+      "channel_id": "@99baddawg",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Coding Tech",
+      "url": "https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ",
+      "channel_id": "UCtxCXg-UvSnTKPOzLH4wJaQ",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Tech With Tim",
+      "url": "https://www.youtube.com/channel/UC4JX40jDee_tINbkjycV4Sg",
+      "channel_id": "UC4JX40jDee_tINbkjycV4Sg",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Corey Schafer",
+      "url": "https://www.youtube.com/user/schafer5",
+      "channel_id": "@schafer5",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "KodeKloud",
+      "url": "https://www.youtube.com/user/mmumshad",
+      "channel_id": "@mmumshad",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Online Tutorials",
+      "url": "https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog",
+      "channel_id": "UCbwXnUipZsLfUckBPsC7Jog",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Kevin Powell",
+      "url": "https://www.youtube.com/user/KepowOb",
+      "channel_id": "@KepowOb",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Chris Coyier",
+      "url": "https://www.youtube.com/user/realcsstricks",
+      "channel_id": "@realcsstricks",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "mmtuts",
+      "url": "https://www.youtube.com/user/TheCharmefis",
+      "channel_id": "@TheCharmefis",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Web Dev Simplified",
+      "url": "https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw",
+      "channel_id": "UCFbNIlppjAuEX4znoulh0Cw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "CodingTheSmartWay",
+      "url": "https://www.youtube.com/channel/UCLXQoK41TOcIsWtY-BgB_kQ",
+      "channel_id": "UCLXQoK41TOcIsWtY-BgB_kQ",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Red Stapler",
+      "url": "https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg",
+      "channel_id": "UCRthRrv06q1iOl86-tTKJhg",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "ProgrammingKnowledge",
+      "url": "https://www.youtube.com/user/ProgrammingKnowledge",
+      "channel_id": "@ProgrammingKnowledge",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "LearnWebCode",
+      "url": "https://www.youtube.com/user/LearnWebCode",
+      "channel_id": "@LearnWebCode",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Website Learners",
+      "url": "https://www.youtube.com/c/WebsiteLearners",
+      "channel_id": "@WebsiteLearners",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Darrel Wilson",
+      "url": "https://www.youtube.com/channel/UC5alq-VmYnfQZt7YaNgdcGw",
+      "channel_id": "UC5alq-VmYnfQZt7YaNgdcGw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Layout Land",
+      "url": "https://www.youtube.com/channel/UC7TizprGknbDalbHplROtag",
+      "channel_id": "UC7TizprGknbDalbHplROtag",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Back to Back SWE",
+      "url": "https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA",
+      "channel_id": "UCmJz2DV1a3yfgrR7GqRtUUA",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "John Philip Jones",
+      "url": "https://www.youtube.com/user/johnphilipjones",
+      "channel_id": "@johnphilipjones",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Qirolab",
+      "url": "https://www.youtube.com/channel/UCJLGFWQfHhE9ENHHqgMXiow",
+      "channel_id": "UCJLGFWQfHhE9ENHHqgMXiow",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "WPCasts",
+      "url": "https://www.youtube.com/c/WPCasts",
+      "channel_id": "@WPCasts",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "A Plus Coding",
+      "url": "https://www.youtube.com/channel/UC-pLL_SFEm6B9Eeyr-V424Q",
+      "channel_id": "UC-pLL_SFEm6B9Eeyr-V424Q",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Kirupa Chinnathambi",
+      "url": "https://www.youtube.com/user/kirupa/videos",
+      "channel_id": "@kirupa",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Coding Addict",
+      "url": "https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA/videos",
+      "channel_id": "UCMZFwxv5l-XtKi693qMJptA",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Codecourse",
+      "url": "https://www.youtube.com/user/phpacademy/videos",
+      "channel_id": "@phpacademy",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Steve Griffith",
+      "url": "https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ/videos",
+      "channel_id": "UCTBGXCJHORQjivtgtMsmkAQ",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Classsed",
+      "url": "https://www.youtube.com/channel/UC2-slOJImuSc20Drbf88qvg/videos",
+      "channel_id": "UC2-slOJImuSc20Drbf88qvg",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Chris Courses",
+      "url": "https://www.youtube.com/channel/UC9Yp2yz6-pwhQuPlIDV_mjA/videos",
+      "channel_id": "UC9Yp2yz6-pwhQuPlIDV_mjA",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Flutter(Official)",
+      "url": "https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw",
+      "channel_id": "UCwXdFgeE9KYzlDdR7TG9cMw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Sykoo",
+      "url": "https://www.youtube.com/user/SykooTV",
+      "channel_id": "@SykooTV",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "DesignCourse",
+      "url": "https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow",
+      "channel_id": "UCVyRiMvfUNMA1UPlDPzG5Ow",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Colt Steele",
+      "url": "https://www.youtube.com/channel/UCrqAGUPPMOdo0jfQ6grikZw",
+      "channel_id": "UCrqAGUPPMOdo0jfQ6grikZw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Real Python",
+      "url": "https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA",
+      "channel_id": "UCI0vQvr9aFn27yR6Ej6n5UA",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "MTECHVIRAL",
+      "url": "https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA/videos",
+      "channel_id": "UCFTM1FGjZSkoSPDZgtbp7hA",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "OverSeas Media",
+      "url": "https://www.youtube.com/channel/UCPsBHZLaXkZ_mmapD8vBLXg",
+      "channel_id": "UCPsBHZLaXkZ_mmapD8vBLXg",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "I Am Tim Corey",
+      "url": "https://www.youtube.com/user/IAmTimCorey",
+      "channel_id": "@IAmTimCorey",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Yury Kashnitsky",
+      "url": "https://www.youtube.com/channel/UCgGADKKGalfwSNbpSyM5ryg",
+      "channel_id": "UCgGADKKGalfwSNbpSyM5ryg",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Jeremy Howard",
+      "url": "https://www.youtube.com/channel/UCX7Y2qWriXpqocG97SFW2OQ",
+      "channel_id": "UCX7Y2qWriXpqocG97SFW2OQ",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Codepunk",
+      "url": "https://www.youtube.com/c/codepunk",
+      "channel_id": "@codepunk",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Lee Gaines",
+      "url": "https://www.youtube.com/c/leegaines",
+      "channel_id": "@leegaines",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "FusedVR",
+      "url": "https://www.youtube.com/channel/UCLO98KHpNx6JwsdnH04l9yQ",
+      "channel_id": "UCLO98KHpNx6JwsdnH04l9yQ",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Weibenfalk",
+      "url": "https://www.youtube.com/c/weibenfalk",
+      "channel_id": "@weibenfalk",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Filled Stacks",
+      "url": "https://www.youtube.com/channel/UC2d0BYlqQCdF9lJfydl_02Q",
+      "channel_id": "UC2d0BYlqQCdF9lJfydl_02Q",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "CoffeeBeforeArch",
+      "url": "https://www.youtube.com/channel/UCsi5-meDM5Q5NE93n_Ya7GA",
+      "channel_id": "UCsi5-meDM5Q5NE93n_Ya7GA",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "CodeBlobsTV",
+      "url": "https://www.youtube.com/channel/UCxhcaC1wjUuFq3fC95i48fA",
+      "channel_id": "UCxhcaC1wjUuFq3fC95i48fA",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Florin Pop",
+      "url": "https://www.youtube.com/channel/UCeU-1X402kT-JlLdAitxSMA",
+      "channel_id": "UCeU-1X402kT-JlLdAitxSMA",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "codeSTACKr",
+      "url": "https://www.youtube.com/codestackr",
+      "channel_id": "@codestackr",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Claudio Bernasconi",
+      "url": "https://www.youtube.com/channel/UCTbHPk0bIOQwTXuGgD195bw",
+      "channel_id": "UCTbHPk0bIOQwTXuGgD195bw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "ResoCoder",
+      "url": "https://www.youtube.com/channel/UCSIvrn68cUk8CS8MbtBmBkA",
+      "channel_id": "UCSIvrn68cUk8CS8MbtBmBkA",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Webslesson",
+      "url": "https://www.youtube.com/channel/UC8Nbgc4vUi27HgBv2ffEiHw",
+      "channel_id": "UC8Nbgc4vUi27HgBv2ffEiHw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Codedamn",
+      "url": "https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ",
+      "channel_id": "UCJUmE61LxhbhudzUugHL2wQ",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "London App Brewery",
+      "url": "https://www.youtube.com/channel/UCVD5Vh9LhLBxp3o1vRNyf_w",
+      "channel_id": "UCVD5Vh9LhLBxp3o1vRNyf_w",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Coding From Null",
+      "url": "https://www.youtube.com/channel/UC9Psp9-p9jgHfDBReAAcZ3w",
+      "channel_id": "UC9Psp9-p9jgHfDBReAAcZ3w",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "VueScreencasts",
+      "url": "https://www.youtube.com/channel/UCJasK7cAgRz1RGMJCoRLXXQ/",
+      "channel_id": "UCJasK7cAgRz1RGMJCoRLXXQ",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "dcode",
+      "url": "https://www.youtube.com/channel/UCjX0FtIZBBVD3YoCcxnDC4g",
+      "channel_id": "UCjX0FtIZBBVD3YoCcxnDC4g",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "CodeLit",
+      "url": "https://www.youtube.com/channel/UCUmQhjjF9bsIaVDJUHSIIKw",
+      "channel_id": "UCUmQhjjF9bsIaVDJUHSIIKw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "JavaBrains",
+      "url": "https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q",
+      "channel_id": "UCYt1sfh5464XaDBH0oH_o7Q",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Telusko",
+      "url": "https://www.youtube.com/user/javaboynavin",
+      "channel_id": "@javaboynavin",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "kudvenkat",
+      "url": "https://www.youtube.com/user/kudvenkat",
+      "channel_id": "@kudvenkat",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Awais Mirza",
+      "url": "https://www.youtube.com/channel/UCIKbbV7ae7LAWa8cGnvjSPA",
+      "channel_id": "UCIKbbV7ae7LAWa8cGnvjSPA",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Amigoscode",
+      "url": "https://www.youtube.com/channel/UC2KfmYEM4KCuA1ZurravgYw",
+      "channel_id": "UC2KfmYEM4KCuA1ZurravgYw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Coder's Tape",
+      "url": "https://www.youtube.com/channel/UCQI-Ym2rLZx52vEoqlPQMdg",
+      "channel_id": "UCQI-Ym2rLZx52vEoqlPQMdg",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Dan Vega",
+      "url": "https://www.youtube.com/danvega",
+      "channel_id": "@danvega",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Code With Andrea",
+      "url": "https://www.youtube.com/channel/UCrTnsT4OYZ53l0QGKqLeD5Q/videos",
+      "channel_id": "UCrTnsT4OYZ53l0QGKqLeD5Q",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "DarkCode",
+      "url": "https://www.youtube.com/channel/UCD3KVjbb7aq2OiOffuungzw/videos",
+      "channel_id": "UCD3KVjbb7aq2OiOffuungzw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Devefy",
+      "url": "https://www.youtube.com/channel/UC9dwxEAvy-zCMAS7rdox46w/videos",
+      "channel_id": "UC9dwxEAvy-zCMAS7rdox46w",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Inspire UI",
+      "url": "https://www.youtube.com/user/minhcasi/videos",
+      "channel_id": "@minhcasi",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Alessandro Castellani",
+      "url": "https://www.youtube.com/user/williamprey",
+      "channel_id": "@williamprey",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Context Free",
+      "url": "https://www.youtube.com/channel/UCS4FAVeYW_IaZqAbqhlvxlA",
+      "channel_id": "UCS4FAVeYW_IaZqAbqhlvxlA",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Simple Snippets",
+      "url": "https://www.youtube.com/channel/UCRIWTSgd7hGtZhx4RYoASEg",
+      "channel_id": "UCRIWTSgd7hGtZhx4RYoASEg",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Engineer Man",
+      "url": "https://www.youtube.com/channel/UCrUL8K81R4VBzm-KOYwrcxQ",
+      "channel_id": "UCrUL8K81R4VBzm-KOYwrcxQ",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "CodingEntrepreneurs",
+      "url": "https://www.youtube.com/user/CodingEntrepreneurs",
+      "channel_id": "@CodingEntrepreneurs",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "techsith",
+      "url": "https://www.youtube.com/user/techSithTube",
+      "channel_id": "@techSithTube",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Chuck Severance",
+      "url": "https://www.youtube.com/user/csev/featured",
+      "channel_id": "@csev",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Scaler Academy",
+      "url": "https://www.youtube.com/scaleracademy",
+      "channel_id": "@scaleracademy",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "DevSage",
+      "url": "https://www.youtube.com/channel/UCV4AXpDSxschk8I0sCl8JXw",
+      "channel_id": "UCV4AXpDSxschk8I0sCl8JXw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Maksim Ivanov",
+      "url": "https://www.youtube.com/user/satansdeer1",
+      "channel_id": "@satansdeer1",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Harry Wolff",
+      "url": "https://www.youtube.com/c/hswolff",
+      "channel_id": "@hswolff",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "That DevOps Guy",
+      "url": "https://www.youtube.com/c/marceldempers",
+      "channel_id": "@marceldempers",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Dennis Ivy",
+      "url": "https://www.youtube.com/channel/UCTZRcDjjkVajGL6wd76UnGg",
+      "channel_id": "UCTZRcDjjkVajGL6wd76UnGg",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Codevolution",
+      "url": "https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw",
+      "channel_id": "UC80PWRj_ZU8Zu0HSMNVwKWw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "The Codeholic",
+      "url": "https://www.youtube.com/channel/UC_UMEcP_kF0z4E6KbxCpV1w",
+      "channel_id": "UC_UMEcP_kF0z4E6KbxCpV1w",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "The New Boston",
+      "url": "https://www.youtube.com/user/thenewboston/featured",
+      "channel_id": "@thenewboston",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Programming Hero",
+      "url": "https://www.youtube.com/channel/UCStj-ORBZ7TGK1FwtGAUgbQ",
+      "channel_id": "UCStj-ORBZ7TGK1FwtGAUgbQ",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "NetworkChuck",
+      "url": "https://www.youtube.com/c/NetworkChuck",
+      "channel_id": "@NetworkChuck",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Code with Ania Kubów #JavaScriptGames",
+      "url": "https://www.youtube.com/channel/UC5DNytAJ6_FISueUfzZCVsw",
+      "channel_id": "UC5DNytAJ6_FISueUfzZCVsw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "CodeLyon",
+      "url": "https://www.youtube.com/channel/UC08G-UJT58SbkdmcOYyOQVw",
+      "channel_id": "UC08G-UJT58SbkdmcOYyOQVw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Pyplane",
+      "url": "https://www.youtube.com/channel/UCQtHyVB4O4Nwy1ff5qQnyRw",
+      "channel_id": "UCQtHyVB4O4Nwy1ff5qQnyRw",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "TechWorld with Nana",
+      "url": "https://www.youtube.com/TechWorldwithNana",
+      "channel_id": "@TechWorldwithNana",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Pretty Printed",
+      "url": "https://www.youtube.com/PrettyPrintedTutorials",
+      "channel_id": "@PrettyPrintedTutorials",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "What's AI",
+      "url": "https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg",
+      "channel_id": "UCUzGQrN-lyyc0BWTYoJM_Sg",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Coding With Justin",
+      "url": "https://www.youtube.com/channel/UCro4e-xxAYrgwt5cOccnE0A",
+      "channel_id": "UCro4e-xxAYrgwt5cOccnE0A",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "The Exception Handler",
+      "url": "https://www.youtube.com/channel/UCgRrjz7mHwqTQqm6KC4mSBQ",
+      "channel_id": "UCgRrjz7mHwqTQqm6KC4mSBQ",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Amine M. Boulouma",
+      "url": "https://www.youtube.com/aminemboulouma",
+      "channel_id": "@aminemboulouma",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "codewithsadee",
+      "url": "https://www.youtube.com/c/codewithsadee",
+      "channel_id": "@codewithsadee",
+      "language": "English",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Dylan Israel",
+      "url": "https://www.youtube.com/user/pizzapokerguy87",
+      "channel_id": "@pizzapokerguy87",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "ForrestKnight",
+      "url": "https://www.youtube.com/channel/UC2WHjPDvbE6O328n17ZGcfg",
+      "channel_id": "UC2WHjPDvbE6O328n17ZGcfg",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "CodingPhase",
+      "url": "https://www.youtube.com/channel/UC46wWUso9H5KPQcoL9iE3Ug",
+      "channel_id": "UC46wWUso9H5KPQcoL9iE3Ug",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "RealToughCandy",
+      "url": "https://www.youtube.com/channel/UC54NcJvLCvM2CNaBjd5j6HA",
+      "channel_id": "UC54NcJvLCvM2CNaBjd5j6HA",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Andy Sterkowitz",
+      "url": "https://www.youtube.com/channel/UCZ9qFEC82qM6Pk-54Q4TVWA",
+      "channel_id": "UCZ9qFEC82qM6Pk-54Q4TVWA",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "CS Dojo",
+      "url": "https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A",
+      "channel_id": "UCxX9wt5FWQUAAz4UrysqK9A",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Simple Programmer",
+      "url": "https://www.youtube.com/channel/UCRxWW_Ncs308nW4An23Yeig",
+      "channel_id": "UCRxWW_Ncs308nW4An23Yeig",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Clever Programmer",
+      "url": "https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ",
+      "channel_id": "UCqrILQNl5Ed9Dz6CGMyvMTQ",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Stefan Mischook",
+      "url": "https://www.youtube.com/user/killerphp",
+      "channel_id": "@killerphp",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "mayuko",
+      "url": "https://www.youtube.com/user/hellomayuko",
+      "channel_id": "@hellomayuko",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Fun Fun Function",
+      "url": "https://www.youtube.com/channel/UCO1cgjhGzsSYb1rsB4bFe4Q",
+      "channel_id": "UCO1cgjhGzsSYb1rsB4bFe4Q",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Chris Sean",
+      "url": "https://www.youtube.com/channel/UCu1xbgCV5o48h_BYCQD7KJg",
+      "channel_id": "UCu1xbgCV5o48h_BYCQD7KJg",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Coding Blonde",
+      "url": "https://www.youtube.com/channel/UCjdRbKZ494DfZ4zeX19rICw",
+      "channel_id": "UCjdRbKZ494DfZ4zeX19rICw",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Brad Hussey",
+      "url": "https://www.youtube.com/user/hussey17",
+      "channel_id": "@hussey17",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "blondiebytes",
+      "url": "https://www.youtube.com/channel/UC4DwZ2VXM2KWtzHjVk9M_xg",
+      "channel_id": "UC4DwZ2VXM2KWtzHjVk9M_xg",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "David Connelly",
+      "url": "https://www.youtube.com/user/davidjconnelly",
+      "channel_id": "@davidjconnelly",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Ruseberry",
+      "url": "https://www.youtube.com/channel/UCtnlBCZa6lpWMRdIhXAyVeQ",
+      "channel_id": "UCtnlBCZa6lpWMRdIhXAyVeQ",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Byte By Byte",
+      "url": "https://www.youtube.com/channel/UCWSYAntBbdd2SLYUqPIxo0w",
+      "channel_id": "UCWSYAntBbdd2SLYUqPIxo0w",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "TheRealCasadaro",
+      "url": "https://www.youtube.com/channel/UCiuJ529_bakAN-zjxnyDDaw",
+      "channel_id": "UCiuJ529_bakAN-zjxnyDDaw",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Agency Trailblazer",
+      "url": "https://www.youtube.com/channel/UC9EyfvEnzG7UwTn6VIqw16w",
+      "channel_id": "UC9EyfvEnzG7UwTn6VIqw16w",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "whatsdev",
+      "url": "https://www.youtube.com/channel/UC0tRdbXVDbhaRvZPKsRgmxg",
+      "channel_id": "UC0tRdbXVDbhaRvZPKsRgmxg",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Life at Google",
+      "url": "https://www.youtube.com/user/lifeatgoogle",
+      "channel_id": "@lifeatgoogle",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Joshua Fluke",
+      "url": "https://www.youtube.com/user/Tychos1",
+      "channel_id": "@Tychos1",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Tech Lead",
+      "url": "https://www.youtube.com/channel/UC4xKdmAXFh4ACyhpiQ_3qBw",
+      "channel_id": "UC4xKdmAXFh4ACyhpiQ_3qBw",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Joma Tech",
+      "url": "https://www.youtube.com/channel/UCV0qA-eDDICsRR9rPcnG7tw",
+      "channel_id": "UCV0qA-eDDICsRR9rPcnG7tw",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Kalle Halden",
+      "url": "https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ",
+      "channel_id": "UCWr0mx597DnSGLFk1WfvSkQ",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Python Programmer",
+      "url": "https://www.youtube.com/user/consumerchampion",
+      "channel_id": "@consumerchampion",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Andres Vidoza",
+      "url": "https://www.youtube.com/channel/UCC_NjLEb2Sley94py4vSYTA",
+      "channel_id": "UCC_NjLEb2Sley94py4vSYTA",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Tren Black",
+      "url": "https://www.youtube.com/channel/UCSSBvqWNPq_qO3_W4EJiOAA",
+      "channel_id": "UCSSBvqWNPq_qO3_W4EJiOAA",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Aaron Jack",
+      "url": "https://www.youtube.com/channel/UCRLEADhMcb8WUdnQ5_Alk7g",
+      "channel_id": "UCRLEADhMcb8WUdnQ5_Alk7g",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Clément Mihailescu",
+      "url": "https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g",
+      "channel_id": "UCaO6VoaYJv4kS-TQO_M-N_g",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Chris Jereza",
+      "url": "https://www.youtube.com/channel/UCPrRsdgsxOmzr9ykAf7tlDw",
+      "channel_id": "UCPrRsdgsxOmzr9ykAf7tlDw",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Benjamin N. Spak",
+      "url": "https://www.youtube.com/user/bnspak",
+      "channel_id": "@bnspak",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "The Cyber Mentor",
+      "url": "https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw",
+      "channel_id": "UC0ArlFuFYMpEewyRBzdLHiw",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Google Students",
+      "url": "https://www.youtube.com/user/GoogleStudents",
+      "channel_id": "@GoogleStudents",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "TheHappieCat",
+      "url": "https://www.youtube.com/user/TheHappieCat",
+      "channel_id": "@TheHappieCat",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Treehouse",
+      "url": "https://www.youtube.com/user/gotreehouse",
+      "channel_id": "@gotreehouse",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Jesse Showalter",
+      "url": "https://www.youtube.com/user/JesseAtomic",
+      "channel_id": "@JesseAtomic",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "LowLevelJavascript",
+      "url": "https://www.youtube.com/channel/UC56l7uZA209tlPTVOJiJ8Tw",
+      "channel_id": "UC56l7uZA209tlPTVOJiJ8Tw",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Javidx9",
+      "url": "https://www.youtube.com/channel/UC-yuWVUplUJZvieEligKBkA",
+      "channel_id": "UC-yuWVUplUJZvieEligKBkA",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Abdul Bari",
+      "url": "https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw",
+      "channel_id": "UCZCFT11CWBi3MHNlGf019nw",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Computerphile",
+      "url": "https://www.youtube.com/user/Computerphile",
+      "channel_id": "@Computerphile",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "3Blue1Brown",
+      "url": "https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw",
+      "channel_id": "UCYO_jab_esuFRV4b17AJtAw",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Ben Eater",
+      "url": "https://www.youtube.com/user/eaterbc",
+      "channel_id": "@eaterbc",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Prismic",
+      "url": "https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA/",
+      "channel_id": "UCJq6AEgtWeZt7ziQ-fLKOeA",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Harkirat Singh",
+      "url": "https://www.youtube.com/user/harkirat1",
+      "channel_id": "@harkirat1",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "The Cherno",
+      "url": "https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw",
+      "channel_id": "UCQ-W1KE9EYfdxhL6S4twUNw",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Kent C. Dodds",
+      "url": "https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw",
+      "channel_id": "UCz-BYvuntVRt_VpfR6FKXJw",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "CodingWithMitch",
+      "url": "https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw/videos",
+      "channel_id": "UCoNZZLhPuuRteu02rh7bzsw",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Hussein Nasser",
+      "url": "https://www.youtube.com/channel/UC_ML5xP23TOWKUcc-oAE_Eg",
+      "channel_id": "UC_ML5xP23TOWKUcc-oAE_Eg",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Healthy Software Developer",
+      "url": "https://www.youtube.com/channel/UCfe_znKY1ukrqlGActlFmaQ",
+      "channel_id": "UCfe_znKY1ukrqlGActlFmaQ",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Python Programmer",
+      "url": "https://www.youtube.com/user/consumerchampion",
+      "channel_id": "@consumerchampion",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "GOTO Conferences",
+      "url": "https://www.youtube.com/user/GotoConferences",
+      "channel_id": "@GotoConferences",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Eddie Jaoude",
+      "url": "https://www.youtube.com/user/eddiejaoude",
+      "channel_id": "@eddiejaoude",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Christopher Okhravi",
+      "url": "https://www.youtube.com/channel/UCbF-4yQQAWw-UnuCd2Azfzg",
+      "channel_id": "UCbF-4yQQAWw-UnuCd2Azfzg",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://www.youtube.com/user/github",
+      "channel_id": "@github",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "GitHub Training & Guides",
+      "url": "https://youtube.com/user/GitHubGuides",
+      "channel_id": "@GitHubGuides",
+      "language": "English",
+      "category": "Informational"
+    },
+    {
+      "name": "Coding Garden With CJ",
+      "url": "https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw",
+      "channel_id": "UCLNgu_OupwoeESgtab33CCw",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "The Coding Train",
+      "url": "https://www.youtube.com/user/shiffman",
+      "channel_id": "@shiffman",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Bisqwit",
+      "url": "https://www.youtube.com/user/Bisqwit",
+      "channel_id": "@Bisqwit",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Lets Build That App",
+      "url": "https://www.youtube.com/channel/UCuP2vJ6kRutQBfRmdcI92mA",
+      "channel_id": "UCuP2vJ6kRutQBfRmdcI92mA",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Andreas Kling",
+      "url": "https://www.youtube.com/channel/UC3ts8coMP645hZw9JSD3pqQ",
+      "channel_id": "UC3ts8coMP645hZw9JSD3pqQ",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "commaai archive",
+      "url": "https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg",
+      "channel_id": "UCwgKmJM4ZJQRJ-U5NjvR2dg",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Adam Wathan",
+      "url": "https://www.youtube.com/channel/UCy1H38XrN7hi7wHSClfXPqQ",
+      "channel_id": "UCy1H38XrN7hi7wHSClfXPqQ",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Alexander Alemayhu",
+      "url": "https://www.youtube.com/channel/UCumJa0eRO9_xtEsoAt3UCkQ",
+      "channel_id": "UCumJa0eRO9_xtEsoAt3UCkQ",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Jon Gjengset",
+      "url": "https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ",
+      "channel_id": "UC_iD0xppBwwsrM9DegC5cQQ",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "anthonywritescode",
+      "url": "https://www.youtube.com/channel/UC46xhU1EH7aywEgvA9syS3w",
+      "channel_id": "UC46xhU1EH7aywEgvA9syS3w",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "More live w/ René Rebe",
+      "url": "https://www.youtube.com/channel/UCAD-xOOaUI6N7Uq9laOVbcw",
+      "channel_id": "UCAD-xOOaUI6N7Uq9laOVbcw",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Bits & more by René Rebe",
+      "url": "https://www.youtube.com/user/renerebe",
+      "channel_id": "@renerebe",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Tim Ermilov",
+      "url": "https://www.youtube.com/channel/UCPkKhlR0sXtN5hlB228xuTg",
+      "channel_id": "UCPkKhlR0sXtN5hlB228xuTg",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Tim Morgan",
+      "url": "https://www.youtube.com/channel/UCgWip0vxtqu34rZrFeCpUow",
+      "channel_id": "UCgWip0vxtqu34rZrFeCpUow",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Jack Herrington",
+      "url": "https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw",
+      "channel_id": "UC6vRUjYqDuoUsYsku86Lrsw",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Andrew Kelly",
+      "url": "https://www.youtube.com/channel/UCUICU6mgcyGy61pojwuWyHA",
+      "channel_id": "UCUICU6mgcyGy61pojwuWyHA",
+      "language": "English",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Brackeys",
+      "url": "https://www.youtube.com/user/Brackeys",
+      "channel_id": "@Brackeys",
+      "language": "English",
+      "category": "Game Development"
+    },
+    {
+      "name": "Dani",
+      "url": "https://www.youtube.com/channel/UCIabPXjvT5BVTxRDPCBBOOQ",
+      "channel_id": "UCIabPXjvT5BVTxRDPCBBOOQ",
+      "language": "English",
+      "category": "Game Development"
+    },
+    {
+      "name": "Gamefromscratch",
+      "url": "https://www.youtube.com/user/gamefromscratch",
+      "channel_id": "@gamefromscratch",
+      "language": "English",
+      "category": "Game Development"
+    },
+    {
+      "name": "Jonas Tyroller",
+      "url": "https://www.youtube.com/channel/UC_p_9arduPuxM8DHTGIuSOg",
+      "channel_id": "UC_p_9arduPuxM8DHTGIuSOg",
+      "language": "English",
+      "category": "Game Development"
+    },
+    {
+      "name": "Blackthornprod",
+      "url": "https://www.youtube.com/channel/UC9Z1XWw1kmnvOOFsj6Bzy2g",
+      "channel_id": "UC9Z1XWw1kmnvOOFsj6Bzy2g",
+      "language": "English",
+      "category": "Game Development"
+    },
+    {
+      "name": "Snoman Gaming",
+      "url": "https://www.youtube.com/user/snomangaming",
+      "channel_id": "@snomangaming",
+      "language": "English",
+      "category": "Game Development"
+    },
+    {
+      "name": "GDC",
+      "url": "https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ",
+      "channel_id": "UC0JB7TSe49lg56u6qH8y_MQ",
+      "language": "English",
+      "category": "Game Development"
+    },
+    {
+      "name": "Awesome Tuts",
+      "url": "https://www.youtube.com/channel/UC5c-DuzPdH9iaWYdI0v0uzw",
+      "channel_id": "UC5c-DuzPdH9iaWYdI0v0uzw",
+      "language": "English",
+      "category": "Game Development"
+    },
+    {
+      "name": "Game Dev Underground",
+      "url": "https://www.youtube.com/channel/UC_hwKJdF3KRAy4QIaiCSMgQ",
+      "channel_id": "UC_hwKJdF3KRAy4QIaiCSMgQ",
+      "language": "English",
+      "category": "Game Development"
+    },
+    {
+      "name": "ThinMatrix",
+      "url": "https://www.youtube.com/user/ThinMatrix",
+      "channel_id": "@ThinMatrix",
+      "language": "English",
+      "category": "Game Development"
+    },
+    {
+      "name": "Molly Rocket",
+      "url": "https://www.youtube.com/user/handmadeheroarchive",
+      "channel_id": "@handmadeheroarchive",
+      "language": "English",
+      "category": "Game Development"
+    },
+    {
+      "name": "Hopson",
+      "url": "https://www.youtube.com/channel/UCeQhZOvNKSBRU0Mdg7V44wA",
+      "channel_id": "UCeQhZOvNKSBRU0Mdg7V44wA",
+      "language": "English",
+      "category": "Game Development"
+    },
+    {
+      "name": "GDQuest",
+      "url": "https://www.youtube.com/channel/UCxboW7x0jZqFdvMdCFKTMsQ",
+      "channel_id": "UCxboW7x0jZqFdvMdCFKTMsQ",
+      "language": "English",
+      "category": "Game Development"
+    },
+    {
+      "name": "Randy",
+      "url": "https://www.youtube.com/c/RandallThomas",
+      "channel_id": "@RandallThomas",
+      "language": "English",
+      "category": "Game Development"
+    },
+    {
+      "name": "Michael Reeves",
+      "url": "https://www.youtube.com/channel/UCtHaxi4GTYDpJgMSGy7AeSw/featured",
+      "channel_id": "UCtHaxi4GTYDpJgMSGy7AeSw",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "Jabrils",
+      "url": "https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg",
+      "channel_id": "UCQALLeQPoZdZC4JNUboVEUg",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "Will Kwan",
+      "url": "https://www.youtube.com/channel/UCTjPBE9BNsmv44wgxWEy2zw",
+      "channel_id": "UCTjPBE9BNsmv44wgxWEy2zw",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "Code Bullet",
+      "url": "https://www.youtube.com/channel/UC0e3QhIYukixgh5VVpKHH9Q",
+      "channel_id": "UC0e3QhIYukixgh5VVpKHH9Q",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "CodeParade",
+      "url": "https://www.youtube.com/channel/UCrv269YwJzuZL3dH5PCgxUw",
+      "channel_id": "UCrv269YwJzuZL3dH5PCgxUw",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "Gyasi Linje",
+      "url": "https://www.youtube.com/user/ASEgG100",
+      "channel_id": "@ASEgG100",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "Kalle Hallden",
+      "url": "https://www.youtube.com/channel/UCWr0mx597DnSGLFk1WfvSkQ",
+      "channel_id": "UCWr0mx597DnSGLFk1WfvSkQ",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "Edward Sa",
+      "url": "https://www.youtube.com/user/IngeniousEdits",
+      "channel_id": "@IngeniousEdits",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "Paola from TOKYO",
+      "url": "https://www.youtube.com/channel/UCixD9UbKvDxzGNiPC_fgHyA",
+      "channel_id": "UCixD9UbKvDxzGNiPC_fgHyA",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "Life of Luba",
+      "url": "https://www.youtube.com/channel/UCgzKCeDYLRzPhQ64R6AKyBQ",
+      "channel_id": "UCgzKCeDYLRzPhQ64R6AKyBQ",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "Socratica",
+      "url": "https://www.youtube.com/user/SocraticaStudios",
+      "channel_id": "@SocraticaStudios",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "LiveOverflow",
+      "url": "https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w",
+      "channel_id": "UClcE-kVhqyiHCcjYwcpfj9w",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "Jarvis Johnson",
+      "url": "https://www.youtube.com/user/VSympathyV",
+      "channel_id": "@VSympathyV",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "harshibar",
+      "url": "https://www.youtube.com/channel/UCsp_z4KR3dOczXw7Q-SPqQg",
+      "channel_id": "UCsp_z4KR3dOczXw7Q-SPqQg",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "Tren Black",
+      "url": "https://www.youtube.com/channel/UCSSBvqWNPq_qO3_W4EJiOAA",
+      "channel_id": "UCSSBvqWNPq_qO3_W4EJiOAA",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "Jarvis Johnson! GOLD",
+      "url": "https://www.youtube.com/channel/UCR1PVwrPjpz0U_Fbju-BAzQ",
+      "channel_id": "UCR1PVwrPjpz0U_Fbju-BAzQ",
+      "language": "English",
+      "category": "Software Entertainment"
+    },
+    {
+      "name": "Gaurav Sen",
+      "url": "https://www.youtube.com/channel/UCRPMAqdtSgd0Ipeef7iFsKw",
+      "channel_id": "UCRPMAqdtSgd0Ipeef7iFsKw",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Errichto",
+      "url": "https://www.youtube.com/channel/UCBr_Fu6q9iHYQCh13jmpbrg",
+      "channel_id": "UCBr_Fu6q9iHYQCh13jmpbrg",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Errichto 2",
+      "url": "https://www.youtube.com/channel/UC2D_ekI79trchAxgRq5mwpQ",
+      "channel_id": "UC2D_ekI79trchAxgRq5mwpQ",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Rachit Jain",
+      "url": "https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ",
+      "channel_id": "UC9fDC_eBh9e_bogw87DbGKQ",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Algorithms Live",
+      "url": "https://www.youtube.com/channel/UCBLr7ISa_YDy5qeATupf26w",
+      "channel_id": "UCBLr7ISa_YDy5qeATupf26w",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Code NCode",
+      "url": "https://www.youtube.com/channel/UC0zvY3yIBQTrSutsV-4yscQ",
+      "channel_id": "UC0zvY3yIBQTrSutsV-4yscQ",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Go Code",
+      "url": "https://www.youtube.com/channel/UCoEt3glB4rWSq5zEhSGhUWA",
+      "channel_id": "UCoEt3glB4rWSq5zEhSGhUWA",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "mycodeschool",
+      "url": "https://www.youtube.com/channel/UClEEsT7DkdVO_fkrBw0OTrA",
+      "channel_id": "UClEEsT7DkdVO_fkrBw0OTrA",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "code_report",
+      "url": "https://www.youtube.com/channel/UC1kBxkk2bcG78YBX7LMl9pQ",
+      "channel_id": "UC1kBxkk2bcG78YBX7LMl9pQ",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "VPlanet",
+      "url": "https://www.youtube.com/channel/UCdNNY8Y8meG3z9Wy6MTzcLg",
+      "channel_id": "UCdNNY8Y8meG3z9Wy6MTzcLg",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "interviewing.io",
+      "url": "https://www.youtube.com/channel/UCNc-Wa_ZNBAGzFkYbAHw9eg",
+      "channel_id": "UCNc-Wa_ZNBAGzFkYbAHw9eg",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Petr Mitrichev",
+      "url": "https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA",
+      "channel_id": "UCdmeooqNtlN7IhrKlq7hGDA",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "abrar",
+      "url": "https://www.youtube.com/channel/UCAjsH3UCJrd-xAfUBsB-dOg",
+      "channel_id": "UCAjsH3UCJrd-xAfUBsB-dOg",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "umnik_team",
+      "url": "https://www.youtube.com/channel/UC3-pkjZ8-D4aW8QfaExuMjw",
+      "channel_id": "UC3-pkjZ8-D4aW8QfaExuMjw",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Jakub Tarnawski",
+      "url": "https://www.youtube.com/channel/UCfIh0OerrbEQpZGPq4jjJrQ",
+      "channel_id": "UCfIh0OerrbEQpZGPq4jjJrQ",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Mikhail Tikhomirov",
+      "url": "https://www.youtube.com/channel/UC9LLwpFiNE6fn9PEYtHpOZA",
+      "channel_id": "UC9LLwpFiNE6fn9PEYtHpOZA",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Bohdan Pryshchenko",
+      "url": "https://www.youtube.com/channel/UCWqqnonyL7aVeUYl5Yp8TrQ",
+      "channel_id": "UCWqqnonyL7aVeUYl5Yp8TrQ",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Kevin Naughton Jr.",
+      "url": "https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g",
+      "channel_id": "UCKvwPt6BifPP54yzH99ff1g",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Nick White",
+      "url": "https://www.youtube.com/channel/UC1fLEeYICmo3O9cUsqIi7HA",
+      "channel_id": "UC1fLEeYICmo3O9cUsqIi7HA",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Keep On Coding",
+      "url": "https://www.youtube.com/channel/UCsLo154Krjwhoz8W00N8ItA",
+      "channel_id": "UCsLo154Krjwhoz8W00N8ItA",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Anthony Sistilli",
+      "url": "https://www.youtube.com/channel/UCoYzQqZNCRqqAomJwJ6yEdg",
+      "channel_id": "UCoYzQqZNCRqqAomJwJ6yEdg",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Tech Dummies - Narendra L",
+      "url": "https://www.youtube.com/channel/UCn1XnDWhsLS5URXTi5wtFTA",
+      "channel_id": "UCn1XnDWhsLS5URXTi5wtFTA",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "Jackson Gabbard",
+      "url": "https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ",
+      "channel_id": "UCcdCkJKXlRoXVD03eo-q8mQ",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "WilliamFiset",
+      "url": "https://www.youtube.com/channel/UCD8yeTczadqdARzQUp29PJw",
+      "channel_id": "UCD8yeTczadqdARzQUp29PJw",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "William Lin",
+      "url": "https://www.youtube.com/channel/UCKuDLsO0Wwef53qdHPjbU2Q",
+      "channel_id": "UCKuDLsO0Wwef53qdHPjbU2Q",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "takeUforward",
+      "url": "https://www.youtube.com/channel/UCJskGeByzRRSvmOyZOz61ig",
+      "channel_id": "UCJskGeByzRRSvmOyZOz61ig",
+      "language": "English",
+      "category": "Competitive Programming And Interview Preparation"
+    },
+    {
+      "name": "StatQuest with Josh Starmer",
+      "url": "https://www.youtube.com/channel/UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "channel_id": "UCtYLUTtgS3k1Fg4y5tAhLbw",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Artificial Intelligence - All in One",
+      "url": "https://www.youtube.com/channel/UC5zx8Owijmv-bbhAK6Z9apg",
+      "channel_id": "UC5zx8Owijmv-bbhAK6Z9apg",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "sentdex",
+      "url": "https://www.youtube.com/user/sentdex",
+      "channel_id": "@sentdex",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Siraj Raval",
+      "url": "https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A",
+      "channel_id": "UCWN3xxRkmTPmbKwht9FuE5A",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Welch Labs",
+      "url": "https://www.youtube.com/user/Taylorns34",
+      "channel_id": "@Taylorns34",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Data School",
+      "url": "https://www.youtube.com/user/dataschool",
+      "channel_id": "@dataschool",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Two Minute Papers",
+      "url": "https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg",
+      "channel_id": "UCbfYPyITQ-7l4upoX8nvctg",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Lex Fridman",
+      "url": "https://www.youtube.com/user/lexfridman",
+      "channel_id": "@lexfridman",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Henry AI Labs",
+      "url": "https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw",
+      "channel_id": "UCHB9VepY6kYvZjj0Bgxnpbw",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "ArXiv Insights",
+      "url": "https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg",
+      "channel_id": "UCNIkB2IeJ-6AmZv7bQ1oBYg",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Yannic Kilcher",
+      "url": "https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew/featured",
+      "channel_id": "UCZHmQk67mSJgfCCTn7xBfew",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Kaggle",
+      "url": "https://www.youtube.com/channel/UCSNeZleDn9c74yQc-EKnVTA",
+      "channel_id": "UCSNeZleDn9c74yQc-EKnVTA",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "DeepMind",
+      "url": "https://www.youtube.com/channel/UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "channel_id": "UCP7jMXSY2xbc3KCAE0MHQ-A",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "TensorFlow",
+      "url": "http://www.youtube.com/channel/UC0rqucBdTuFTjJiefW5t-IQ",
+      "channel_id": "UC0rqucBdTuFTjJiefW5t-IQ",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "The Artificial Intelligence Channel",
+      "url": "http://www.youtube.com/user/Maaaarth",
+      "channel_id": "@Maaaarth",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "MITCSAIL",
+      "url": "http://www.youtube.com/user/MITCSAIL",
+      "channel_id": "@MITCSAIL",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Applied AI Course",
+      "url": "http://www.youtube.com/channel/UCJINtWke3-FMz2WuEltWDVQ",
+      "channel_id": "UCJINtWke3-FMz2WuEltWDVQ",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Robert Miles",
+      "url": "https://www.youtube.com/channel/UCLB7AzTwc6VFZrBsO2ucBMg",
+      "channel_id": "UCLB7AzTwc6VFZrBsO2ucBMg",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "MLAIT",
+      "url": "https://www.youtube.com/c/MLAIT",
+      "channel_id": "@MLAIT",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Jabrils",
+      "url": "https://www.youtube.com/channel/UCQALLeQPoZdZC4JNUboVEUg",
+      "channel_id": "UCQALLeQPoZdZC4JNUboVEUg",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "SethBling",
+      "url": "https://www.youtube.com/user/sethbling",
+      "channel_id": "@sethbling",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Jeremy Howard",
+      "url": "https://www.youtube.com/user/howardjeremyp",
+      "channel_id": "@howardjeremyp",
+      "language": "English",
+      "category": "Artificial Intelligence and Machine Learning"
+    },
+    {
+      "name": "Python Engineer",
+      "url": "https://www.youtube.com/channel/UCbXgNpp0jedKWcQiULLbDTA",
+      "channel_id": "UCbXgNpp0jedKWcQiULLbDTA",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Faraday Academy",
+      "url": "https://www.youtube.com/channel/UCxA99Yr6P_tZF9_BgtMGAWA",
+      "channel_id": "UCxA99Yr6P_tZF9_BgtMGAWA",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Ricky Garcia",
+      "url": "https://www.youtube.com/channel/UCul78U9NKBYHyqnhQfqUXmg",
+      "channel_id": "UCul78U9NKBYHyqnhQfqUXmg",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Pentacode",
+      "url": "https://www.youtube.com/channel/UCJtWu3jKkIXiY3WUBb7qwpw",
+      "channel_id": "UCJtWu3jKkIXiY3WUBb7qwpw",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Dev Coffee",
+      "url": "https://www.youtube.com/channel/UCqr-7GDVTsdNBCeufvERYuw",
+      "channel_id": "UCqr-7GDVTsdNBCeufvERYuw",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Coding Commanders",
+      "url": "https://www.youtube.com/channel/UC-gCUMK_EGUqJ7P9VA7BJmQ",
+      "channel_id": "UC-gCUMK_EGUqJ7P9VA7BJmQ",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Classed",
+      "url": "https://www.youtube.com/channel/UC2-slOJImuSc20Drbf88qvg",
+      "channel_id": "UC2-slOJImuSc20Drbf88qvg",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Julio Codes",
+      "url": "https://www.youtube.com/channel/UCeHWTyAKBv_WnW8gsEKGECw",
+      "channel_id": "UCeHWTyAKBv_WnW8gsEKGECw",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Nevci",
+      "url": "https://www.youtube.com/channel/UCXu-MNRftJzqQNwwzXiLFEQ",
+      "channel_id": "UCXu-MNRftJzqQNwwzXiLFEQ",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "pixelgeek",
+      "url": "https://www.youtube.com/user/thepxlgk",
+      "channel_id": "@thepxlgk",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "KingHerring",
+      "url": "https://www.youtube.com/user/KingHerring",
+      "channel_id": "@KingHerring",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Junio Developer Central",
+      "url": "https://www.youtube.com/channel/UCuvTObpdx__W966kbdIZ4_Q",
+      "channel_id": "UCuvTObpdx__W966kbdIZ4_Q",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Fredrik Christenson",
+      "url": "https://www.youtube.com/user/Fidde12345",
+      "channel_id": "@Fidde12345",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Better Coding Academy",
+      "url": "https://www.youtube.com/channel/UCTD_PLq3KAUwkIIs9fk3pAA",
+      "channel_id": "UCTD_PLq3KAUwkIIs9fk3pAA",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "All things JavaScript, LLC",
+      "url": "https://www.youtube.com/channel/UCRQhZGXC0WK85YRXl7nGX0w",
+      "channel_id": "UCRQhZGXC0WK85YRXl7nGX0w",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Mozilla Developer",
+      "url": "https://www.youtube.com/channel/UCh5UlGiu9d6LegIeUCW4N1w",
+      "channel_id": "UCh5UlGiu9d6LegIeUCW4N1w",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Code Fights",
+      "url": "https://www.youtube.com/channel/UCguGla6efsie6Q9tJ9XTH6w",
+      "channel_id": "UCguGla6efsie6Q9tJ9XTH6w",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Friendly Developer",
+      "url": "https://www.youtube.com/channel/UCnP3YHDoGLxkOyVWpMOHnmw",
+      "channel_id": "UCnP3YHDoGLxkOyVWpMOHnmw",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Tyler Potts",
+      "url": "https://www.youtube.com/channel/UCBBGM84ZOs7z5jpTQAaZ_Hg",
+      "channel_id": "UCBBGM84ZOs7z5jpTQAaZ_Hg",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "The Renegade Coder",
+      "url": "https://www.youtube.com/channel/UCpyoVwOqYRlSAEUPEn7P9hw",
+      "channel_id": "UCpyoVwOqYRlSAEUPEn7P9hw",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Chill and Hack with Joel",
+      "url": "https://www.youtube.com/channel/UCmLNckliLBW_42UWGD9ITxQ",
+      "channel_id": "UCmLNckliLBW_42UWGD9ITxQ",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "DevHoot",
+      "url": "https://www.youtube.com/channel/UCV-F9TgeC_bSEdHH9qDfqXw",
+      "channel_id": "UCV-F9TgeC_bSEdHH9qDfqXw",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "CodeColony",
+      "url": "https://www.youtube.com/channel/UCGH2M3sQCx-7JDbvjvjThFA",
+      "channel_id": "UCGH2M3sQCx-7JDbvjvjThFA",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Leigh Halliday",
+      "url": "https://www.youtube.com/channel/UCWPY8W-FAZ2HdDiJp2RC_sQ",
+      "channel_id": "UCWPY8W-FAZ2HdDiJp2RC_sQ",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Nick Chapsas",
+      "url": "https://www.youtube.com/user/ElfocrashDev",
+      "channel_id": "@ElfocrashDev",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Romanian Coder",
+      "url": "https://www.youtube.com/channel/UCgj2iw9vh5eX50YvKFZnpbw",
+      "channel_id": "UCgj2iw9vh5eX50YvKFZnpbw",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Adrian Twarog",
+      "url": "https://www.youtube.com/channel/UCvM5YYWwfLwpcQgbRr68JLQ/featured",
+      "channel_id": "UCvM5YYWwfLwpcQgbRr68JLQ",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "7Sharp9",
+      "url": "https://www.youtube.com/channel/UC0kXc1f_WBYSklrElcPWzgg",
+      "channel_id": "UC0kXc1f_WBYSklrElcPWzgg",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Full Stack Amigo",
+      "url": "https://www.youtube.com/channel/UCPhwmUt3D2eyZW_hRlKhkHQ",
+      "channel_id": "UCPhwmUt3D2eyZW_hRlKhkHQ",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Kelvin Mai",
+      "url": "https://www.youtube.com/channel/UCUSpT2b4x2Bq3RcAAg4hFng",
+      "channel_id": "UCUSpT2b4x2Bq3RcAAg4hFng",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "React Tutorial",
+      "url": "https://www.youtube.com/channel/UC9cRN7SY-wtngLuAXmx_8VQ",
+      "channel_id": "UC9cRN7SY-wtngLuAXmx_8VQ",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "TheDevWay",
+      "url": "https://www.youtube.com/channel/UC76ftuGpHJnEtsEBefT4YUQ",
+      "channel_id": "UC76ftuGpHJnEtsEBefT4YUQ",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Recoding",
+      "url": "https://www.youtube.com/channel/UCnhsNyu4bdDxuW1TT3hg-pg",
+      "channel_id": "UCnhsNyu4bdDxuW1TT3hg-pg",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Vuelancer",
+      "url": "https://www.youtube.com/channel/UC0hmXRqXYVO0mocVt5D3GkQ",
+      "channel_id": "UC0hmXRqXYVO0mocVt5D3GkQ",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Nick Janetakis",
+      "url": "https://www.youtube.com/NickJanetakis",
+      "channel_id": "@NickJanetakis",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Code Mortals",
+      "url": "https://www.youtube.com/codemortals",
+      "channel_id": "@codemortals",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "veryacademy",
+      "url": "https://www.youtube.com/veryacademy/",
+      "channel_id": "@veryacademy",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Ashutosh Tiwari",
+      "url": "https://www.youtube.com/channel/UC3VAed5huwZHOaE3q-Ap8qg",
+      "channel_id": "UC3VAed5huwZHOaE3q-Ap8qg",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Coding Artist",
+      "url": "https://www.youtube.com/channel/UC15exV5s79D_aYGADudlwpQ",
+      "channel_id": "UC15exV5s79D_aYGADudlwpQ",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "heyitsbecky",
+      "url": "https://www.youtube.com/channel/UCX7jTPSHTm4J3ZjSZxm5RrQ",
+      "channel_id": "UCX7jTPSHTm4J3ZjSZxm5RrQ",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Inside code",
+      "url": "https://www.youtube.com/channel/UCvLEP7Hu6SHd5a2CWeQXalg",
+      "channel_id": "UCvLEP7Hu6SHd5a2CWeQXalg",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "James Q Quick",
+      "url": "https://www.youtube.com/channel/UC-T8W79DN6PBnzomelvqJYw",
+      "channel_id": "UC-T8W79DN6PBnzomelvqJYw",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Manan Gouhari",
+      "url": "https://www.youtube.com/channel/UCrM5WHtPD4OEQ1hcpvN9WDQ",
+      "channel_id": "UCrM5WHtPD4OEQ1hcpvN9WDQ",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "ProgrammingWithHarry",
+      "url": "https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ",
+      "channel_id": "UC7btqG2Ww0_2LwuQxpvo2HQ",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Rahul Ahire",
+      "url": "https://www.youtube.com/channel/UCMf5xoyJRUxvpqlXw3KQpaw",
+      "channel_id": "UCMf5xoyJRUxvpqlXw3KQpaw",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Tanay Pratap",
+      "url": "https://www.youtube.com/channel/UCNFmBuclxQPe57orKiQbyfA",
+      "channel_id": "UCNFmBuclxQPe57orKiQbyfA",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "The Nerdy Dev",
+      "url": "https://www.youtube.com/channel/UCWWRLPeMNMeDhpfE7R6qCyw",
+      "channel_id": "UCWWRLPeMNMeDhpfE7R6qCyw",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "{TheSourceCode}",
+      "url": "https://www.youtube.com/channel/UCNXt2MrZaqfIBknamqwzeXA",
+      "channel_id": "UCNXt2MrZaqfIBknamqwzeXA",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Yahoo Baba",
+      "url": "https://www.youtube.com/channel/UCuT0rj__qEq_ZO3kYwun4Qg",
+      "channel_id": "UCuT0rj__qEq_ZO3kYwun4Qg",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "veryacademy",
+      "url": "https://www.youtube.com/veryacademy/",
+      "channel_id": "@veryacademy",
+      "language": "English",
+      "category": "Up And Coming"
+    },
+    {
+      "name": "Brackeys",
+      "url": "https://www.youtube.com/user/Brackeys",
+      "channel_id": "@Brackeys",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Tushar Roy- Coding Made Simple",
+      "url": "https://www.youtube.com/user/tusharroy2525",
+      "channel_id": "@tusharroy2525",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Adam Khoury",
+      "url": "https://www.youtube.com/user/flashbuilding",
+      "channel_id": "@flashbuilding",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "DevMarketer",
+      "url": "https://www.youtube.com/channel/UC6kwT7-jjZHHF1s7vCfg2CA",
+      "channel_id": "UC6kwT7-jjZHHF1s7vCfg2CA",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Dave Xiang",
+      "url": "https://www.youtube.com/user/daveXbang",
+      "channel_id": "@daveXbang",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Sylvester Morgan",
+      "url": "https://www.youtube.com/channel/UCVj_s6XbQcwlRMZjeO_7QSw",
+      "channel_id": "UCVj_s6XbQcwlRMZjeO_7QSw",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Devon Crawford",
+      "url": "https://www.youtube.com/channel/UCDrekHmOnkptxq3gUU0IyfA",
+      "channel_id": "UCDrekHmOnkptxq3gUU0IyfA",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Devlob",
+      "url": "https://www.youtube.com/user/codexecutable",
+      "channel_id": "@codexecutable",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Learn Coding Tutorials",
+      "url": "https://www.youtube.com/channel/UC8Szh5ZJeGFBWyqKyTCVPpA",
+      "channel_id": "UC8Szh5ZJeGFBWyqKyTCVPpA",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Code Insights",
+      "url": "https://www.youtube.com/user/c0deporn",
+      "channel_id": "@c0deporn",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Aaron in Beta",
+      "url": "https://www.youtube.com/channel/UCXym52jGe7cb5deJRWM3paw",
+      "channel_id": "UCXym52jGe7cb5deJRWM3paw",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Michael Thomas",
+      "url": "https://www.youtube.com/channel/UC8-6qIUsHCybEn1f9OxSE4Q",
+      "channel_id": "UC8-6qIUsHCybEn1f9OxSE4Q",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Stephen Mayeux",
+      "url": "https://www.youtube.com/user/MrSteveMayeux",
+      "channel_id": "@MrSteveMayeux",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "StartHereFm",
+      "url": "https://www.youtube.com/channel/UCZHWAv6OKOmpe7vwmZn5bCg",
+      "channel_id": "UCZHWAv6OKOmpe7vwmZn5bCg",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Plavookac",
+      "url": "https://www.youtube.com/channel/UCDfZM0IK6RBgud8HYGFXAJg",
+      "channel_id": "UCDfZM0IK6RBgud8HYGFXAJg",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "PB Coding",
+      "url": "https://www.youtube.com/channel/UCKYJJA7nYEu6HfVwmje3YXQ",
+      "channel_id": "UCKYJJA7nYEu6HfVwmje3YXQ",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Bootstrap Studio",
+      "url": "https://www.youtube.com/channel/UCSYIIy89n_Do4Rbyyqa7FeQ",
+      "channel_id": "UCSYIIy89n_Do4Rbyyqa7FeQ",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Tyler Moore",
+      "url": "https://www.youtube.com/user/Conutant",
+      "channel_id": "@Conutant",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Joseph Smith",
+      "url": "https://www.youtube.com/user/TheHelpingDevelop",
+      "channel_id": "@TheHelpingDevelop",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Naveed Ziarab",
+      "url": "https://www.youtube.com/user/Creativitytuts",
+      "channel_id": "@Creativitytuts",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "I hate tomatoes",
+      "url": "https://www.youtube.com/user/ihatetomatoesblog",
+      "channel_id": "@ihatetomatoesblog",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "GeekLaunch",
+      "url": "https://www.youtube.com/channel/UCPXyziOUs7oglOtmCPhFSKQ/videos",
+      "channel_id": "UCPXyziOUs7oglOtmCPhFSKQ",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Meth Meth Method",
+      "url": "https://www.youtube.com/channel/UC8A0M0eDttdB11MHxX58vXQ/videos",
+      "channel_id": "UC8A0M0eDttdB11MHxX58vXQ",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "howCode",
+      "url": "https://www.youtube.com/user/CreatiiveCode/videos",
+      "channel_id": "@CreatiiveCode",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Thomas Bradley",
+      "url": "https://www.youtube.com/user/acinteractivedesign/videos",
+      "channel_id": "@acinteractivedesign",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "JustForFunc",
+      "url": "https://www.youtube.com/channel/UC_BzFbxG2za3bp5NRRRXJSw",
+      "channel_id": "UC_BzFbxG2za3bp5NRRRXJSw",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Coding Math",
+      "url": "https://www.youtube.com/user/codingmath",
+      "channel_id": "@codingmath",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "BBarters",
+      "url": "https://www.youtube.com/channel/UCFlzHaNC_YJTIRoXbx6zfrA",
+      "channel_id": "UCFlzHaNC_YJTIRoXbx6zfrA",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Brent Aureli's - Code School",
+      "url": "https://www.youtube.com/user/Profyx",
+      "channel_id": "@Profyx",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Cave of Programming",
+      "url": "https://www.youtube.com/user/caveofprogramming",
+      "channel_id": "@caveofprogramming",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Mike Dane",
+      "url": "https://www.youtube.com/channel/UCvmINlrza7JHB1zkIOuXEbw",
+      "channel_id": "UCvmINlrza7JHB1zkIOuXEbw",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Code Artistry",
+      "url": "https://www.youtube.com/channel/UC-kHm7pG884IYQiYwqJWv9A/videos",
+      "channel_id": "UC-kHm7pG884IYQiYwqJWv9A",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "Coders Hub",
+      "url": "https://www.youtube.com/channel/UCIDlA0FJcpqJHELzdelFAWg/videos",
+      "channel_id": "UCIDlA0FJcpqJHELzdelFAWg",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "FlutterDeveloper",
+      "url": "https://www.youtube.com/channel/UCa-t2GBQ4UcbDi4vIIwagDg/videos",
+      "channel_id": "UCa-t2GBQ4UcbDi4vIIwagDg",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "mycodeschool",
+      "url": "https://www.youtube.com/user/mycodeschool/featured",
+      "channel_id": "@mycodeschool",
+      "language": "English",
+      "category": "Retired"
+    },
+    {
+      "name": "webDev",
+      "url": "https://www.youtube.com/channel/UCE9ODjNIkOHrnSdkYWLfYhg",
+      "channel_id": "UCE9ODjNIkOHrnSdkYWLfYhg",
+      "language": "Russian",
+      "category": "Web Development"
+    },
+    {
+      "name": "Владилен Минин",
+      "url": "https://www.youtube.com/channel/UCg8ss4xW9jASrqWGP30jXiw",
+      "channel_id": "UCg8ss4xW9jASrqWGP30jXiw",
+      "language": "Russian",
+      "category": "Web Development"
+    },
+    {
+      "name": "Loftblog",
+      "url": "https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA",
+      "channel_id": "UCIIt69f5D44s2cdb9vXQNzA",
+      "language": "Russian",
+      "category": "Web Development"
+    },
+    {
+      "name": "Гоша Дударь",
+      "url": "https://www.youtube.com/channel/UCvuY904el7JvBlPbdqbfguw",
+      "channel_id": "UCvuY904el7JvBlPbdqbfguw",
+      "language": "Russian",
+      "category": "Web Development"
+    },
+    {
+      "name": "Glo Academy",
+      "url": "https://www.youtube.com/channel/UCVswRUcKC-M35RzgPRv8qUg",
+      "channel_id": "UCVswRUcKC-M35RzgPRv8qUg",
+      "language": "Russian",
+      "category": "Web Development"
+    },
+    {
+      "name": "Senior Software Vlogger",
+      "url": "https://www.youtube.com/channel/UCX3w3jB05SHLbGjZPR0PM6g",
+      "channel_id": "UCX3w3jB05SHLbGjZPR0PM6g",
+      "language": "Russian",
+      "category": "Web Development"
+    },
+    {
+      "name": "DKA-DEVELOP",
+      "url": "https://www.youtube.com/channel/UCWdmR3tpvXkzubAZugUQLdw",
+      "channel_id": "UCWdmR3tpvXkzubAZugUQLdw",
+      "language": "Russian",
+      "category": "Web Development"
+    },
+    {
+      "name": "MakeWeb.me",
+      "url": "https://www.youtube.com/channel/UCt36CWL85NGtOgUMZ2X6x5g",
+      "channel_id": "UCt36CWL85NGtOgUMZ2X6x5g",
+      "language": "Russian",
+      "category": "Web Development"
+    },
+    {
+      "name": "Типичный Верстальщик • Анна Блок",
+      "url": "https://www.youtube.com/channel/UCn5wduCq2Mus0v85QZn9IaA/featured",
+      "channel_id": "UCn5wduCq2Mus0v85QZn9IaA",
+      "language": "Russian",
+      "category": "Web Development"
+    },
+    {
+      "name": "ExtremeCode",
+      "url": "https://www.youtube.com/channel/UCBNlINWfd08qgDkUTaUY4_w",
+      "channel_id": "UCBNlINWfd08qgDkUTaUY4_w",
+      "language": "Russian",
+      "category": "Web Development"
+    },
+    {
+      "name": "Sorax",
+      "url": "https://www.youtube.com/user/ArtSorax",
+      "channel_id": "@ArtSorax",
+      "language": "Russian",
+      "category": "Web Development"
+    },
+    {
+      "name": "w23",
+      "url": "https://www.youtube.com/user/floba23",
+      "channel_id": "@floba23",
+      "language": "Russian",
+      "category": "Web Development"
+    },
+    {
+      "name": "Yuri Artyukh",
+      "url": "https://www.youtube.com/channel/UCDo7RTzizoOdPjY8A-xDR7g",
+      "channel_id": "UCDo7RTzizoOdPjY8A-xDR7g",
+      "language": "Russian",
+      "category": "Web Development"
+    },
+    {
+      "name": "Aida Drogan #BlondieCode",
+      "url": "https://www.youtube.com/channel/UCSsg9NLCse2XQCIRgfmJu3Q",
+      "channel_id": "UCSsg9NLCse2XQCIRgfmJu3Q",
+      "language": "Russian",
+      "category": "Web Development"
+    },
+    {
+      "name": "Mentorsadda",
+      "url": "https://www.youtube.com/user/Mentorsadda",
+      "channel_id": "@Mentorsadda",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "edureka! Hindi",
+      "url": "https://www.youtube.com/channel/UCywyZ4r4FTKExrPl9rf-ggw",
+      "channel_id": "UCywyZ4r4FTKExrPl9rf-ggw",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Websofttutorials",
+      "url": "https://www.youtube.com/user/websofttutorials",
+      "channel_id": "@websofttutorials",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "CodeWithHarry",
+      "url": "https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww",
+      "channel_id": "UCeVMnSShP_Iviwkknt83cww",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Aman Dhattarwal -DSA",
+      "url": "https://www.youtube.com/playlist?list=PLKKfKV1b9e8ps6dD3QA5KFfHdiWj9cB1s",
+      "channel_id": "@playlist",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "C++ by saurabh shukla sir",
+      "url": "https://www.youtube.com/channel/UCD-scAE4ju78dld1kpcsQfQ",
+      "channel_id": "UCD-scAE4ju78dld1kpcsQfQ",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Java by saurabh shukla sir",
+      "url": "https://www.youtube.com/channel/UCGR3vMYA20JJDQvGFccujdA",
+      "channel_id": "UCGR3vMYA20JJDQvGFccujdA",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Free Programmer",
+      "url": "https://www.youtube.com/channel/UC0uT-8UEmS5LtDj4_d51zkQ",
+      "channel_id": "UC0uT-8UEmS5LtDj4_d51zkQ",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Durgasoft solutions",
+      "url": "https://www.youtube.com/user/durgasoftware",
+      "channel_id": "@durgasoftware",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Technical Suneja",
+      "url": "https://www.youtube.com/channel/UCHIbErciyS3Hs0kjAz-at5Q",
+      "channel_id": "UCHIbErciyS3Hs0kjAz-at5Q",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Love Babbar",
+      "url": "https://www.youtube.com/channel/UCQHLxxBFrbfdrk1jF0moTpw",
+      "channel_id": "UCQHLxxBFrbfdrk1jF0moTpw",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Abdul Bari",
+      "url": "https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw",
+      "channel_id": "UCZCFT11CWBi3MHNlGf019nw",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Jenny's lectures CS/IT NET&JRF",
+      "url": "https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w",
+      "channel_id": "UCM-yUTYGmrNvKOCcAl21g3w",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Geeky Shows",
+      "url": "https://www.youtube.com/user/GeekyShow1",
+      "channel_id": "@GeekyShow1",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "KNOWLEDGE GATE",
+      "url": "https://www.youtube.com/channel/UCA6yfpYhy5sWMjRGOT-OAIQ/",
+      "channel_id": "UCA6yfpYhy5sWMjRGOT-OAIQ",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Tutorials Point (India) Ltd.",
+      "url": "https://www.youtube.com/channel/UCVLbzhxVTiTLiVKeGV7WEBg",
+      "channel_id": "UCVLbzhxVTiTLiVKeGV7WEBg",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Bhagwan Singh Vishwakarma",
+      "url": "https://www.youtube.com/channel/UCBmdoqkBaIUh128ffq8XATw",
+      "channel_id": "UCBmdoqkBaIUh128ffq8XATw",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Thapa Technical",
+      "url": "https://www.youtube.com/channel/UCwfaAHy4zQUb2APNOGXUCCA",
+      "channel_id": "UCwfaAHy4zQUb2APNOGXUCCA",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Anuj Bhaiya",
+      "url": "https://www.youtube.com/channel/UC58_wzhvJta3hDSPvRLDAqg",
+      "channel_id": "UC58_wzhvJta3hDSPvRLDAqg",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Yahoo Baba",
+      "url": "https://www.youtube.com/c/YahooBaba",
+      "channel_id": "@YahooBaba",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Website Learners",
+      "url": "https://www.youtube.com/channel/UCpWT_QfKk7BJIpn709YgsYA",
+      "channel_id": "UCpWT_QfKk7BJIpn709YgsYA",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Web dev",
+      "url": "https://www.youtube.com/channel/UCZc238wXqeN2M2uXQaY9MEw",
+      "channel_id": "UCZc238wXqeN2M2uXQaY9MEw",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "ProgrammingWithHarry",
+      "url": "https://www.youtube.com/channel/UC7btqG2Ww0_2LwuQxpvo2HQ",
+      "channel_id": "UC7btqG2Ww0_2LwuQxpvo2HQ",
+      "language": "Hindi",
+      "category": "Web Development"
+    },
+    {
+      "name": "Fatih Acet",
+      "url": "https://www.youtube.com/channel/UCvANtNYHe556zUWm6VzJenQ",
+      "channel_id": "UCvANtNYHe556zUWm6VzJenQ",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Selman Kahya",
+      "url": "https://www.youtube.com/user/SirChintzy/videos",
+      "channel_id": "@SirChintzy",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Datai Team",
+      "url": "https://www.youtube.com/channel/UCMEWGfU36LxVrML21prwUNA",
+      "channel_id": "UCMEWGfU36LxVrML21prwUNA",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Gokay Besken",
+      "url": "https://www.youtube.com/user/gokaybeksen",
+      "channel_id": "@gokaybeksen",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Devnot Tv",
+      "url": "https://www.youtube.com/channel/UCgKcX7YBsGbdLrZQyOKMLQA",
+      "channel_id": "UCgKcX7YBsGbdLrZQyOKMLQA",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Yazılım Bilimi",
+      "url": "https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ",
+      "channel_id": "UCZNZj3mkdCGJfCoKyl4bSYQ",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Guray Yildirim",
+      "url": "https://www.youtube.com/channel/UC0NFIrReZaqFvUfmI4BImOg",
+      "channel_id": "UC0NFIrReZaqFvUfmI4BImOg",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "ProtoTurk",
+      "url": "https://www.youtube.com/user/uzmanvideo",
+      "channel_id": "@uzmanvideo",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Bilgisayar Kavramları",
+      "url": "https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g",
+      "channel_id": "UCkkgrhDCJheXQNIFqUVw0_g",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Emrah Yuksel",
+      "url": "https://www.youtube.com/channel/UC2u9Gc37Rq44dB3mW4Kdi-w",
+      "channel_id": "UC2u9Gc37Rq44dB3mW4Kdi-w",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Engin Demirog",
+      "url": "https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ",
+      "channel_id": "UCRjiquPh4mjPNoOV9eCilXQ",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Code Cube",
+      "url": "https://www.youtube.com/channel/UC-EYPnTYleFrIPT9bpMCbQQ",
+      "channel_id": "UC-EYPnTYleFrIPT9bpMCbQQ",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Makine Ogrenmesi",
+      "url": "https://www.youtube.com/channel/UCvaBuYQM07ZYa4NfZ3hRzvw",
+      "channel_id": "UCvaBuYQM07ZYa4NfZ3hRzvw",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Emrah Oz",
+      "url": "https://www.youtube.com/user/emr550m/",
+      "channel_id": "@emr550m",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Murat Yucedag",
+      "url": "https://www.youtube.com/user/YazilimHerYerde",
+      "channel_id": "@YazilimHerYerde",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Mert Mekatronik",
+      "url": "https://www.youtube.com/channel/UCqMYDjUgPT1Ad-LBQaTtyXA",
+      "channel_id": "UCqMYDjUgPT1Ad-LBQaTtyXA",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Sadik Turan",
+      "url": "https://www.youtube.com/user/sadikturan41",
+      "channel_id": "@sadikturan41",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Istanbul Coders",
+      "url": "https://www.youtube.com/channel/UCnrnk2aCRuFillw5PvDjKjA",
+      "channel_id": "UCnrnk2aCRuFillw5PvDjKjA",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Tarık Güney",
+      "url": "https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA",
+      "channel_id": "UC4I7mk5atVNtFDNI1c8yOWA",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Eser Ozvataf",
+      "url": "https://youtube.com/EserOzvataf",
+      "channel_id": "@EserOzvataf",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Adem Ilter",
+      "url": "https://www.youtube.com/channel/UC1Z-a8i2Ce4oIEMV-S3iFrg",
+      "channel_id": "UC1Z-a8i2Ce4oIEMV-S3iFrg",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Ugur Aktas",
+      "url": "https://www.youtube.com/channel/UCY9swEQhMRJdaMrbehjnHDA",
+      "channel_id": "UCY9swEQhMRJdaMrbehjnHDA",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Burhan Yilmaz",
+      "url": "https://www.youtube.com/channel/UC-CFlBKC97fqPJZcgi5lw2w",
+      "channel_id": "UC-CFlBKC97fqPJZcgi5lw2w",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Devrim Gunduz",
+      "url": "https://www.youtube.com/c/DevrimGunduz/",
+      "channel_id": "@DevrimGunduz",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Fikret Cevik",
+      "url": "https://www.youtube.com/channel/UCDSvN-wCyNjMstH2N4fmROg",
+      "channel_id": "UCDSvN-wCyNjMstH2N4fmROg",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Serif Gungor",
+      "url": "https://www.youtube.com/c/SerifGUNGOR/",
+      "channel_id": "@SerifGUNGOR",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Mehmet Dursun Ince",
+      "url": "https://www.youtube.com/channel/UClis21-nGFunHa9agc7Md_Q",
+      "channel_id": "UClis21-nGFunHa9agc7Md_Q",
+      "language": "Turkish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Carmhack",
+      "url": "https://www.youtube.com/user/TheCarmhack",
+      "channel_id": "@TheCarmhack",
+      "language": "Italian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Anisul Islam",
+      "url": "https://www.youtube.com/user/ANIS3730",
+      "channel_id": "@ANIS3730",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Codeonces",
+      "url": "https://www.youtube.com/channel/UC003ZRmU5IdxoHDjmrOaO7w",
+      "channel_id": "UC003ZRmU5IdxoHDjmrOaO7w",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Dimik Computing",
+      "url": "https://www.youtube.com/channel/UC29OOZhABBZ_qqQKkcwpIuQ",
+      "channel_id": "UC29OOZhABBZ_qqQKkcwpIuQ",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Machine Learning। মেশিন লার্নিং । হাতে কলমে",
+      "url": "https://www.youtube.com/channel/UC4RrCd2anEWtZJr9_wX76kA",
+      "channel_id": "UC4RrCd2anEWtZJr9_wX76kA",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Stack Learner",
+      "url": "https://www.youtube.com/channel/UCrmHQdRbYKFsB602Duho4Tw",
+      "channel_id": "UCrmHQdRbYKFsB602Duho4Tw",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Tamim Shahriar",
+      "url": "https://www.youtube.com/channel/UCFsbfRphhQfPFJrwKb7s3JA",
+      "channel_id": "UCFsbfRphhQfPFJrwKb7s3JA",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Zulkarnine Mahmud",
+      "url": "https://www.youtube.com/user/zulkarnine2076",
+      "channel_id": "@zulkarnine2076",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Learn with Hasin Hayder",
+      "url": "https://www.youtube.com/user/countdraculla16",
+      "channel_id": "@countdraculla16",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Learn with Sumit",
+      "url": "https://www.youtube.com/channel/UCFM3gG5IHfogarxlKcIHCAg",
+      "channel_id": "UCFM3gG5IHfogarxlKcIHCAg",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Sharif Chowdhury",
+      "url": "https://www.youtube.com/user/shariftech",
+      "channel_id": "@shariftech",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "LoveExtendsCode",
+      "url": "https://www.youtube.com/user/dipmessi10",
+      "channel_id": "@dipmessi10",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Sayef Reyadh - Programming Made Simple",
+      "url": "https://www.youtube.com/channel/UCMrXkqBzR71QsTxuwIJalGg",
+      "channel_id": "UCMrXkqBzR71QsTxuwIJalGg",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Code For Food",
+      "url": "https://www.youtube.com/channel/UC3PPNB_VsG7-NO42mgdrbbA",
+      "channel_id": "UC3PPNB_VsG7-NO42mgdrbbA",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Webdeveloper BD",
+      "url": "https://www.youtube.com/channel/UCZvv8EtSuh9PUhUBv0f8_CA",
+      "channel_id": "UCZvv8EtSuh9PUhUBv0f8_CA",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Programming Adda",
+      "url": "https://www.youtube.com/channel/UCSIuMz5fRAEmxK3ruloG6ww",
+      "channel_id": "UCSIuMz5fRAEmxK3ruloG6ww",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Jhankar Mahbub",
+      "url": "https://www.youtube.com/c/JhankarMahbub",
+      "channel_id": "@JhankarMahbub",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "JS Bangladesh",
+      "url": "https://www.youtube.com/user/udbhot",
+      "channel_id": "@udbhot",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Klassroom",
+      "url": "https://www.youtube.com/c/KlassroomGlobal",
+      "channel_id": "@KlassroomGlobal",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Zonayed Ahmed",
+      "url": "https://www.youtube.com/user/zonayedpcayahoocom",
+      "channel_id": "@zonayedpcayahoocom",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "MD. Al-Shahriar Tonmoy",
+      "url": "https://www.youtube.com/channel/UCYttUWHHfYT3lT3snj4P4_g",
+      "channel_id": "UCYttUWHHfYT3lT3snj4P4_g",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Dev Stack",
+      "url": "https://www.youtube.com/channel/UCE9YNto5Fc8u7DdOTuCm8rw",
+      "channel_id": "UCE9YNto5Fc8u7DdOTuCm8rw",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Developer Jillur",
+      "url": "https://www.youtube.com/channel/UCtL1A8QP4hLUx9vAy8mgvSw",
+      "channel_id": "UCtL1A8QP4hLUx9vAy8mgvSw",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "GroupBros",
+      "url": "https://www.youtube.com/channel/UCJ_ApclSJcOmEMS8931_2nA",
+      "channel_id": "UCJ_ApclSJcOmEMS8931_2nA",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Rasel Ahmed",
+      "url": "https://www.youtube.com/channel/UC94qXY-Icq1xaoGCQI11-mw",
+      "channel_id": "UC94qXY-Icq1xaoGCQI11-mw",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "RR Foundation Bangladesh",
+      "url": "https://www.youtube.com/c/rrfdhaka/videos",
+      "channel_id": "@rrfdhaka",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Moshiur",
+      "url": "https://www.youtube.com/channel/UCcPGGA2RWx6C5o1xl18vUWA",
+      "channel_id": "UCcPGGA2RWx6C5o1xl18vUWA",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Procoder BD",
+      "url": "https://www.youtube.com/channel/UCruRBI2b_5r9T6mcvIA_5BA",
+      "channel_id": "UCruRBI2b_5r9T6mcvIA_5BA",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "ITBari",
+      "url": "https://www.youtube.com/channel/UCbkTJxYf8LlAvkabh2D4I2g",
+      "channel_id": "UCbkTJxYf8LlAvkabh2D4I2g",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Techtong",
+      "url": "https://www.youtube.com/channel/UC7SUEMdep7lCz1bXeWCOOtg",
+      "channel_id": "UC7SUEMdep7lCz1bXeWCOOtg",
+      "language": "Bengali",
+      "category": "Tutorial"
+    },
+    {
+      "name": "A codear con Hugo",
+      "url": "https://www.youtube.com/channel/UCs36rnyG9BQrU45oR0FwcRA",
+      "channel_id": "UCs36rnyG9BQrU45oR0FwcRA",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Gonzalo Pozzo",
+      "url": "https://www.youtube.com/channel/UCCvaRcYdZCZBrBQVnsUBg5Q",
+      "channel_id": "UCCvaRcYdZCZBrBQVnsUBg5Q",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Leonardo Galante",
+      "url": "https://www.youtube.com/channel/UC-gFUpD0aKzMS5_uwbHSOrA",
+      "channel_id": "UC-gFUpD0aKzMS5_uwbHSOrA",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Antonio Sarosi",
+      "url": "https://www.youtube.com/channel/UCzTi9I3zApECTkukkMOpEEA",
+      "channel_id": "UCzTi9I3zApECTkukkMOpEEA",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Appdelante",
+      "url": "https://www.youtube.com/channel/UCJlT-NI_6xxLuuRjN8HNJDQ",
+      "channel_id": "UCJlT-NI_6xxLuuRjN8HNJDQ",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "BettaTech",
+      "url": "https://www.youtube.com/c/BettaTech",
+      "channel_id": "@BettaTech",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Centripio",
+      "url": "https://www.youtube.com/channel/UCPlebrKN1g5srzTPrXRjwKg",
+      "channel_id": "UCPlebrKN1g5srzTPrXRjwKg",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Codigo Facilito",
+      "url": "https://www.youtube.com/user/codigofacilito",
+      "channel_id": "@codigofacilito",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Dot CSV",
+      "url": "https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg",
+      "channel_id": "UCy5znSnfMsDwaLlROnZ7Qbg",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "DominiCODE",
+      "url": "https://www.youtube.com/c/dominicode",
+      "channel_id": "@dominicode",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Fazt",
+      "url": "https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg",
+      "channel_id": "UCX9NJ471o7Wie1DQe94RVIg",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "José Dimas Luján Castillo",
+      "url": "https://www.youtube.com/channel/UC17hjKubJGdyPbWI5jvyiVg",
+      "channel_id": "UC17hjKubJGdyPbWI5jvyiVg",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Latincoder",
+      "url": "https://www.youtube.com/channel/UCNhumBIUSP9G0O5DBoWSHVg",
+      "channel_id": "UCNhumBIUSP9G0O5DBoWSHVg",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Makigas",
+      "url": "https://www.youtube.com/channel/UCQufRmIMRTLdRxTsXCh4-5w",
+      "channel_id": "UCQufRmIMRTLdRxTsXCh4-5w",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "NetMentor",
+      "url": "https://www.youtube.com/channel/UC707x7AW95NWg2noAXCeoIQ",
+      "channel_id": "UC707x7AW95NWg2noAXCeoIQ",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Pelado Nerd",
+      "url": "https://www.youtube.com/channel/UCrBzBOMcUVV8ryyAU_c6P5g",
+      "channel_id": "UCrBzBOMcUVV8ryyAU_c6P5g",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "That C# guy",
+      "url": "https://www.youtube.com/channel/UC8KCb358oioQMcJ5pUfs8UQ",
+      "channel_id": "UC8KCb358oioQMcJ5pUfs8UQ",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "midudev",
+      "url": "https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ",
+      "channel_id": "UC8LeXCWOalN8SxlrPcG-PaQ",
+      "language": "Spanish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "AlbiaSoft",
+      "url": "https://www.youtube.com/channel/UCPtmCNFt8h0AbaHw8ODUIpg",
+      "channel_id": "UCPtmCNFt8h0AbaHw8ODUIpg",
+      "language": "Catalan",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Grafikart",
+      "url": "https://www.youtube.com/user/grafikarttv",
+      "channel_id": "@grafikarttv",
+      "language": "French",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Développeur Libre",
+      "url": "https://www.youtube.com/channel/UCjDg7LaaMzmuhj6I1jTzb1Q",
+      "channel_id": "UCjDg7LaaMzmuhj6I1jTzb1Q",
+      "language": "French",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Harry JMG",
+      "url": "https://www.youtube.com/channel/UC61GK_nOLSJdzAK5hoR2mJA",
+      "channel_id": "UC61GK_nOLSJdzAK5hoR2mJA",
+      "language": "French",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Graven",
+      "url": "https://www.youtube.com/user/Gravenilvectuto",
+      "channel_id": "@Gravenilvectuto",
+      "language": "French",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Benjamin Code",
+      "url": "https://www.youtube.com/channel/UCLOAPb7ATQUs_nDs9ViLcMw",
+      "channel_id": "UCLOAPb7ATQUs_nDs9ViLcMw",
+      "language": "French",
+      "category": "Tutorial"
+    },
+    {
+      "name": "PrimFX",
+      "url": "https://www.youtube.com/user/primfxdesign",
+      "channel_id": "@primfxdesign",
+      "language": "French",
+      "category": "Tutorial"
+    },
+    {
+      "name": "getCodingKnowledge",
+      "url": "https://www.youtube.com/channel/UCUjo_IKa9Cqkx_x-rMly8MA",
+      "channel_id": "UCUjo_IKa9Cqkx_x-rMly8MA",
+      "language": "French",
+      "category": "Tutorial"
+    },
+    {
+      "name": "ParsClick",
+      "url": "https://www.youtube.com/c/Parsclicktv",
+      "channel_id": "@Parsclicktv",
+      "language": "Farsi",
+      "category": "Tutorial"
+    },
+    {
+      "name": "BrazilJS",
+      "url": "https://www.youtube.com/user/BrazilJS",
+      "channel_id": "@BrazilJS",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Felipe Deschamps",
+      "url": "https://www.youtube.com/channel/UCU5JicSrEM5A63jkJ2QvGYw",
+      "channel_id": "UCU5JicSrEM5A63jkJ2QvGYw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Rocketseat",
+      "url": "https://www.youtube.com/channel/UCSfwM5u0Kce6Cce8_S72olg",
+      "channel_id": "UCSfwM5u0Kce6Cce8_S72olg",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "DevPrimata",
+      "url": "https://www.youtube.com/channel/UCesuGTDZsIt1Z9NfiSGE3yg",
+      "channel_id": "UCesuGTDZsIt1Z9NfiSGE3yg",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "balta.io",
+      "url": "https://www.youtube.com/channel/UCgnACLvM9O5lfm9ZBh_d3cg",
+      "channel_id": "UCgnACLvM9O5lfm9ZBh_d3cg",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Curso em Vídeo",
+      "url": "https://www.youtube.com/user/cursosemvideo",
+      "channel_id": "@cursosemvideo",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Filho da nuvem",
+      "url": "https://www.youtube.com/channel/UCqa6i-EYjkIqVhu1CpsBOPQ",
+      "channel_id": "UCqa6i-EYjkIqVhu1CpsBOPQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "José Carlos Macoratti",
+      "url": "https://www.youtube.com/channel/UCoqYHkQy8q5nEMv1gkcZgSw",
+      "channel_id": "UCoqYHkQy8q5nEMv1gkcZgSw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Programador BR",
+      "url": "https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ",
+      "channel_id": "UCrdgeUeCll2QKmqmihIgKBQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Lucas Montano",
+      "url": "https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg",
+      "channel_id": "UCyHOBY6IDZF9zOKJPou2Rgg",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Alura Cursos Online",
+      "url": "https://www.youtube.com/channel/UCo7EHzKF2zDFWszw7Dg4mPw",
+      "channel_id": "UCo7EHzKF2zDFWszw7Dg4mPw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "TekZoom",
+      "url": "https://www.youtube.com/user/tekzoom",
+      "channel_id": "@tekzoom",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Loiane Groner",
+      "url": "https://www.youtube.com/channel/UCqQn92noBhY9VKQy4xCHPsg",
+      "channel_id": "UCqQn92noBhY9VKQy4xCHPsg",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Attekita Dev",
+      "url": "https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g",
+      "channel_id": "UCetRsdZxDQDcgVDJd6erz6g",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Daniel Snows",
+      "url": "https://www.youtube.com/channel/UCfDenO9v3NpxzE32hAdW36Q",
+      "channel_id": "UCfDenO9v3NpxzE32hAdW36Q",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Código Logo",
+      "url": "https://www.youtube.com/channel/UCwZFL945LUQcF9OpEWSfbeg",
+      "channel_id": "UCwZFL945LUQcF9OpEWSfbeg",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Eduardo Pires",
+      "url": "https://www.youtube.com/user/headfox",
+      "channel_id": "@headfox",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Eduardo Albuquerque",
+      "url": "https://www.youtube.com/channel/UC8u-WRHndyT2VwOAwXP4Fgw",
+      "channel_id": "UC8u-WRHndyT2VwOAwXP4Fgw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Tiago Matos",
+      "url": "https://www.youtube.com/user/tiagomatosweb",
+      "channel_id": "@tiagomatosweb",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Fabio Akita",
+      "url": "https://www.youtube.com/channel/UCib793mnUOhWymCh2VJKplQ",
+      "channel_id": "UCib793mnUOhWymCh2VJKplQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Rodrigo Branas",
+      "url": "https://www.youtube.com/channel/UCkqOofjb7nl6V8vXrIbGtiQ",
+      "channel_id": "UCkqOofjb7nl6V8vXrIbGtiQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Bonieky Lacerda",
+      "url": "https://www.youtube.com/channel/UCw9mYSlqKRXI6l4vH-tAYpQ",
+      "channel_id": "UCw9mYSlqKRXI6l4vH-tAYpQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Node BR",
+      "url": "https://www.youtube.com/channel/UCd4Cp-rzdSAze6C-FOFQ3aw",
+      "channel_id": "UCd4Cp-rzdSAze6C-FOFQ3aw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Programador a Bordo",
+      "url": "https://www.youtube.com/channel/UC5fWvbBnaFAi2hJlHRmg5kw",
+      "channel_id": "UC5fWvbBnaFAi2hJlHRmg5kw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Vida de Programador",
+      "url": "https://www.youtube.com/channel/UCW4XS1NWmwOKWA1rmfgmyHQ",
+      "channel_id": "UCW4XS1NWmwOKWA1rmfgmyHQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "DevMedia",
+      "url": "https://www.youtube.com/channel/UClBrpNsTEFLbZDDMW1xiOaQ",
+      "channel_id": "UClBrpNsTEFLbZDDMW1xiOaQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Canal dotNet",
+      "url": "https://www.youtube.com/channel/UCIahKJr2Q50Sprk5ztPGnVg",
+      "channel_id": "UCIahKJr2Q50Sprk5ztPGnVg",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Código Fonte TV",
+      "url": "https://www.youtube.com/user/codigofontetv",
+      "channel_id": "@codigofontetv",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Universo Programado",
+      "url": "https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg/",
+      "channel_id": "UCf_kacKyoRRUP0nM3obzFbg",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Flutterando",
+      "url": "https://www.youtube.com/user/jacobaraujo7",
+      "channel_id": "@jacobaraujo7",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Neto Marin",
+      "url": "https://www.youtube.com/user/netomarin",
+      "channel_id": "@netomarin",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Peixe Babel",
+      "url": "https://www.youtube.com/channel/UCqB90BBr6eNRaJl-kl30Xxw",
+      "channel_id": "UCqB90BBr6eNRaJl-kl30Xxw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Universo Discreto",
+      "url": "https://www.youtube.com/channel/UCEn6kONg6EC_Ylh0RlInsMw",
+      "channel_id": "UCEn6kONg6EC_Ylh0RlInsMw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Cod3r Cursos",
+      "url": "https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ",
+      "channel_id": "UCcMcmtNSSQECjKsJA1XH5MQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Fabio Vedovelli",
+      "url": "https://www.youtube.com/user/vedovelli",
+      "channel_id": "@vedovelli",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Programa aí!",
+      "url": "https://www.youtube.com/channel/UCPKu2Zp7kvKyGGud876DAoA",
+      "channel_id": "UCPKu2Zp7kvKyGGud876DAoA",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "CollabCode",
+      "url": "https://www.youtube.com/channel/UCVheRLgrk7bOAByaQ0IVolg",
+      "channel_id": "UCVheRLgrk7bOAByaQ0IVolg",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Willian Justen",
+      "url": "https://www.youtube.com/channel/UCa12brLWzCqnxN0KOyjfmJQ",
+      "channel_id": "UCa12brLWzCqnxN0KOyjfmJQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Descompila",
+      "url": "https://www.youtube.com/channel/UCgOu28f2-cdegVHuZZhLDdA",
+      "channel_id": "UCgOu28f2-cdegVHuZZhLDdA",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Glaucia Lemos",
+      "url": "https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ",
+      "channel_id": "UC2Qzw5aqCBk_z0lWJnumWQQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Node Studio Treinamentos",
+      "url": "https://www.youtube.com/channel/UCZZ0NTtOgsLIT4Skr6GUpAw",
+      "channel_id": "UCZZ0NTtOgsLIT4Skr6GUpAw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "VueJS Norte",
+      "url": "https://www.youtube.com/channel/UCYyYXAdZisrAScOlG6w9KHQ",
+      "channel_id": "UCYyYXAdZisrAScOlG6w9KHQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Origamid",
+      "url": "https://www.youtube.com/user/origamidlabs",
+      "channel_id": "@origamidlabs",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "AlgaWorks",
+      "url": "https://www.youtube.com/channel/UCIPQ0ZqTl5e5U2OFKENOh9g",
+      "channel_id": "UCIPQ0ZqTl5e5U2OFKENOh9g",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Curso Programação",
+      "url": "https://www.youtube.com/channel/UC-dRoABm-_rKxZG9m4wzR8w",
+      "channel_id": "UC-dRoABm-_rKxZG9m4wzR8w",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Código Falado",
+      "url": "https://www.youtube.com/channel/UCtwkSRuugeCF1Bh8kxE55qQ",
+      "channel_id": "UCtwkSRuugeCF1Bh8kxE55qQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Danki Code",
+      "url": "https://www.youtube.com/channel/UCdbMvobipjxi6gdr3L1PBrQ",
+      "channel_id": "UCdbMvobipjxi6gdr3L1PBrQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Dev Eficiente",
+      "url": "https://www.youtube.com/channel/UC9xYzttzFxK9cmhKPQCalYQ",
+      "channel_id": "UC9xYzttzFxK9cmhKPQCalYQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Dev Samurai",
+      "url": "https://www.youtube.com/channel/UC-lHCBqKEtnXA0SBtdOP0bw",
+      "channel_id": "UC-lHCBqKEtnXA0SBtdOP0bw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Dev Soutinho",
+      "url": "https://www.youtube.com/channel/UCzR2u5RWXWjUh7CwLSvbitA",
+      "channel_id": "UCzR2u5RWXWjUh7CwLSvbitA",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Didática Tech",
+      "url": "https://www.youtube.com/channel/UC0BiVs5EYh57gzGVvhddjsA",
+      "channel_id": "UC0BiVs5EYh57gzGVvhddjsA",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Escola Front-end",
+      "url": "https://www.youtube.com/channel/UC4cEOdd-saCKWJHv_Du8cLQ",
+      "channel_id": "UC4cEOdd-saCKWJHv_Du8cLQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "EspecializaTI",
+      "url": "https://www.youtube.com/channel/UC0Da9RonsYYqh2WK_m61t2g",
+      "channel_id": "UC0Da9RonsYYqh2WK_m61t2g",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Estevan Maito",
+      "url": "https://www.youtube.com/channel/UCIUOmAsotrzdK8VsZuHfVHw",
+      "channel_id": "UCIUOmAsotrzdK8VsZuHfVHw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Felipe Elia WP",
+      "url": "https://www.youtube.com/channel/UCD_26rOE3ClALcZreTkyIoQ",
+      "channel_id": "UCD_26rOE3ClALcZreTkyIoQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Front In Sampa",
+      "url": "https://www.youtube.com/channel/UCwoGd_KU0OxiVT5r-rPrzWA",
+      "channel_id": "UCwoGd_KU0OxiVT5r-rPrzWA",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "hcode",
+      "url": "https://www.youtube.com/channel/UCjWENuSH2gX55-y7QSZiWxA",
+      "channel_id": "UCjWENuSH2gX55-y7QSZiWxA",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Impulso",
+      "url": "https://www.youtube.com/channel/UChfPxID6Mi1GL3-o4ede6Ew",
+      "channel_id": "UChfPxID6Mi1GL3-o4ede6Ew",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Hora de Codar",
+      "url": "https://www.youtube.com/channel/UCDoFiMhpOnLFq1uG4RL4xag",
+      "channel_id": "UCDoFiMhpOnLFq1uG4RL4xag",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Matheus Castiglioni",
+      "url": "https://www.youtube.com/channel/UCSrG4Y5uz0dcSfi_2qMQdGQ",
+      "channel_id": "UCSrG4Y5uz0dcSfi_2qMQdGQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Micael Mota",
+      "url": "https://www.youtube.com/channel/UCz8juhUx7YZxqCaaNlggNnw",
+      "channel_id": "UCz8juhUx7YZxqCaaNlggNnw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Mão no Código",
+      "url": "https://www.youtube.com/channel/UCEeOZsBawGWSUieDaMQsDww",
+      "channel_id": "UCEeOZsBawGWSUieDaMQsDww",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Nerdzão",
+      "url": "https://www.youtube.com/channel/UCEaM9-M1O8_CW3kGQBA0P4w",
+      "channel_id": "UCEaM9-M1O8_CW3kGQBA0P4w",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "O Universo da Programação",
+      "url": "https://www.youtube.com/channel/UCWrqsnPLl6aRX0ECUmPaZEw",
+      "channel_id": "UCWrqsnPLl6aRX0ECUmPaZEw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Punk do DevOps",
+      "url": "https://www.youtube.com/channel/UCyNp3i0UZeTL11CUBs9mZyA",
+      "channel_id": "UCyNp3i0UZeTL11CUBs9mZyA",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "RBtech",
+      "url": "https://www.youtube.com/channel/UCVEa_x1n5FwWrxH00MrDPzQ",
+      "channel_id": "UCVEa_x1n5FwWrxH00MrDPzQ",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "ReisDev",
+      "url": "https://www.youtube.com/channel/UC4sSLAid-EtLsGB25uO0pDw",
+      "channel_id": "UC4sSLAid-EtLsGB25uO0pDw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Rychillie",
+      "url": "https://www.youtube.com/channel/UCwcXr_xXgZ6BIdo8M-RDE4A",
+      "channel_id": "UCwcXr_xXgZ6BIdo8M-RDE4A",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Guia do Programador",
+      "url": "https://www.youtube.com/channel/UC_issB-37g9lwfAA37fy2Tg",
+      "channel_id": "UC_issB-37g9lwfAA37fy2Tg",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Vinícius Thiengo",
+      "url": "https://www.youtube.com/channel/UCG3gFuIkRF3PpNkRk3Wp6dw",
+      "channel_id": "UCG3gFuIkRF3PpNkRk3Wp6dw",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Dev Lab",
+      "url": "https://www.youtube.com/channel/UCqmJGTdcMIRXOZuukHZ8TqA",
+      "channel_id": "UCqmJGTdcMIRXOZuukHZ8TqA",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "WoMakersCode",
+      "url": "https://www.youtube.com/channel/UCC_4Qpl1-Kysd-9hRTsoX8w",
+      "channel_id": "UCC_4Qpl1-Kysd-9hRTsoX8w",
+      "language": "Brazilian Portuguese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "생활코딩",
+      "url": "https://www.youtube.com/user/egoing2",
+      "channel_id": "@egoing2",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "포프TV",
+      "url": "https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ",
+      "channel_id": "UC63J0Q5huHSlbNT3KxvAaHQ",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "엔지니어대한민국",
+      "url": "https://www.youtube.com/channel/UCWMAh9cSkEn8v42YRO90BHA",
+      "channel_id": "UCWMAh9cSkEn8v42YRO90BHA",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "조코딩 JoCoding",
+      "url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+      "channel_id": "UCQNE2JmbasNYbjGAcuBiRRg",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "동빈나",
+      "url": "https://www.youtube.com/channel/UChflhu32f5EUHlY7_SetNWw",
+      "channel_id": "UChflhu32f5EUHlY7_SetNWw",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "알고리즘 투게더 with 거니",
+      "url": "https://www.youtube.com/channel/UCO7g158NWgLyn98z8v3zduA",
+      "channel_id": "UCO7g158NWgLyn98z8v3zduA",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "EO",
+      "url": "https://www.youtube.com/channel/UCQ2DWm5Md16Dc3xRwwhVE7Q",
+      "channel_id": "UCQ2DWm5Md16Dc3xRwwhVE7Q",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Teccboi Wonie",
+      "url": "https://www.youtube.com/channel/UC0uDM1xZMNBAoW2xnzhAQ7g",
+      "channel_id": "UC0uDM1xZMNBAoW2xnzhAQ7g",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "김왼손의 왼손코딩",
+      "url": "https://www.youtube.com/channel/UC0h8NzL2vllvp3PjdoYSK4g",
+      "channel_id": "UC0h8NzL2vllvp3PjdoYSK4g",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "노마드 코더 Nomad Coders",
+      "url": "https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ",
+      "channel_id": "UCUpJs89fSBXNolQGOYKn0YQ",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "NHN TOAST",
+      "url": "https://www.youtube.com/channel/UC982FhzZx87lIWCimFiry_w",
+      "channel_id": "UC982FhzZx87lIWCimFiry_w",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "SQL전문가 정미나",
+      "url": "https://www.youtube.com/channel/UCoc7x15NFZ97UbwfdmMZxlw",
+      "channel_id": "UCoc7x15NFZ97UbwfdmMZxlw",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "빵굽는개발자 빵형",
+      "url": "https://www.youtube.com/channel/UCLxPNvxa9D-3UIdocAJUxfQ",
+      "channel_id": "UCLxPNvxa9D-3UIdocAJUxfQ",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "권오흠",
+      "url": "https://www.youtube.com/channel/UC-cOmaeWLm7Ii7erMQNatvA",
+      "channel_id": "UC-cOmaeWLm7Ii7erMQNatvA",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "HOWLAB",
+      "url": "https://www.youtube.com/channel/UCScI4bsr-RaGdYSC2QAHWug",
+      "channel_id": "UCScI4bsr-RaGdYSC2QAHWug",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "레트로 retr0",
+      "url": "https://www.youtube.com/channel/UCRWq4MPqifkmT2GyL2d2ZAQ",
+      "channel_id": "UCRWq4MPqifkmT2GyL2d2ZAQ",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "안드로이드 생존코딩",
+      "url": "https://www.youtube.com/channel/UCz9n4yRsYYryRjrSCK0-YWA",
+      "channel_id": "UCz9n4yRsYYryRjrSCK0-YWA",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "코지 코더 Kossie Coder",
+      "url": "https://www.youtube.com/channel/UCI4tTBupvhMX1aWDSm-HAXw",
+      "channel_id": "UCI4tTBupvhMX1aWDSm-HAXw",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "빵형의 개발도상국",
+      "url": "https://www.youtube.com/c/%EB%B9%B5%ED%98%95%EC%9D%98%EA%B0%9C%EB%B0%9C%EB%8F%84%EC%83%81%EA%B5%AD",
+      "channel_id": "@%EB%B9%B5%ED%98%95%EC%9D%98%EA%B0%9C%EB%B0%9C%EB%8F%84%EC%83%81%EA%B5%AD",
+      "language": "Korean",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Go 夜读",
+      "url": "https://www.youtube.com/channel/UCZwrjDu5Rf6O_CX2CVx7n8Q",
+      "channel_id": "UCZwrjDu5Rf6O_CX2CVx7n8Q",
+      "language": "Chinese",
+      "category": "Tutorial"
+    },
+    {
+      "name": "GoCode",
+      "url": "https://www.youtube.com/c/GoCodeSderot",
+      "channel_id": "@GoCodeSderot",
+      "language": "Hebrew",
+      "category": "Tutorial"
+    },
+    {
+      "name": "JavaScript Israel",
+      "url": "https://www.youtube.com/channel/UCyUEQd6gp05bO9FfMP4pz2g",
+      "channel_id": "UCyUEQd6gp05bO9FfMP4pz2g",
+      "language": "Hebrew",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Fullstack Developers Israel",
+      "url": "https://www.youtube.com/channel/UCV7lV9Lq2sc7t0QEKS4xH7A",
+      "channel_id": "UCV7lV9Lq2sc7t0QEKS4xH7A",
+      "language": "Hebrew",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Negev Web Developers",
+      "url": "https://www.youtube.com/channel/UCeb23koM86s-w9534jdRxIQ",
+      "channel_id": "UCeb23koM86s-w9534jdRxIQ",
+      "language": "Hebrew",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Vuejs Israel",
+      "url": "https://www.youtube.com/channel/UC7Ne4vqQa7nldgA0o1fbqKg",
+      "channel_id": "UC7Ne4vqQa7nldgA0o1fbqKg",
+      "language": "Hebrew",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Hodash Dev",
+      "url": "https://www.youtube.com/channel/UCRxPTwnAxtowaaHLwtjcKOQ",
+      "channel_id": "UCRxPTwnAxtowaaHLwtjcKOQ",
+      "language": "Hebrew",
+      "category": "Tutorial"
+    },
+    {
+      "name": "In.Dev",
+      "url": "https://www.youtube.com/channel/UCbskGJ6VHC_2AjHfQsp4EkQ",
+      "channel_id": "UCbskGJ6VHC_2AjHfQsp4EkQ",
+      "language": "Hebrew",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Z-Coding",
+      "url": "https://www.youtube.com/channel/UCGiZAn_r1mg4W9F4NkiszKQ",
+      "channel_id": "UCGiZAn_r1mg4W9F4NkiszKQ",
+      "language": "Hebrew",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Outbrain Engineering",
+      "url": "https://www.youtube.com/channel/UCJLORR2uJglrKm-JlKV-rJA",
+      "channel_id": "UCJLORR2uJglrKm-JlKV-rJA",
+      "language": "Hebrew",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Taman Kode-Kode",
+      "url": "https://www.youtube.com/c/tamankodekode",
+      "channel_id": "@tamankodekode",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Programmer Zaman Now",
+      "url": "https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ",
+      "channel_id": "UC14ZKB9XsDZbnHVmr4AmUpQ",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Web Programming Unpas",
+      "url": "https://www.youtube.com/channel/UCkXmLjEr95LVtGuIm3l2dPg",
+      "channel_id": "UCkXmLjEr95LVtGuIm3l2dPg",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Indonesia Belajar",
+      "url": "https://www.youtube.com/channel/UCQ4Jo2IJeyRGzZBvjaaLzrw",
+      "channel_id": "UCQ4Jo2IJeyRGzZBvjaaLzrw",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Kelas Terbuka",
+      "url": "https://www.youtube.com/user/faqihzamukhlish",
+      "channel_id": "@faqihzamukhlish",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Sekolah Koding",
+      "url": "https://www.youtube.com/channel/UCpSPS5yLCxYRuZSrCx-eBjA",
+      "channel_id": "UCpSPS5yLCxYRuZSrCx-eBjA",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "MastahCode",
+      "url": "https://www.youtube.com/channel/UCWjyFg2q0Gnu9kbN_hDSpJQ",
+      "channel_id": "UCWjyFg2q0Gnu9kbN_hDSpJQ",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "YukCoding",
+      "url": "https://www.youtube.com/channel/UCkIiNw-qbCy_NHZeg8BNsMQ",
+      "channel_id": "UCkIiNw-qbCy_NHZeg8BNsMQ",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Kawan Koding",
+      "url": "https://www.youtube.com/channel/UChccjG2gYrS-y9yUteVV3Mg",
+      "channel_id": "UChccjG2gYrS-y9yUteVV3Mg",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "IDStack",
+      "url": "https://www.youtube.com/channel/UC5xgusHHscTDAHxcxq6Dwdg",
+      "channel_id": "UC5xgusHHscTDAHxcxq6Dwdg",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Angga Risky",
+      "url": "https://www.youtube.com/channel/UCG1aEPR4NO2Sd_mmJFimfQQ",
+      "channel_id": "UCG1aEPR4NO2Sd_mmJFimfQQ",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Framework Indonesia",
+      "url": "https://www.youtube.com/channel/UCFCDiQFrqj5zPMQnV-2zO2A",
+      "channel_id": "UCFCDiQFrqj5zPMQnV-2zO2A",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "idr corner",
+      "url": "https://www.youtube.com/channel/UC6MTowFYbG8SK5GvTWjxSvg",
+      "channel_id": "UC6MTowFYbG8SK5GvTWjxSvg",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Erico Darmawan Handoyo",
+      "url": "https://www.youtube.com/c/EricoDarmawanHandoyo/",
+      "channel_id": "@EricoDarmawanHandoyo",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "CodeWithIhwan",
+      "url": "https://www.youtube.com/c/CodeWithIhwan/",
+      "channel_id": "@CodeWithIhwan",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Indra Gunawan",
+      "url": "https://www.youtube.com/c/indragunawandotcom/",
+      "channel_id": "@indragunawandotcom",
+      "language": "Indonesian",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Hendiware",
+      "url": "https://www.youtube.com/channel/UC4fCtqpNFVtPEDAiym7Um3A",
+      "channel_id": "UC4fCtqpNFVtPEDAiym7Um3A",
+      "language": "Arabic",
+      "category": "Android Apps Development"
+    },
+    {
+      "name": "coding with nerds",
+      "url": "https://www.youtube.com/channel/UCnDAXfhnL5j-KhHc1KhvXHw",
+      "channel_id": "UCnDAXfhnL5j-KhHc1KhvXHw",
+      "language": "Arabic",
+      "category": "Android Apps Development"
+    },
+    {
+      "name": "Arabic Competitive Programming",
+      "url": "https://www.youtube.com/channel/UC8OxKsmAyrGAfBiluhpLkbA",
+      "channel_id": "UC8OxKsmAyrGAfBiluhpLkbA",
+      "language": "Arabic",
+      "category": "Competitive Programming"
+    },
+    {
+      "name": "Walid Issa",
+      "url": "https://www.youtube.com/channel/UCUNpxcO109gQx7yYxAtXHmA",
+      "channel_id": "UCUNpxcO109gQx7yYxAtXHmA",
+      "language": "Arabic",
+      "category": "Electronics & Technology"
+    },
+    {
+      "name": "اكاديمية احمد المصرى",
+      "url": "https://www.youtube.com/user/AHME115D",
+      "channel_id": "@AHME115D",
+      "language": "Arabic",
+      "category": "Electronics & Technology"
+    },
+    {
+      "name": "عرب جنو/لينكس",
+      "url": "https://www.youtube.com/user/abdulmogeeb",
+      "channel_id": "@abdulmogeeb",
+      "language": "Arabic",
+      "category": "Linux Tutorials"
+    },
+    {
+      "name": "Gnu Tux",
+      "url": "https://www.youtube.com/channel/UCYkmbkbkSVawjH4WlIHmEoA",
+      "channel_id": "UCYkmbkbkSVawjH4WlIHmEoA",
+      "language": "Arabic",
+      "category": "Linux Tutorials"
+    },
+    {
+      "name": "I'm Linux",
+      "url": "https://www.youtube.com/channel/UCqh8wg3RiQFXNgwR4pn-zpw",
+      "channel_id": "UCqh8wg3RiQFXNgwR4pn-zpw",
+      "language": "Arabic",
+      "category": "Linux Tutorials"
+    },
+    {
+      "name": "تكناوي دوت نيت",
+      "url": "https://www.youtube.com/user/technawidotnet",
+      "channel_id": "@technawidotnet",
+      "language": "Arabic",
+      "category": "Networking & Security"
+    },
+    {
+      "name": "Ahmed Nazmy",
+      "url": "https://www.youtube.com/channel/UCVmUkof79TOQy-9nclwdPCw",
+      "channel_id": "UCVmUkof79TOQy-9nclwdPCw",
+      "language": "Arabic",
+      "category": "Networking & Security"
+    },
+    {
+      "name": "Free4arab",
+      "url": "https://www.youtube.com/user/Nourelhoda2011",
+      "channel_id": "@Nourelhoda2011",
+      "language": "Arabic",
+      "category": "Networking & Security"
+    },
+    {
+      "name": "iSecur1ty",
+      "url": "https://www.youtube.com/user/iSecur1tycommunity",
+      "channel_id": "@iSecur1tycommunity",
+      "language": "Arabic",
+      "category": "Networking & Security"
+    },
+    {
+      "name": "محمد الدسوقى",
+      "url": "https://www.youtube.com/channel/UCWX_0VvMxl0_XosvYOZ7O0g",
+      "channel_id": "UCWX_0VvMxl0_XosvYOZ7O0g",
+      "language": "Arabic",
+      "category": "Programming Tutorials"
+    },
+    {
+      "name": "TheNewBaghdad",
+      "url": "https://www.youtube.com/user/alxs1aa/",
+      "channel_id": "@alxs1aa",
+      "language": "Arabic",
+      "category": "Programming Tutorials"
+    },
+    {
+      "name": "Abdullah Almehmadi",
+      "url": "https://www.youtube.com/user/abdullaheidtv",
+      "channel_id": "@abdullaheidtv",
+      "language": "Arabic",
+      "category": "Programming Tutorials"
+    },
+    {
+      "name": "theadvphp",
+      "url": "https://www.youtube.com/channel/UCtxSsAb7AE-cm7_p7Rrhvzg",
+      "channel_id": "UCtxSsAb7AE-cm7_p7Rrhvzg",
+      "language": "Arabic",
+      "category": "Programming Tutorials"
+    },
+    {
+      "name": "Fathi Alamre",
+      "url": "https://www.youtube.com/channel/UCjSMxeBvGtXdqwhaUXEImDQ",
+      "channel_id": "UCjSMxeBvGtXdqwhaUXEImDQ",
+      "language": "Arabic",
+      "category": "Programming Tutorials"
+    },
+    {
+      "name": "Mahmoud Ahmed - Python Tutorials",
+      "url": "https://www.youtube.com/channel/UCZtMEPGln_sbgd9_ioDDC9g",
+      "channel_id": "UCZtMEPGln_sbgd9_ioDDC9g",
+      "language": "Arabic",
+      "category": "Programming Tutorials"
+    },
+    {
+      "name": "Hassouna Academy",
+      "url": "https://www.youtube.com/channel/UC5PbBz_roYczmUR6gg_OAxw",
+      "channel_id": "UC5PbBz_roYczmUR6gg_OAxw",
+      "language": "Arabic",
+      "category": "Programming Tutorials"
+    },
+    {
+      "name": "Hussam Hourani",
+      "url": "https://www.youtube.com/channel/UCb2aFMZk4tlxotB14sNBQXA",
+      "channel_id": "UCb2aFMZk4tlxotB14sNBQXA",
+      "language": "Arabic",
+      "category": "Programming Tutorials"
+    },
+    {
+      "name": "Elsafy Hegazy",
+      "url": "https://www.youtube.com/channel/UCgwvjrWLnpjSi6kXKXaAaww",
+      "channel_id": "UCgwvjrWLnpjSi6kXKXaAaww",
+      "language": "Arabic",
+      "category": "Programming Tutorials"
+    },
+    {
+      "name": "محمد شوشان",
+      "url": "https://www.youtube.com/channel/UCtOyb8800Av9Q-7i-l2mYyA",
+      "channel_id": "UCtOyb8800Av9Q-7i-l2mYyA",
+      "language": "Arabic",
+      "category": "Programming Tutorials"
+    },
+    {
+      "name": "algorithm",
+      "url": "https://www.youtube.com/channel/UChjh0djRQtOfzS9fWGXTt9g",
+      "channel_id": "UChjh0djRQtOfzS9fWGXTt9g",
+      "language": "Arabic",
+      "category": "Programming Tutorials"
+    },
+    {
+      "name": "Abdulaziz Alzaabi",
+      "url": "https://www.youtube.com/user/Oman1998",
+      "channel_id": "@Oman1998",
+      "language": "Arabic",
+      "category": "Web Development"
+    },
+    {
+      "name": "عالم البرمجه",
+      "url": "https://www.youtube.com/channel/UCOpuLcVZXl8C642cJVAC0VA",
+      "channel_id": "UCOpuLcVZXl8C642cJVAC0VA",
+      "language": "Arabic",
+      "category": "Web Development"
+    },
+    {
+      "name": "Raouf Rahiche",
+      "url": "https://www.youtube.com/channel/UCal0wCIwkxiKcrYPvBS6RiA",
+      "channel_id": "UCal0wCIwkxiKcrYPvBS6RiA",
+      "language": "Arabic",
+      "category": "Web Development"
+    },
+    {
+      "name": "Mohamed Elsherif",
+      "url": "https://www.youtube.com/user/bashmohandes",
+      "channel_id": "@bashmohandes",
+      "language": "Arabic",
+      "category": "Web Development"
+    },
+    {
+      "name": "Khalid ESSAADANI",
+      "url": "https://www.youtube.com/user/EssaadaniTV",
+      "channel_id": "@EssaadaniTV",
+      "language": "Arabic",
+      "category": "Web Development"
+    },
+    {
+      "name": "Muhammed Essa",
+      "url": "https://www.youtube.com/user/muhammedgalaxy",
+      "channel_id": "@muhammedgalaxy",
+      "language": "Arabic",
+      "category": "Web Development"
+    },
+    {
+      "name": "Elzero Web School",
+      "url": "https://www.youtube.com/channel/UCSNkfKl4cU-55Nm-ovsvOHQ",
+      "channel_id": "UCSNkfKl4cU-55Nm-ovsvOHQ",
+      "language": "Arabic",
+      "category": "Web Development"
+    },
+    {
+      "name": "zekro",
+      "url": "https://www.youtube.com/user/Zekrommaster110",
+      "channel_id": "@Zekrommaster110",
+      "language": "German",
+      "category": "Web Development"
+    },
+    {
+      "name": "The Morpheus Tutorials",
+      "url": "https://www.youtube.com/user/TheMorpheus407",
+      "channel_id": "@TheMorpheus407",
+      "language": "German",
+      "category": "Web Development"
+    },
+    {
+      "name": "Unleashed Design",
+      "url": "https://www.youtube.com/user/TheDeepForces",
+      "channel_id": "@TheDeepForces",
+      "language": "German",
+      "category": "Web Development"
+    },
+    {
+      "name": "overment",
+      "url": "https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg",
+      "channel_id": "UC_MIaHmSkt9JHNZfQ_gUmrg",
+      "language": "Polish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "hello roman",
+      "url": "https://www.youtube.com/channel/UCq8XmOMtrUCb8FcFHQEd8_g",
+      "channel_id": "UCq8XmOMtrUCb8FcFHQEd8_g",
+      "language": "Polish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Samuraj Programowania",
+      "url": "https://www.youtube.com/channel/UC6wlzVp-5TD5xfDwiohSDeg",
+      "channel_id": "UC6wlzVp-5TD5xfDwiohSDeg",
+      "language": "Polish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Piotr Baja",
+      "url": "https://www.youtube.com/channel/UC1YOiz2oJ26hHrfBTpnrW-A",
+      "channel_id": "UC1YOiz2oJ26hHrfBTpnrW-A",
+      "language": "Polish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Dominik Kozaczko",
+      "url": "https://www.youtube.com/user/dekoza",
+      "channel_id": "@dekoza",
+      "language": "Polish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "Pasja informatyki",
+      "url": "https://www.youtube.com/channel/UCzn6vAfspIcagLax1fck_jw",
+      "channel_id": "UCzn6vAfspIcagLax1fck_jw",
+      "language": "Polish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "UW-TEAM.org",
+      "url": "https://www.youtube.com/user/uwteamorg",
+      "channel_id": "@uwteamorg",
+      "language": "Polish",
+      "category": "Tutorial"
+    },
+    {
+      "name": "JavaDevMatt",
+      "url": "https://www.youtube.com/user/JavaDevMatt",
+      "channel_id": "@JavaDevMatt",
+      "language": "Polish",
+      "category": "Informational"
+    },
+    {
+      "name": "Przeprogramowani",
+      "url": "https://www.youtube.com/c/przeprogramowani",
+      "channel_id": "@przeprogramowani",
+      "language": "Polish",
+      "category": "Informational"
+    },
+    {
+      "name": "Hubert Moszka",
+      "url": "https://www.youtube.com/channel/UCnVDvEpH2H7Hm2D9i718gbA",
+      "channel_id": "UCnVDvEpH2H7Hm2D9i718gbA",
+      "language": "Polish",
+      "category": "Live Coding"
+    },
+    {
+      "name": "GynvaelColdwind",
+      "url": "https://www.youtube.com/user/GynvaelColdwind",
+      "channel_id": "@GynvaelColdwind",
+      "language": "Polish",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Duraan Ali",
+      "url": "https://www.youtube.com/duraanali",
+      "channel_id": "@duraanali",
+      "language": "Somali",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Phạm Huy Hoàng",
+      "url": "https://www.youtube.com/c/t%C3%B4i%C4%91icoded%E1%BA%A1oblog/",
+      "channel_id": "@t%C3%B4i%C4%91icoded%E1%BA%A1oblog",
+      "language": "Vietnamese",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Khánh Hùng - Đời sống lập trình viên",
+      "url": "https://www.youtube.com/channel/UC7fa4gY0-2IU-19L-SjMivA",
+      "channel_id": "UC7fa4gY0-2IU-19L-SjMivA",
+      "language": "Vietnamese",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Lập trình viên TV",
+      "url": "https://www.youtube.com/channel/UC5CIt5W4kq4ie0KJEdg2ztg",
+      "channel_id": "UC5CIt5W4kq4ie0KJEdg2ztg",
+      "language": "Vietnamese",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Thư Viện Lập Trình",
+      "url": "https://www.youtube.com/c/ThuvienlaptrinhEduVn",
+      "channel_id": "@ThuvienlaptrinhEduVn",
+      "language": "Vietnamese",
+      "category": "Live Coding"
+    },
+    {
+      "name": "CodersX",
+      "url": "https://www.youtube.com/c/CodersX",
+      "channel_id": "@CodersX",
+      "language": "Vietnamese",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Alitech",
+      "url": "https://www.youtube.com/c/Alitechacademy",
+      "channel_id": "@Alitechacademy",
+      "language": "Uzbek",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Botir Ziyatov",
+      "url": "https://www.youtube.com/channel/UCITeBYoT2MxV_GDdYK8lSCA",
+      "channel_id": "UCITeBYoT2MxV_GDdYK8lSCA",
+      "language": "Uzbek",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Code Leader",
+      "url": "https://www.youtube.com/c/CodeLeader",
+      "channel_id": "@CodeLeader",
+      "language": "Uzbek",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Farkhod Dadajanov",
+      "url": "https://www.youtube.com/c/FarkhodDadajanov",
+      "channel_id": "@FarkhodDadajanov",
+      "language": "Uzbek",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Javohir Group",
+      "url": "https://www.youtube.com/c/JavohirHakimov/playlists",
+      "channel_id": "@JavohirHakimov",
+      "language": "Uzbek",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Kadirov Dev",
+      "url": "https://www.youtube.com/c/KadirovDev",
+      "channel_id": "@KadirovDev",
+      "language": "Uzbek",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Programmer UZ",
+      "url": "https://www.youtube.com/c/ProgrammerUZ",
+      "channel_id": "@ProgrammerUZ",
+      "language": "Uzbek",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Sardor Og'a",
+      "url": "https://www.youtube.com/c/SardorOga",
+      "channel_id": "@SardorOga",
+      "language": "Uzbek",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Sariq dev",
+      "url": "https://www.youtube.com/c/Sariqdev",
+      "channel_id": "@Sariqdev",
+      "language": "Uzbek",
+      "category": "Live Coding"
+    },
+    {
+      "name": "Хашимов Ахмаджон",
+      "url": "https://www.youtube.com/channel/UCfYgHi7upcHSbGERx8qp-ww",
+      "channel_id": "UCfYgHi7upcHSbGERx8qp-ww",
+      "language": "Uzbek",
+      "category": "Live Coding"
+    }
+  ]
+}
