@@ -463,6 +463,107 @@
         .video-list-item {
             animation: fadeIn 0.5s ease-out;
         }
+
+        /* AI Keyword Badges */
+        .ai-badges {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            z-index: 2;
+        }
+
+        .ai-badge {
+            padding: 4px 10px;
+            border-radius: 12px;
+            font-size: 11px;
+            font-weight: bold;
+            background: rgba(0, 0, 0, 0.75);
+            color: #fff;
+            backdrop-filter: blur(5px);
+            white-space: nowrap;
+        }
+
+        .ai-badge.claude {
+            background: linear-gradient(135deg, #FF6B35, #F7931E);
+        }
+
+        .ai-badge.agents {
+            background: linear-gradient(135deg, #11998e, #38ef7d);
+        }
+
+        .ai-badge.antigravity {
+            background: linear-gradient(135deg, #ee0979, #ff6a00);
+        }
+
+        .ai-badge.llm {
+            background: linear-gradient(135deg, #4facfe, #00f2fe);
+        }
+
+        .ai-badge.codex {
+            background: linear-gradient(135deg, #fa709a, #fee140);
+        }
+
+        .ai-badge.ai {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+        }
+
+        /* AI Quick Filters */
+        .ai-filters {
+            display: flex;
+            gap: 8px;
+            flex-wrap: wrap;
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid #333;
+        }
+
+        .ai-filter-pill {
+            padding: 8px 16px;
+            border: 2px solid #333;
+            border-radius: 20px;
+            background: #1a1a1a;
+            color: #aaa;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            font-size: 13px;
+            font-weight: 500;
+            white-space: nowrap;
+        }
+
+        .ai-filter-pill:hover {
+            background: #252525;
+            border-color: #666;
+            transform: translateY(-2px);
+        }
+
+        .ai-filter-pill.active {
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: #fff;
+            border-color: transparent;
+        }
+
+        .ai-playbook-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            padding: 10px 20px;
+            background: linear-gradient(135deg, #667eea, #764ba2);
+            color: #fff;
+            border-radius: 25px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 14px;
+            transition: all 0.3s ease;
+            margin-left: auto;
+        }
+
+        .ai-playbook-link:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.3);
+        }
     </style>
 </head>
 <body>
@@ -509,6 +610,19 @@
                     </select>
                 </div>
             </div>
+
+            <div class="ai-filters">
+                <div class="ai-filter-pill" data-ai-filter="all">All Videos</div>
+                <div class="ai-filter-pill" data-ai-filter="claude">⚡ Claude</div>
+                <div class="ai-filter-pill" data-ai-filter="agents">🧠 Agents</div>
+                <div class="ai-filter-pill" data-ai-filter="antigravity">🚀 Antigravity</div>
+                <div class="ai-filter-pill" data-ai-filter="llm">🤖 LLMs</div>
+                <div class="ai-filter-pill" data-ai-filter="codex">💻 Codex</div>
+                <div class="ai-filter-pill" data-ai-filter="ai">💡 AI</div>
+                <a href="playbookai.html" class="ai-playbook-link">
+                    🚀 AI Playbook Dashboard
+                </a>
+            </div>
         </div>
     </header>
 
@@ -542,6 +656,31 @@
         let allVideos = [];
         let filteredVideos = [];
         let currentView = 'grid';
+        let currentAIFilter = 'all';
+
+        // AI Keyword Patterns
+        const aiKeywords = {
+            claude: ['claude', 'claude code', 'anthropic'],
+            agents: ['agent', 'agentic', 'autonomous', 'crew ai', 'autogen'],
+            codex: ['codex', 'openai codex', 'code generation'],
+            antigravity: ['antigravity'],
+            llm: ['llm', 'large language model', 'gpt', 'chatgpt'],
+            ai: ['ai', 'artificial intelligence', 'machine learning', 'ml']
+        };
+
+        // Detect AI keywords in video title
+        function detectAIKeywords(title) {
+            const titleLower = title.toLowerCase();
+            const detected = [];
+
+            for (const [category, keywords] of Object.entries(aiKeywords)) {
+                if (keywords.some(kw => titleLower.includes(kw))) {
+                    detected.push(category);
+                }
+            }
+
+            return detected;
+        }
 
         // Safe text helper
         function safeText(text) {
@@ -592,7 +731,15 @@
                 const matchesSearch = video.title.toLowerCase().includes(searchTerm) ||
                                      video.channel_name.toLowerCase().includes(searchTerm);
                 const matchesChannel = !selectedChannel || video.channel_name === selectedChannel;
-                return matchesSearch && matchesChannel;
+
+                // AI filter logic
+                let matchesAIFilter = true;
+                if (currentAIFilter !== 'all') {
+                    const aiCategories = detectAIKeywords(video.title);
+                    matchesAIFilter = aiCategories.includes(currentAIFilter);
+                }
+
+                return matchesSearch && matchesChannel && matchesAIFilter;
             });
 
             // Sort
@@ -648,6 +795,22 @@
 
             const playButton = document.createElement('div');
             playButton.className = 'play-button';
+
+            // Add AI keyword badges
+            const aiCategories = detectAIKeywords(video.title);
+            if (aiCategories.length > 0) {
+                const badgesContainer = document.createElement('div');
+                badgesContainer.className = 'ai-badges';
+
+                aiCategories.forEach(category => {
+                    const badge = document.createElement('span');
+                    badge.className = `ai-badge ${category}`;
+                    badge.textContent = category.toUpperCase();
+                    badgesContainer.appendChild(badge);
+                });
+
+                thumbnailContainer.appendChild(badgesContainer);
+            }
 
             thumbnailContainer.appendChild(img);
             thumbnailContainer.appendChild(playButton);
@@ -779,6 +942,21 @@
         document.getElementById('searchInput').addEventListener('input', filterVideos);
         document.getElementById('channelFilter').addEventListener('change', filterVideos);
         document.getElementById('sortBy').addEventListener('change', filterVideos);
+
+        // AI filter pills event listeners
+        document.querySelectorAll('.ai-filter-pill').forEach(pill => {
+            pill.addEventListener('click', function() {
+                // Remove active class from all pills
+                document.querySelectorAll('.ai-filter-pill').forEach(p => p.classList.remove('active'));
+
+                // Add active class to clicked pill
+                this.classList.add('active');
+
+                // Update current filter and re-filter videos
+                currentAIFilter = this.dataset.aiFilter;
+                filterVideos();
+            });
+        });
 
         // Load on startup
         loadVideos();

@@ -1,0 +1,1626 @@
+{
+  "metadata": {
+    "total_videos": 114,
+    "total_all_videos": 1000,
+    "coverage_percentage": 11.4,
+    "categories_tracked": 7,
+    "last_updated": "2026-01-09"
+  },
+  "categories": {
+    "claude": 13,
+    "agents": 14,
+    "codex": 1,
+    "antigravity": 6,
+    "opencode": 0,
+    "llm": 20,
+    "ai_general": 70
+  },
+  "videos": [
+    {
+      "channel_name": "Website Learners",
+      "channel_subs": 2830000,
+      "channel_views": 234479744,
+      "video_id": "jBrCyXnjjGI",
+      "title": "How to Build a B2B Lead Generation AI Agent Using n8n",
+      "published_at": "2026-01-07T12:01:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/jBrCyXnjjGI/default.jpg",
+      "channel_url": "https://www.youtube.com/c/WebsiteLearners",
+      "ai_keywords": [
+        "ai_general",
+        "agents"
+      ],
+      "relevance_score": 0.2857142857142857
+    },
+    {
+      "channel_name": "Website Learners",
+      "channel_subs": 2830000,
+      "channel_views": 234479744,
+      "video_id": "jBrCyXnjjGI",
+      "title": "How to Build a B2B Lead Generation AI Agent Using n8n",
+      "published_at": "2026-01-07T12:01:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/jBrCyXnjjGI/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCpWT_QfKk7BJIpn709YgsYA",
+      "ai_keywords": [
+        "ai_general",
+        "agents"
+      ],
+      "relevance_score": 0.2857142857142857
+    },
+    {
+      "channel_name": "freeCodeCamp.org",
+      "channel_subs": 11400000,
+      "channel_views": 934760645,
+      "video_id": "tr5Fapv80Cw",
+      "title": "Building Agentic AI Workloads \u2013 Crash Course",
+      "published_at": "2026-01-06T15:08:17Z",
+      "thumbnail": "https://i.ytimg.com/vi/tr5Fapv80Cw/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ",
+      "ai_keywords": [
+        "ai_general",
+        "agents"
+      ],
+      "relevance_score": 0.2857142857142857
+    },
+    {
+      "channel_name": "Pyplane",
+      "channel_subs": 35800,
+      "channel_views": 2634935,
+      "video_id": "PPOkRi5xBPg",
+      "title": "AI Agents + Django = This #antigravity #aiagents #django #shorts",
+      "published_at": "2025-12-21T22:20:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/PPOkRi5xBPg/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCQtHyVB4O4Nwy1ff5qQnyRw",
+      "ai_keywords": [
+        "antigravity",
+        "agents"
+      ],
+      "relevance_score": 0.2857142857142857
+    },
+    {
+      "channel_name": "Pyplane",
+      "channel_subs": 35800,
+      "channel_views": 2634935,
+      "video_id": "yO-h3uaXYHU",
+      "title": "AI Agent Powered CHATBOT - Add it to your website or app #chatbot #chatgpt #aiagents",
+      "published_at": "2025-12-20T16:21:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/yO-h3uaXYHU/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCQtHyVB4O4Nwy1ff5qQnyRw",
+      "ai_keywords": [
+        "llm",
+        "agents"
+      ],
+      "relevance_score": 0.2857142857142857
+    },
+    {
+      "channel_name": "Pyplane",
+      "channel_subs": 35800,
+      "channel_views": 2634935,
+      "video_id": "AX5c5siibjk",
+      "title": "Run n8n from Python - AI agents & automations #n8n #n8ntutorial #python3",
+      "published_at": "2025-12-18T20:50:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/AX5c5siibjk/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCQtHyVB4O4Nwy1ff5qQnyRw",
+      "ai_keywords": [
+        "ai_general",
+        "agents"
+      ],
+      "relevance_score": 0.2857142857142857
+    },
+    {
+      "channel_name": "\uae40\uc67c\uc190\uc758 \uc67c\uc190\ucf54\ub529",
+      "channel_subs": 54000,
+      "channel_views": 6740505,
+      "video_id": "gYWBbkqOdxc",
+      "title": "\"\uc694\uc998 \ucc57GPT\uac00 \uc81c\uc77c \ub2e4\uc815\ud568\" AI\ub97c \ub098\ub9cc\uc758 \uc2ec\ub9ac \uc0c1\ub2f4\uc0ac\ub85c \uc4f0\ub294 3\uac00\uc9c0 \uae30\uc220 | \ub300\uccb4\ub418\uc9c0 \uc54a\uae30 \uc704\ud55c \ucd5c\uc18c\ud55c\uc758 AI \uc9c0\uc2dd | \uc67c\uc190\ucf54\ub529 \ud31f\uce90\uc2a4\ud2b8 EP.06",
+      "published_at": "2025-12-18T00:57:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/gYWBbkqOdxc/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC0h8NzL2vllvp3PjdoYSK4g",
+      "ai_keywords": [
+        "llm",
+        "ai_general"
+      ],
+      "relevance_score": 0.2857142857142857
+    },
+    {
+      "channel_name": "UW-TEAM.org",
+      "channel_subs": 37500,
+      "channel_views": 2875318,
+      "video_id": "D4vfYFLgjQw",
+      "title": "Projektowanie narz\u0119dzi dla modeli j\u0119zykowych i agent\u00f3w AI | LIVE AI_devs 4",
+      "published_at": "2025-12-17T20:29:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/D4vfYFLgjQw/default.jpg",
+      "channel_url": "https://www.youtube.com/user/uwteamorg",
+      "ai_keywords": [
+        "ai_general",
+        "agents"
+      ],
+      "relevance_score": 0.2857142857142857
+    },
+    {
+      "channel_name": "overment",
+      "channel_subs": 31100,
+      "channel_views": 2000072,
+      "video_id": "DA1re3gfoDA",
+      "title": "Projektowanie narz\u0119dzi dla modeli j\u0119zykowych i agent\u00f3w AI | LIVE AI_devs 4",
+      "published_at": "2025-12-17T20:28:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/DA1re3gfoDA/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC_MIaHmSkt9JHNZfQ_gUmrg",
+      "ai_keywords": [
+        "ai_general",
+        "agents"
+      ],
+      "relevance_score": 0.2857142857142857
+    },
+    {
+      "channel_name": "ArXiv Insights",
+      "channel_subs": 102000,
+      "channel_views": 2619622,
+      "video_id": "fhmEs0RwJd0",
+      "title": "From AI Slop to Collective Intelligence: Agents are the New Creative Medium.",
+      "published_at": "2025-11-23T16:27:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/fhmEs0RwJd0/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCNIkB2IeJ-6AmZv7bQ1oBYg",
+      "ai_keywords": [
+        "ai_general",
+        "agents"
+      ],
+      "relevance_score": 0.2857142857142857
+    },
+    {
+      "channel_name": "Eli the Computer Guy",
+      "channel_subs": 1110000,
+      "channel_views": 92407277,
+      "video_id": "WPodhjClVs4",
+      "title": "NVIDIA Demands China Pay for H200 AI GPU's Upfront - No Refund If Chinese Government Bans Chips",
+      "published_at": "2026-01-08T21:00:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/WPodhjClVs4/default.jpg",
+      "channel_url": "https://www.youtube.com/user/elithecomputerguy",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Gyasi Linje",
+      "channel_subs": 194000,
+      "channel_views": 26466129,
+      "video_id": "ttCjRAY7Bbw",
+      "title": "The 3-Wheel AI Powered EV \ud83d\ude33",
+      "published_at": "2026-01-08T20:52:02Z",
+      "thumbnail": "https://i.ytimg.com/vi/ttCjRAY7Bbw/default.jpg",
+      "channel_url": "https://www.youtube.com/user/ASEgG100",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "GitHub",
+      "channel_subs": 579000,
+      "channel_views": 33026389,
+      "video_id": "uBw1Q0L6qwU",
+      "title": "Transforming Engineering Leadership with AI and Metrics",
+      "published_at": "2026-01-08T18:31:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/uBw1Q0L6qwU/default_live.jpg",
+      "channel_url": "https://www.youtube.com/user/github",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Real Python",
+      "channel_subs": 206000,
+      "channel_views": 10793158,
+      "video_id": "0i-ppE-0TZQ",
+      "title": "Tips for Using the AI Coding Editor Cursor: Setting Up, Touring the Interface, and using Plan Mode",
+      "published_at": "2026-01-08T18:00:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/0i-ppE-0TZQ/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCI0vQvr9aFn27yR6Ej6n5UA",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "midudev",
+      "channel_subs": 469000,
+      "channel_views": 54390553,
+      "video_id": "BGpilxafBKA",
+      "title": "\u00a1Microsoft ha lanzado un nuevo curso para aprender a crear Agentes de IA desde cero y en Espa\u00f1ol!\n\n\u2713",
+      "published_at": "2026-01-08T16:40:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/BGpilxafBKA/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC8LeXCWOalN8SxlrPcG-PaQ",
+      "ai_keywords": [
+        "agents"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "\uc870\ucf54\ub529 JoCoding",
+      "channel_subs": 700000,
+      "channel_views": 207929697,
+      "video_id": "-iEIOXh9DCs",
+      "title": "[1\uc8fc\ucc28] 5\uc8fc \uc644\uc131 AI Product Builder, 1\uc778 \ucc3d\uc5c5\uac00 \ubd80\ud2b8\ucea0\ud504",
+      "published_at": "2026-01-08T15:34:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/-iEIOXh9DCs/default_live.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCQNE2JmbasNYbjGAcuBiRRg",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "KodeKloud",
+      "channel_subs": 294000,
+      "channel_views": 19538702,
+      "video_id": "tYg6T_DAP-k",
+      "title": "Run LLMs with Docker Model Runner (No Python, PyTorch, or CUDA Required)",
+      "published_at": "2026-01-08T15:15:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/tYg6T_DAP-k/default.jpg",
+      "channel_url": "https://www.youtube.com/user/mmumshad",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "GOTO Conferences",
+      "channel_subs": 1060000,
+      "channel_views": 73162117,
+      "video_id": "lz0L0rRV7RE",
+      "title": "Hacking AI Systems: How to (Still) Trick Artificial Intelligence \u2022 Katharine Jarmul \u2022 GOTO 2025",
+      "published_at": "2026-01-08T13:01:39Z",
+      "thumbnail": "https://i.ytimg.com/vi/lz0L0rRV7RE/default.jpg",
+      "channel_url": "https://www.youtube.com/user/GotoConferences",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Codedamn",
+      "channel_subs": 454000,
+      "channel_views": 47055374,
+      "video_id": "MO3UPbs_SIE",
+      "title": "How tokenizer works in ChatGPT",
+      "published_at": "2026-01-08T07:32:28Z",
+      "thumbnail": "https://i.ytimg.com/vi/MO3UPbs_SIE/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Eli the Computer Guy",
+      "channel_subs": 1110000,
+      "channel_views": 92407277,
+      "video_id": "cwfe4vlXSJo",
+      "title": "China Blocking Meta Buying Manu AI - Chinese Angry at American Threats",
+      "published_at": "2026-01-07T22:54:41Z",
+      "thumbnail": "https://i.ytimg.com/vi/cwfe4vlXSJo/default.jpg",
+      "channel_url": "https://www.youtube.com/user/elithecomputerguy",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "MITCSAIL",
+      "channel_subs": 86700,
+      "channel_views": 11505620,
+      "video_id": "DdOyaDhrf6U",
+      "title": "MIT PhD Student Explains How AI Can Aid Environmental Conservation",
+      "published_at": "2026-01-07T20:54:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/DdOyaDhrf6U/default.jpg",
+      "channel_url": "http://www.youtube.com/user/MITCSAIL",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Flutter(Official)",
+      "channel_subs": 625000,
+      "channel_views": 127338573,
+      "video_id": "05YzAGNEkrw",
+      "title": "Crosswords, Flutter, and good challenges for AI",
+      "published_at": "2026-01-07T18:25:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/05YzAGNEkrw/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Tanay Pratap",
+      "channel_subs": 315000,
+      "channel_views": 35241169,
+      "video_id": "P-ckAEikwnY",
+      "title": "India pe AI ka investment? Data Centers pe Jayega #tanaypratap #shorts",
+      "published_at": "2026-01-07T14:30:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/P-ckAEikwnY/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCNFmBuclxQPe57orKiQbyfA",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Codedamn",
+      "channel_subs": 454000,
+      "channel_views": 47055374,
+      "video_id": "mRcf5qQSYws",
+      "title": "First part of LLM",
+      "published_at": "2026-01-07T13:26:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/mRcf5qQSYws/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCJUmE61LxhbhudzUugHL2wQ",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Murat Yucedag",
+      "channel_subs": 179000,
+      "channel_views": 34352436,
+      "video_id": "ESidEnACk0U",
+      "title": "#16 SQL E\u011fitim Kamp\u0131 (Yapay Zeka Destekli) - ChatGpt ile 20.000 Sat\u0131r Product Verisi Olu\u015fturma",
+      "published_at": "2026-01-07T13:23:12Z",
+      "thumbnail": "https://i.ytimg.com/vi/ESidEnACk0U/default.jpg",
+      "channel_url": "https://www.youtube.com/user/YazilimHerYerde",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Kent C. Dodds",
+      "channel_subs": 57000,
+      "channel_views": 3257076,
+      "video_id": "GcBde2kiY_g",
+      "title": "From AI Automation to Full-Stack Engineering",
+      "published_at": "2026-01-06T22:21:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/GcBde2kiY_g/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCz-BYvuntVRt_VpfR6FKXJw",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "What's AI",
+      "channel_subs": 70300,
+      "channel_views": 4342942,
+      "video_id": "iOpLKJYOvXs",
+      "title": "From Workflows to Multi-Agent Systems: How to Choose",
+      "published_at": "2026-01-06T22:04:14Z",
+      "thumbnail": "https://i.ytimg.com/vi/iOpLKJYOvXs/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg",
+      "ai_keywords": [
+        "agents"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Anthony Sistilli",
+      "channel_subs": 130000,
+      "channel_views": 67976880,
+      "video_id": "QWlpUVjNCi8",
+      "title": "Claude Code is written.. by Claude Code?",
+      "published_at": "2026-01-06T19:40:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/QWlpUVjNCi8/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCoYzQqZNCRqqAomJwJ6yEdg",
+      "ai_keywords": [
+        "claude"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "What's AI",
+      "channel_subs": 70300,
+      "channel_views": 4342942,
+      "video_id": "lJeFJ5gL4DE",
+      "title": "LLMs Do NOT Learn Like Humans. Here\u2019s Why",
+      "published_at": "2026-01-06T18:01:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/lJeFJ5gL4DE/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "GitHub",
+      "channel_subs": 579000,
+      "channel_views": 33026389,
+      "video_id": "m24psZGp_bA",
+      "title": "Will AI make react popular forever?",
+      "published_at": "2026-01-06T17:01:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/m24psZGp_bA/default.jpg",
+      "channel_url": "https://www.youtube.com/user/github",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Eli the Computer Guy",
+      "channel_subs": 1110000,
+      "channel_views": 92407277,
+      "video_id": "akbmh81-epw",
+      "title": "NVIDIA Releases Open Source Physical AI Models for Robots - Jensen Huang Destroys Tesla",
+      "published_at": "2026-01-06T17:00:03Z",
+      "thumbnail": "https://i.ytimg.com/vi/akbmh81-epw/default.jpg",
+      "channel_url": "https://www.youtube.com/user/elithecomputerguy",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Attekita Dev",
+      "channel_subs": 346000,
+      "channel_views": 15472424,
+      "video_id": "L9fXjeHsn9Q",
+      "title": "Claude Code fez em 1 hora o que o Google levou 1 ano. Isso muda o papel do programador?",
+      "published_at": "2026-01-06T15:21:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/L9fXjeHsn9Q/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCetRsdZxDQDcgVDJd6erz6g",
+      "ai_keywords": [
+        "claude"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "What's AI",
+      "channel_subs": 70300,
+      "channel_views": 4342942,
+      "video_id": "jlcyyjprR2s",
+      "title": "Why AI types one word at a time",
+      "published_at": "2026-01-06T13:01:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/jlcyyjprR2s/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCUzGQrN-lyyc0BWTYoJM_Sg",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Fazt",
+      "channel_subs": 654000,
+      "channel_views": 67409177,
+      "video_id": "KHiwBh7lO2I",
+      "title": "As\u00ed Uso Claude Code Profesionalmente - Mis Tips de Claude Code",
+      "published_at": "2026-01-06T12:30:38Z",
+      "thumbnail": "https://i.ytimg.com/vi/KHiwBh7lO2I/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCX9NJ471o7Wie1DQe94RVIg",
+      "ai_keywords": [
+        "claude"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Website Learners",
+      "channel_subs": 2830000,
+      "channel_views": 234479744,
+      "video_id": "jAwnTGi6YJM",
+      "title": "Make Instant Tutorial Videos with AI - No Editing, No Script Needed!",
+      "published_at": "2026-01-06T11:48:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/jAwnTGi6YJM/default.jpg",
+      "channel_url": "https://www.youtube.com/c/WebsiteLearners",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Website Learners",
+      "channel_subs": 2830000,
+      "channel_views": 234479744,
+      "video_id": "jAwnTGi6YJM",
+      "title": "Make Instant Tutorial Videos with AI - No Editing, No Script Needed!",
+      "published_at": "2026-01-06T11:48:37Z",
+      "thumbnail": "https://i.ytimg.com/vi/jAwnTGi6YJM/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCpWT_QfKk7BJIpn709YgsYA",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Website Learners",
+      "channel_subs": 2830000,
+      "channel_views": 234479744,
+      "video_id": "PdK2OOE1ouo",
+      "title": "This FREE AI Made My Tutorial in 5 Minutes (No Editing)",
+      "published_at": "2026-01-06T11:43:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/PdK2OOE1ouo/default.jpg",
+      "channel_url": "https://www.youtube.com/c/WebsiteLearners",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Website Learners",
+      "channel_subs": 2830000,
+      "channel_views": 234479744,
+      "video_id": "PdK2OOE1ouo",
+      "title": "This FREE AI Made My Tutorial in 5 Minutes (No Editing)",
+      "published_at": "2026-01-06T11:43:35Z",
+      "thumbnail": "https://i.ytimg.com/vi/PdK2OOE1ouo/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCpWT_QfKk7BJIpn709YgsYA",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Fullstack Developers Israel",
+      "channel_subs": 3010,
+      "channel_views": 833355,
+      "video_id": "WEv0oXv01Zk",
+      "title": "From Agents to Architecture: Introducing Tikal's Agentic Engineer Program Webinar 5/1/26 (Hebrew)",
+      "published_at": "2026-01-06T07:55:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/WEv0oXv01Zk/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCV7lV9Lq2sc7t0QEKS4xH7A",
+      "ai_keywords": [
+        "agents"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Micael Mota",
+      "channel_subs": 88200,
+      "channel_views": 5119354,
+      "video_id": "G8oW3-mtFyA",
+      "title": "Como colocar LLM e outros modelos de IA de gra\u00e7a no seu projeto web sem pagar api da openai",
+      "published_at": "2026-01-05T21:34:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/G8oW3-mtFyA/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCz8juhUx7YZxqCaaNlggNnw",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "David Connelly",
+      "channel_subs": 11500,
+      "channel_views": 1435895,
+      "video_id": "Zqh_Un6NA3Q",
+      "title": "Which AI engine is best at designing a discussion forum?  VOTE NOW!",
+      "published_at": "2026-01-05T18:03:31Z",
+      "thumbnail": "https://i.ytimg.com/vi/Zqh_Un6NA3Q/default.jpg",
+      "channel_url": "https://www.youtube.com/user/davidjconnelly",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Eli the Computer Guy",
+      "channel_subs": 1110000,
+      "channel_views": 92407277,
+      "video_id": "SgF9Y_k6SRQ",
+      "title": "Chinese Photonic AI LightGen Chip 100x Faster Than NVIDIA - China Beats USA in Vaporware",
+      "published_at": "2026-01-05T17:00:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/SgF9Y_k6SRQ/default.jpg",
+      "channel_url": "https://www.youtube.com/user/elithecomputerguy",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "KodeKloud",
+      "channel_subs": 294000,
+      "channel_views": 19538702,
+      "video_id": "wa1NZcX6Nzs",
+      "title": "How to Analyze Linux Logs with AI (For Free)",
+      "published_at": "2026-01-05T15:30:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/wa1NZcX6Nzs/default.jpg",
+      "channel_url": "https://www.youtube.com/user/mmumshad",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Red Stapler",
+      "channel_subs": 175000,
+      "channel_views": 20854194,
+      "video_id": "Ncwri9uvcO8",
+      "title": "How to setup AI Autocomplete in VS Code (Free & Local)",
+      "published_at": "2026-01-05T13:06:53Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ncwri9uvcO8/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Fredrik Christenson",
+      "channel_subs": 26500,
+      "channel_views": 4546273,
+      "video_id": "u9QYkp9CMt4",
+      "title": "How will AI change the interview process?",
+      "published_at": "2026-01-05T05:01:06Z",
+      "thumbnail": "https://i.ytimg.com/vi/u9QYkp9CMt4/default.jpg",
+      "channel_url": "https://www.youtube.com/user/Fidde12345",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Codevolution",
+      "channel_subs": 747000,
+      "channel_views": 145141107,
+      "video_id": "pvMGRSZJ4Jw",
+      "title": "Best AI Coding Tools for Developers in 2026",
+      "published_at": "2026-01-05T04:30:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/pvMGRSZJ4Jw/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC80PWRj_ZU8Zu0HSMNVwKWw",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Bilgisayar Kavramlar\u0131",
+      "channel_subs": 271000,
+      "channel_views": 34832178,
+      "video_id": "XiNLQIOqKO0",
+      "title": "What Is Deep Learning? | The Book That Changed AI \u2013 Audio Commentary & Analysis",
+      "published_at": "2026-01-04T17:42:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/XiNLQIOqKO0/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCkkgrhDCJheXQNIFqUVw0_g",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Tanay Pratap",
+      "channel_subs": 315000,
+      "channel_views": 35241169,
+      "video_id": "NIqRgVIuG8I",
+      "title": "Top 10 AI Developer Tools You MUST know in 2026! #tanaypratap #hindi",
+      "published_at": "2026-01-04T14:30:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/NIqRgVIuG8I/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCNFmBuclxQPe57orKiQbyfA",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "John Philip Jones",
+      "channel_subs": 43800,
+      "channel_views": 6519932,
+      "video_id": "NHGpuPh-6AA",
+      "title": "How Word Copilot Creates a 7-Day Pre-Diabetes Meal Plan",
+      "published_at": "2026-01-04T08:00:24Z",
+      "thumbnail": "https://i.ytimg.com/vi/NHGpuPh-6AA/default.jpg",
+      "channel_url": "https://www.youtube.com/user/johnphilipjones",
+      "ai_keywords": [
+        "codex"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Jenny's lectures CS/IT NET&JRF",
+      "channel_subs": 2030000,
+      "channel_views": 274809186,
+      "video_id": "_FS_yEjWoP4",
+      "title": "3 AI Prompts to get Complete Learning Roadmap | Learn Any Skill",
+      "published_at": "2026-01-03T13:45:09Z",
+      "thumbnail": "https://i.ytimg.com/vi/_FS_yEjWoP4/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCM-yUTYGmrNvKOCcAl21g3w",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "CS50",
+      "channel_subs": 2290000,
+      "channel_views": 141868108,
+      "video_id": "-9bo8HlSxwQ",
+      "title": "CS50x 2026 - Artificial Intelligence",
+      "published_at": "2026-01-02T00:00:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/-9bo8HlSxwQ/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Tanay Pratap",
+      "channel_subs": 315000,
+      "channel_views": 35241169,
+      "video_id": "j2UMaazdHlQ",
+      "title": "ChatGPT ka sabse bada Game: Indian GCCs me MONOPLY #tanaypratap #shorts",
+      "published_at": "2025-12-31T14:30:42Z",
+      "thumbnail": "https://i.ytimg.com/vi/j2UMaazdHlQ/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCNFmBuclxQPe57orKiQbyfA",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "GoCode",
+      "channel_subs": 1690,
+      "channel_views": 63837,
+      "video_id": "wSF_K5UNU0s",
+      "title": "Build a Solitaire Game in 60 Seconds with AI - Projly App Demo",
+      "published_at": "2025-12-31T13:46:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/wSF_K5UNU0s/default.jpg",
+      "channel_url": "https://www.youtube.com/c/GoCodeSderot",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "The Codeholic",
+      "channel_subs": 106000,
+      "channel_views": 7869172,
+      "video_id": "2R32AdMWfgY",
+      "title": "How AI Based Semantic Search works | Part 2",
+      "published_at": "2025-12-30T11:30:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/2R32AdMWfgY/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC_UMEcP_kF0z4E6KbxCpV1w",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Negev Web Developers",
+      "channel_subs": 848,
+      "channel_views": 34813,
+      "video_id": "1A9unhkc-SI",
+      "title": "NWD- Nadav Lebovitch- Real lessons from AI powered",
+      "published_at": "2025-12-27T18:54:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/1A9unhkc-SI/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCeb23koM86s-w9534jdRxIQ",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Programmer Zaman Now",
+      "channel_subs": 308000,
+      "channel_views": 29741530,
+      "video_id": "_f9dS9RXKkE",
+      "title": "Coba pake AI buat upgrade project biar selalu up to date! #programmerzamannow #ai #coding",
+      "published_at": "2025-12-27T05:00:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/_f9dS9RXKkE/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC14ZKB9XsDZbnHVmr4AmUpQ",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "JavaBrains",
+      "channel_subs": 699000,
+      "channel_views": 138367998,
+      "video_id": "OI0stZo6Jy8",
+      "title": "Claude Code Gets Superpowers!",
+      "published_at": "2025-12-27T04:18:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/OI0stZo6Jy8/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCYt1sfh5464XaDBH0oH_o7Q",
+      "ai_keywords": [
+        "claude"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Negev Web Developers",
+      "channel_subs": 848,
+      "channel_views": 34813,
+      "video_id": "Isvq3cx_Rf8",
+      "title": "Gil Filnk - Unleashing AI in your web apps",
+      "published_at": "2025-12-23T19:58:59Z",
+      "thumbnail": "https://i.ytimg.com/vi/Isvq3cx_Rf8/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCeb23koM86s-w9534jdRxIQ",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "CodeWithHarry",
+      "channel_subs": 9350000,
+      "channel_views": 1055113901,
+      "video_id": "FzN_K2E1PzA",
+      "title": "This AI can build Mobile Apps with High Accuracy\ud83d\udd25| Manus 1.6 Updates",
+      "published_at": "2025-12-23T11:30:16Z",
+      "thumbnail": "https://i.ytimg.com/vi/FzN_K2E1PzA/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCeVMnSShP_Iviwkknt83cww",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Siraj Raval",
+      "channel_subs": 774000,
+      "channel_views": 52643614,
+      "video_id": "Q7INj06TUv4",
+      "title": "I Solved an 'Impossible' Math Problem with AI",
+      "published_at": "2025-12-23T09:29:56Z",
+      "thumbnail": "https://i.ytimg.com/vi/Q7INj06TUv4/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Telusko",
+      "channel_subs": 2720000,
+      "channel_views": 348240482,
+      "video_id": "4g2VqWLJL04",
+      "title": "Industry-Ready Java Spring Boot, React & Gen AI Live Course",
+      "published_at": "2025-12-23T04:47:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/4g2VqWLJL04/default.jpg",
+      "channel_url": "https://www.youtube.com/user/javaboynavin",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "\uae40\uc67c\uc190\uc758 \uc67c\uc190\ucf54\ub529",
+      "channel_subs": 54000,
+      "channel_views": 6740505,
+      "video_id": "j8dHL913QVw",
+      "title": "\"AI \uac70\ud488 \uace7 \ud130\uc9d1\ub2c8\ub2e4\" \ube4c \uac8c\uc774\uce20\uac00 \uacbd\uace0\ud558\ub294 \ub2f7\ucef4 \ubc84\ube14\uc758 \uc7ac\ub9bc | \ub300\uccb4\ub418\uc9c0 \uc54a\uae30 \uc704\ud55c \ucd5c\uc18c\ud55c\uc758 AI \uc9c0\uc2dd | \uc67c\uc190\ucf54\ub529 \ud31f\uce90\uc2a4\ud2b8 EP.09",
+      "published_at": "2025-12-22T06:10:25Z",
+      "thumbnail": "https://i.ytimg.com/vi/j8dHL913QVw/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC0h8NzL2vllvp3PjdoYSK4g",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "CS Dojo",
+      "channel_subs": 1950000,
+      "channel_views": 84459742,
+      "video_id": "hiISl558JGE",
+      "title": "Data Processing & Visualization with Claude Code in 10 Minutes",
+      "published_at": "2025-12-21T15:57:00Z",
+      "thumbnail": "https://i.ytimg.com/vi/hiISl558JGE/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A",
+      "ai_keywords": [
+        "claude"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Two Minute Papers",
+      "channel_subs": 1770000,
+      "channel_views": 161529821,
+      "video_id": "_uo7CXd33Uc",
+      "title": "NVIDIA\u2019s AI Finally Solved Walking In Games",
+      "published_at": "2025-12-21T14:46:29Z",
+      "thumbnail": "https://i.ytimg.com/vi/_uo7CXd33Uc/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "The Morpheus Tutorials",
+      "channel_subs": 270000,
+      "channel_views": 46067437,
+      "video_id": "pmRJS3Plt_8",
+      "title": "Studio, Development, AI - alles passiert HIER!",
+      "published_at": "2025-12-21T12:48:49Z",
+      "thumbnail": "https://i.ytimg.com/vi/pmRJS3Plt_8/default.jpg",
+      "channel_url": "https://www.youtube.com/user/TheMorpheus407",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "\uae40\uc67c\uc190\uc758 \uc67c\uc190\ucf54\ub529",
+      "channel_subs": 54000,
+      "channel_views": 6740505,
+      "video_id": "is5nGSyoShI",
+      "title": "\ud63c\uc790\uc11c 700\uba85\ubd84 \uc77c\ud558\ub294 'AI \uc5d0\uc774\uc804\ud2b8'\uc5d0\uac8c \ubcf5\uc0ac \ubd99\uc5ec\ub123\uae30 \ub178\uac00\ub2e4 \ubabd\ub545 \ub118\uae30\ub294 \ubc95 | \ub300\uccb4\ub418\uc9c0 \uc54a\uae30 \uc704\ud55c \ucd5c\uc18c\ud55c\uc758 AI \uc9c0\uc2dd | \uc67c\uc190\ucf54\ub529 \ud31f\uce90\uc2a4\ud2b8 EP.08",
+      "published_at": "2025-12-21T09:13:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/is5nGSyoShI/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC0h8NzL2vllvp3PjdoYSK4g",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Telusko",
+      "channel_subs": 2720000,
+      "channel_views": 348240482,
+      "video_id": "Zjkc3EsSXk4",
+      "title": "Industry-Ready : Java Spring Boot, React & Generative AI Live Course",
+      "published_at": "2025-12-21T06:53:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/Zjkc3EsSXk4/default.jpg",
+      "channel_url": "https://www.youtube.com/user/javaboynavin",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "\uae40\uc67c\uc190\uc758 \uc67c\uc190\ucf54\ub529",
+      "channel_subs": 54000,
+      "channel_views": 6740505,
+      "video_id": "Ujc9ilOVPK4",
+      "title": "\"\uc65c \ub0b4 AI\ub9cc \uba4d\uccad\ud55c \uac78\uae4c?\" \ud558\ubc84\ub4dc\uac00 \ubc1d\ud600\ub0b8 \ucda9\uaca9\uc801\uc778 \uc774\uc720 | \ub300\uccb4\ub418\uc9c0 \uc54a\uae30 \uc704\ud55c \ucd5c\uc18c\ud55c\uc758 AI \uc9c0\uc2dd | \uc67c\uc190\ucf54\ub529 \ud31f\uce90\uc2a4\ud2b8 EP.07",
+      "published_at": "2025-12-20T01:43:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/Ujc9ilOVPK4/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC0h8NzL2vllvp3PjdoYSK4g",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Coding Tech",
+      "channel_subs": 719000,
+      "channel_views": 15729823,
+      "video_id": "96pARvK83CA",
+      "title": "TypeScript Won... Because of AI (GitHub 2025)",
+      "published_at": "2025-12-19T19:00:21Z",
+      "thumbnail": "https://i.ytimg.com/vi/96pARvK83CA/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCtxCXg-UvSnTKPOzLH4wJaQ",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Computerphile",
+      "channel_subs": 2600000,
+      "channel_views": 232795943,
+      "video_id": "LHsgtcNNM0A",
+      "title": "Gen AI & Reinforcement Learning- Computerphile",
+      "published_at": "2025-12-19T13:15:04Z",
+      "thumbnail": "https://i.ytimg.com/vi/LHsgtcNNM0A/default.jpg",
+      "channel_url": "https://www.youtube.com/user/Computerphile",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "NetworkChuck",
+      "channel_subs": 5060000,
+      "channel_views": 369275793,
+      "video_id": "p4M50NgC9qU",
+      "title": "n8n + Claude Code Is TOO Powerful",
+      "published_at": "2025-12-17T17:36:57Z",
+      "thumbnail": "https://i.ytimg.com/vi/p4M50NgC9qU/default.jpg",
+      "channel_url": "https://www.youtube.com/c/NetworkChuck",
+      "ai_keywords": [
+        "claude"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Kadirov Dev",
+      "channel_subs": 62400,
+      "channel_views": 2200826,
+      "video_id": "oC9knNuXBMM",
+      "title": "Ma'suliyat #boks #astracode #chatgpt   #algoritm",
+      "published_at": "2025-12-17T14:45:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/oC9knNuXBMM/default.jpg",
+      "channel_url": "https://www.youtube.com/c/KadirovDev",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "codewithsadee",
+      "channel_subs": 67900,
+      "channel_views": 4657928,
+      "video_id": "PLd6qHxSIfY",
+      "title": "Data From Anywhere: How AI Startups Collect Web Data at Scale",
+      "published_at": "2025-12-17T13:22:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/PLd6qHxSIfY/default.jpg",
+      "channel_url": "https://www.youtube.com/c/codewithsadee",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "\uae40\uc67c\uc190\uc758 \uc67c\uc190\ucf54\ub529",
+      "channel_subs": 54000,
+      "channel_views": 6740505,
+      "video_id": "tEZqjhtuHFo",
+      "title": "\"\uac1c\ubc1c\ud300, \uae30\ud68d\ud300 \ud544\uc694 \uc5c6\uc2b5\ub2c8\ub2e4\" AI \uc5d0\uc774\uc804\ud2b8\ub85c \ud63c\uc790\uc11c \uc644\ubcbd\ud55c '\ud300'\uc774 \ub418\ub294 \ubc95 | \ub300\uccb4\ub418\uc9c0 \uc54a\uae30 \uc704\ud55c \ucd5c\uc18c\ud55c\uc758 AI \uc9c0\uc2dd | \uc67c\uc190\ucf54\ub529 \ud31f\uce90\uc2a4\ud2b8 EP.05",
+      "published_at": "2025-12-16T07:01:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/tEZqjhtuHFo/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC0h8NzL2vllvp3PjdoYSK4g",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Kadirov Dev",
+      "channel_subs": 62400,
+      "channel_views": 2200826,
+      "video_id": "BMhF1zXxyx0",
+      "title": "Makaronni bo'lishib  #astracode #algoritm #chatgpt #web3 #dasturlashni_organish_kursi",
+      "published_at": "2025-12-15T14:45:01Z",
+      "thumbnail": "https://i.ytimg.com/vi/BMhF1zXxyx0/default.jpg",
+      "channel_url": "https://www.youtube.com/c/KadirovDev",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Caleb Curry",
+      "channel_subs": 717000,
+      "channel_views": 59238410,
+      "video_id": "8CRhLXRuY_A",
+      "title": "How to make AI work better",
+      "published_at": "2025-12-13T03:46:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/8CRhLXRuY_A/default.jpg",
+      "channel_url": "https://www.youtube.com/user/CalebTheVideoMaker2",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Fireship",
+      "channel_subs": 4070000,
+      "channel_views": 658855360,
+      "video_id": "rEvEXQvo-F8",
+      "title": "OpenAI was dead\u2026 Then GPT-5.2 dropped",
+      "published_at": "2025-12-12T22:19:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/rEvEXQvo-F8/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Prismic",
+      "channel_subs": 38800,
+      "channel_views": 2950933,
+      "video_id": "KukYM8-AlTo",
+      "title": "Antigravity Wiped an Entire Hard Drive?!",
+      "published_at": "2025-12-12T16:14:34Z",
+      "thumbnail": "https://i.ytimg.com/vi/KukYM8-AlTo/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA/",
+      "ai_keywords": [
+        "antigravity"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "DesignCourse",
+      "channel_subs": 1160000,
+      "channel_views": 76635459,
+      "video_id": "0wYQfw4oMg4",
+      "title": "I launched an AI MVP with Cursor, but I need an Investor",
+      "published_at": "2025-12-12T14:35:22Z",
+      "thumbnail": "https://i.ytimg.com/vi/0wYQfw4oMg4/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCVyRiMvfUNMA1UPlDPzG5Ow",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Caleb Curry",
+      "channel_subs": 717000,
+      "channel_views": 59238410,
+      "video_id": "pFaF_qDlWUg",
+      "title": "Top-k sampling #ai #llm",
+      "published_at": "2025-12-12T03:29:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/pFaF_qDlWUg/default.jpg",
+      "channel_url": "https://www.youtube.com/user/CalebTheVideoMaker2",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Prismic",
+      "channel_subs": 38800,
+      "channel_views": 2950933,
+      "video_id": "kJ9R_02nTMg",
+      "title": "The 'OFFICIAL' LLM Release Checklist",
+      "published_at": "2025-12-11T16:49:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/kJ9R_02nTMg/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA/",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Wes Bos",
+      "channel_subs": 217000,
+      "channel_views": 15347196,
+      "video_id": "vOJtAY9qJpQ",
+      "title": "I shouldn\u2019t have built this \u2014 pizza agent",
+      "published_at": "2025-12-11T13:45:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/vOJtAY9qJpQ/default.jpg",
+      "channel_url": "https://www.youtube.com/user/wesbos",
+      "ai_keywords": [
+        "agents"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Caleb Curry",
+      "channel_subs": 717000,
+      "channel_views": 59238410,
+      "video_id": "xvW0hjWFtEI",
+      "title": "Gettin kinda hot in here #ai #temperature #llm",
+      "published_at": "2025-12-11T03:04:23Z",
+      "thumbnail": "https://i.ytimg.com/vi/xvW0hjWFtEI/default.jpg",
+      "channel_url": "https://www.youtube.com/user/CalebTheVideoMaker2",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Adam Khoury",
+      "channel_subs": 189000,
+      "channel_views": 32981293,
+      "video_id": "MlLWKBl4yio",
+      "title": "Building Blocks and Historical Timeline of Machine Learning and Artificial Intelligence",
+      "published_at": "2025-12-09T17:41:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/MlLWKBl4yio/default.jpg",
+      "channel_url": "https://www.youtube.com/user/flashbuilding",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Prismic",
+      "channel_subs": 38800,
+      "channel_views": 2950933,
+      "video_id": "MLeUJzfMDZc",
+      "title": "The real reason Anthropic bought Bun...",
+      "published_at": "2025-12-08T16:28:33Z",
+      "thumbnail": "https://i.ytimg.com/vi/MLeUJzfMDZc/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCJq6AEgtWeZt7ziQ-fLKOeA/",
+      "ai_keywords": [
+        "claude"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Kelas Terbuka",
+      "channel_subs": 471000,
+      "channel_views": 31494838,
+      "video_id": "JB6sdpvyF7c",
+      "title": "Sekarang Bikin TOKO ONLINE Lebih SatSet Pakai Wordpress + AI",
+      "published_at": "2025-12-08T04:20:11Z",
+      "thumbnail": "https://i.ytimg.com/vi/JB6sdpvyF7c/default.jpg",
+      "channel_url": "https://www.youtube.com/user/faqihzamukhlish",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Python Programmer",
+      "channel_subs": 778000,
+      "channel_views": 50448570,
+      "video_id": "KhBsHoiiorM",
+      "title": "ChatGPT Brain Rot is Real and Worse than you Think",
+      "published_at": "2025-12-07T16:21:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/KhBsHoiiorM/default.jpg",
+      "channel_url": "https://www.youtube.com/user/consumerchampion",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Python Programmer",
+      "channel_subs": 778000,
+      "channel_views": 50448570,
+      "video_id": "KhBsHoiiorM",
+      "title": "ChatGPT Brain Rot is Real and Worse than you Think",
+      "published_at": "2025-12-07T16:21:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/KhBsHoiiorM/default.jpg",
+      "channel_url": "https://www.youtube.com/user/consumerchampion",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Learn with Hasin Hayder",
+      "channel_subs": 40000,
+      "channel_views": 1237489,
+      "video_id": "vvCvVHc6310",
+      "title": "Design Amazing Website using Claude Code, GLM 4.6 and Anthropics Skills",
+      "published_at": "2025-12-06T14:37:13Z",
+      "thumbnail": "https://i.ytimg.com/vi/vvCvVHc6310/default.jpg",
+      "channel_url": "https://www.youtube.com/user/countdraculla16",
+      "ai_keywords": [
+        "claude"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Fireship",
+      "channel_subs": 4070000,
+      "channel_views": 658855360,
+      "video_id": "5JMiNsV7P3Y",
+      "title": "Anthropic just bought your favorite JS runtime...",
+      "published_at": "2025-12-05T21:43:51Z",
+      "thumbnail": "https://i.ytimg.com/vi/5JMiNsV7P3Y/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+      "ai_keywords": [
+        "claude"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Siraj Raval",
+      "channel_subs": 774000,
+      "channel_views": 52643614,
+      "video_id": "18L5HOYTQAw",
+      "title": "Why Every Skyrim AI Becomes a Stealth Archer",
+      "published_at": "2025-12-03T16:15:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/18L5HOYTQAw/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "MTECHVIRAL",
+      "channel_subs": 144000,
+      "channel_views": 13271758,
+      "video_id": "lHU19Wd5hs4",
+      "title": "Is This The Future of Flutter? \ud83e\udd2f Trying Google's Antigravity IDE! Part - 1",
+      "published_at": "2025-12-02T16:57:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/lHU19Wd5hs4/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCFTM1FGjZSkoSPDZgtbp7hA/videos",
+      "ai_keywords": [
+        "antigravity"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Red Stapler",
+      "channel_subs": 175000,
+      "channel_views": 20854194,
+      "video_id": "jcS1OXLMC2k",
+      "title": "Best Free Realistic AI Voice Generator? - Chatterbox TTS Tutorial",
+      "published_at": "2025-12-02T13:32:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/jcS1OXLMC2k/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCRthRrv06q1iOl86-tTKJhg",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Coding Garden With CJ",
+      "channel_subs": 142000,
+      "channel_views": 5876831,
+      "video_id": "sjAsV-Tbkjc",
+      "title": "Will AI replace programmers? #vibecoding #programming #advice #justchatting #webdevelopment #coding",
+      "published_at": "2025-11-30T15:49:15Z",
+      "thumbnail": "https://i.ytimg.com/vi/sjAsV-Tbkjc/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCLNgu_OupwoeESgtab33CCw",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Jarvis Johnson! GOLD",
+      "channel_subs": 1260000,
+      "channel_views": 158214480,
+      "video_id": "q2oCOt0dmwI",
+      "title": "Cheating On Your Wife With AI",
+      "published_at": "2025-11-28T20:10:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/q2oCOt0dmwI/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCR1PVwrPjpz0U_Fbju-BAzQ",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Dev Eficiente",
+      "channel_subs": 15300,
+      "channel_views": 576210,
+      "video_id": "Qfr0qdUiNvM",
+      "title": "O Claude analisou 46 intera\u00e7\u00f5es minhas com o Cloud Code: aqui est\u00e3o os aprendizados | Dev Eficiente",
+      "published_at": "2025-11-28T01:41:47Z",
+      "thumbnail": "https://i.ytimg.com/vi/Qfr0qdUiNvM/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC9xYzttzFxK9cmhKPQCalYQ",
+      "ai_keywords": [
+        "claude"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "commaai archive",
+      "channel_subs": 213000,
+      "channel_views": 19730369,
+      "video_id": "UYQF2Rklqv4",
+      "title": "comma ai | A drive with comma four | comma 4 | comma.ai/shop/comma-four | $250 trade in credit",
+      "published_at": "2025-11-27T19:25:26Z",
+      "thumbnail": "https://i.ytimg.com/vi/UYQF2Rklqv4/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCwgKmJM4ZJQRJ-U5NjvR2dg",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "TechWorld with Nana",
+      "channel_subs": 1390000,
+      "channel_views": 76754645,
+      "video_id": "QQ4UyZNXof8",
+      "title": "How AI is Changing DevOps Careers | What You Need to Know",
+      "published_at": "2025-11-27T15:03:19Z",
+      "thumbnail": "https://i.ytimg.com/vi/QQ4UyZNXof8/default.jpg",
+      "channel_url": "https://www.youtube.com/TechWorldwithNana",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Fireship",
+      "channel_subs": 4070000,
+      "channel_views": 658855360,
+      "video_id": "S6wc6yvoZLY",
+      "title": "AI agents are paying each other now\u2026",
+      "published_at": "2025-11-26T18:20:32Z",
+      "thumbnail": "https://i.ytimg.com/vi/S6wc6yvoZLY/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCsBjURrPoezykLs9EqgamOA",
+      "ai_keywords": [
+        "agents"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Chris Sean",
+      "channel_subs": 157000,
+      "channel_views": 12001944,
+      "video_id": "tNNxELV6F0s",
+      "title": "Kimi K2 Thinking: Testing the Model That Beat GPT-5",
+      "published_at": "2025-11-26T18:02:46Z",
+      "thumbnail": "https://i.ytimg.com/vi/tNNxELV6F0s/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCu1xbgCV5o48h_BYCQD7KJg",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "The Morpheus Tutorials",
+      "channel_subs": 270000,
+      "channel_views": 46067437,
+      "video_id": "flDgpTfdBP4",
+      "title": "Claude Opus 4.5: Mein neues Go-To f\u00fcr Dev und Ops?",
+      "published_at": "2025-11-25T15:59:27Z",
+      "thumbnail": "https://i.ytimg.com/vi/flDgpTfdBP4/default.jpg",
+      "channel_url": "https://www.youtube.com/user/TheMorpheus407",
+      "ai_keywords": [
+        "claude"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Flutterando",
+      "channel_subs": 64300,
+      "channel_views": 5234180,
+      "video_id": "O2wC8jFKc6k",
+      "title": "Testando o Google Antigravity e Gemini no Flutter",
+      "published_at": "2025-11-25T14:57:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/O2wC8jFKc6k/default.jpg",
+      "channel_url": "https://www.youtube.com/user/jacobaraujo7",
+      "ai_keywords": [
+        "antigravity"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Glaucia Lemos",
+      "channel_subs": 18100,
+      "channel_views": 962360,
+      "video_id": "nSFxEx2iS6U",
+      "title": "Testando o Google Antigravity + Microsoft Ignite 2025 & Atualiza\u00e7\u00f5es Quentes do Universo de IA",
+      "published_at": "2025-11-25T12:07:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/nSFxEx2iS6U/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC2Qzw5aqCBk_z0lWJnumWQQ",
+      "ai_keywords": [
+        "antigravity"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Kelas Terbuka",
+      "channel_subs": 471000,
+      "channel_views": 31494838,
+      "video_id": "AuYAdZ4uhgY",
+      "title": "Bikin WEBSITE dengan 1 kali PROMPT AI gak sampai 10 menit",
+      "published_at": "2025-11-25T09:29:10Z",
+      "thumbnail": "https://i.ytimg.com/vi/AuYAdZ4uhgY/default.jpg",
+      "channel_url": "https://www.youtube.com/user/faqihzamukhlish",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Tar\u0131k G\u00fcney",
+      "channel_subs": 18000,
+      "channel_views": 1274639,
+      "video_id": "M4K2bZJa-wo",
+      "title": "Canl\u0131 Yay\u0131n - Yol Sohbeti - AI ve Kaybolan Hevesler",
+      "published_at": "2025-11-23T05:36:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/M4K2bZJa-wo/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC4I7mk5atVNtFDNI1c8yOWA",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "TechWorld with Nana",
+      "channel_subs": 1390000,
+      "channel_views": 76754645,
+      "video_id": "krG1iDQMGKA",
+      "title": "\ud83d\udc68\u200d\ud83d\udcbb 3 minutes on whether AI will eat DevOps jobs",
+      "published_at": "2025-11-22T14:18:05Z",
+      "thumbnail": "https://i.ytimg.com/vi/krG1iDQMGKA/default.jpg",
+      "channel_url": "https://www.youtube.com/TechWorldwithNana",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Dev Eficiente",
+      "channel_subs": 15300,
+      "channel_views": 576210,
+      "video_id": "oj0UsavRSI4",
+      "title": "Um exemplo de transforma\u00e7\u00e3o de busca n\u00e3o estruturada em filtros SQL usando LLM | Dev Eficiente",
+      "published_at": "2025-11-21T01:25:07Z",
+      "thumbnail": "https://i.ytimg.com/vi/oj0UsavRSI4/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC9xYzttzFxK9cmhKPQCalYQ",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Cod3r Cursos",
+      "channel_subs": 106000,
+      "channel_views": 4786663,
+      "video_id": "dHc1jcSCKIM",
+      "title": "Fullstack com Gemini 3 e Antigravity | Vai Matar o VS Code?",
+      "published_at": "2025-11-19T20:35:58Z",
+      "thumbnail": "https://i.ytimg.com/vi/dHc1jcSCKIM/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCcMcmtNSSQECjKsJA1XH5MQ",
+      "ai_keywords": [
+        "antigravity"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "CS Dojo",
+      "channel_subs": 1950000,
+      "channel_views": 84459742,
+      "video_id": "9UdZhTnMrTA",
+      "title": "Claude Code Masterclass",
+      "published_at": "2025-11-19T18:03:36Z",
+      "thumbnail": "https://i.ytimg.com/vi/9UdZhTnMrTA/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCxX9wt5FWQUAAz4UrysqK9A",
+      "ai_keywords": [
+        "claude"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Benjamin Code",
+      "channel_subs": 152000,
+      "channel_views": 13602548,
+      "video_id": "9QWb5h-VaRA",
+      "title": "D\u00e9velopper une App avec Claude Code en 30 minutes.",
+      "published_at": "2025-11-19T16:28:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/9QWb5h-VaRA/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCLOAPb7ATQUs_nDs9ViLcMw",
+      "ai_keywords": [
+        "claude"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "The Cherno",
+      "channel_subs": 738000,
+      "channel_views": 90342159,
+      "video_id": "sSKAMOYPSho",
+      "title": "Am I Just Reviewing AI Code? // Code Review",
+      "published_at": "2025-11-19T10:30:44Z",
+      "thumbnail": "https://i.ytimg.com/vi/sSKAMOYPSho/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Negev Web Developers",
+      "channel_subs": 848,
+      "channel_views": 34813,
+      "video_id": "UXvuwNfTHjw",
+      "title": "Hanokh Aloni - The genie (yet another tale of ai horrors)",
+      "published_at": "2025-11-18T21:18:30Z",
+      "thumbnail": "https://i.ytimg.com/vi/UXvuwNfTHjw/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UCeb23koM86s-w9534jdRxIQ",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Treehouse",
+      "channel_subs": 370000,
+      "channel_views": 86771208,
+      "video_id": "x_AZCjXFZ3M",
+      "title": "Become someone who knows how to code AND understands AI",
+      "published_at": "2025-11-17T22:00:43Z",
+      "thumbnail": "https://i.ytimg.com/vi/x_AZCjXFZ3M/default.jpg",
+      "channel_url": "https://www.youtube.com/user/gotreehouse",
+      "ai_keywords": [
+        "ai_general"
+      ],
+      "relevance_score": 0.14285714285714285
+    },
+    {
+      "channel_name": "Jack Herrington",
+      "channel_subs": 210000,
+      "channel_views": 15583291,
+      "video_id": "HodoLoXxMv8",
+      "title": "ChatGPT Apps on TanStack and Railway",
+      "published_at": "2025-11-17T14:23:40Z",
+      "thumbnail": "https://i.ytimg.com/vi/HodoLoXxMv8/default.jpg",
+      "channel_url": "https://www.youtube.com/channel/UC6vRUjYqDuoUsYsku86Lrsw",
+      "ai_keywords": [
+        "llm"
+      ],
+      "relevance_score": 0.14285714285714285
+    }
+  ]
+}
