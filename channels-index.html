@@ -1,0 +1,752 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vejeeo TechVids - Channel Directory by Language & Alphabet</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        :root {
+            --primary: #FF0000;
+            --secondary: #1a1a1a;
+            --accent: #ffffff;
+            --border: #333;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: linear-gradient(135deg, #0f0f0f 0%, #1a1a1a 100%);
+            color: #fff;
+        }
+
+        /* Header */
+        header {
+            background: linear-gradient(135deg, #1a1a1a 0%, #2d2d2d 100%);
+            border-bottom: 3px solid var(--primary);
+            padding: 2rem;
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .header-content {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .logo {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 1rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+
+        .subtitle {
+            color: #aaa;
+            font-size: 0.95rem;
+            margin-bottom: 1.5rem;
+        }
+
+        /* Controls */
+        .controls {
+            display: flex;
+            gap: 1rem;
+            flex-wrap: wrap;
+            align-items: center;
+        }
+
+        .search-box {
+            flex: 1;
+            min-width: 200px;
+        }
+
+        input[type="text"],
+        select {
+            width: 100%;
+            padding: 0.8rem 1rem;
+            background: #1a1a1a;
+            border: 1px solid #333;
+            color: #fff;
+            border-radius: 6px;
+            font-size: 0.95rem;
+            transition: all 0.3s;
+        }
+
+        input[type="text"]:focus,
+        select:focus {
+            outline: none;
+            border-color: var(--primary);
+            box-shadow: 0 0 10px rgba(255, 0, 0, 0.2);
+        }
+
+        /* Container */
+        .container {
+            max-width: 1400px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        /* Language Tabs */
+        .language-tabs {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            margin-bottom: 2rem;
+            border-bottom: 2px solid #333;
+            overflow-x: auto;
+            padding-bottom: 1rem;
+        }
+
+        .language-tab {
+            padding: 0.7rem 1.5rem;
+            background: transparent;
+            border: 1px solid #333;
+            color: #aaa;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s;
+            white-space: nowrap;
+            font-weight: 600;
+        }
+
+        .language-tab:hover {
+            border-color: var(--primary);
+            color: #fff;
+        }
+
+        .language-tab.active {
+            background: var(--primary);
+            border-color: var(--primary);
+            color: white;
+        }
+
+        /* Alphabet Navigation */
+        .alphabet-nav {
+            display: flex;
+            gap: 0.5rem;
+            flex-wrap: wrap;
+            margin-bottom: 2rem;
+            padding: 1rem;
+            background: rgba(255, 0, 0, 0.05);
+            border-radius: 8px;
+            border: 1px solid #333;
+        }
+
+        .alpha-link {
+            width: 35px;
+            height: 35px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: #1a1a1a;
+            border: 1px solid #333;
+            color: #aaa;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: all 0.3s;
+            font-weight: 600;
+            font-size: 0.9rem;
+        }
+
+        .alpha-link:hover {
+            background: var(--primary);
+            color: white;
+            border-color: var(--primary);
+        }
+
+        .alpha-link.no-channels {
+            opacity: 0.3;
+            cursor: not-allowed;
+        }
+
+        /* Channels Grid */
+        .channels-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+            gap: 1.5rem;
+            margin-bottom: 3rem;
+        }
+
+        .channel-card {
+            background: linear-gradient(135deg, #1a1a1a 0%, #252525 100%);
+            border: 1px solid #333;
+            border-radius: 12px;
+            overflow: hidden;
+            transition: all 0.3s;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .channel-card:hover {
+            transform: translateY(-6px);
+            border-color: var(--primary);
+            box-shadow: 0 12px 30px rgba(255, 0, 0, 0.2);
+        }
+
+        .channel-thumbnail {
+            width: 100%;
+            height: 180px;
+            background: linear-gradient(135deg, #333 0%, #1a1a1a 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 3rem;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .channel-thumbnail img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .channel-info {
+            padding: 1.5rem;
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+
+        .channel-name {
+            font-size: 1.1rem;
+            font-weight: 700;
+            margin-bottom: 0.8rem;
+            color: #fff;
+            line-height: 1.3;
+        }
+
+        .channel-meta {
+            display: flex;
+            flex-direction: column;
+            gap: 0.6rem;
+            margin-bottom: 1rem;
+            flex: 1;
+        }
+
+        .meta-item {
+            display: flex;
+            align-items: center;
+            gap: 0.6rem;
+            font-size: 0.9rem;
+            color: #aaa;
+        }
+
+        .meta-label {
+            color: var(--primary);
+            font-weight: 600;
+            min-width: 70px;
+        }
+
+        .category-badge {
+            display: inline-block;
+            background: rgba(255, 0, 0, 0.1);
+            color: var(--primary);
+            padding: 0.4rem 0.8rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-bottom: 0.8rem;
+        }
+
+        .country-flag {
+            font-size: 1.2rem;
+        }
+
+        .channel-link {
+            display: inline-block;
+            margin-top: auto;
+            padding: 0.8rem 1.5rem;
+            background: var(--primary);
+            color: white;
+            text-decoration: none;
+            border-radius: 6px;
+            text-align: center;
+            font-weight: 600;
+            transition: all 0.3s;
+            border: 2px solid var(--primary);
+        }
+
+        .channel-link:hover {
+            background: transparent;
+            color: var(--primary);
+        }
+
+        /* Stats */
+        .stats-row {
+            display: flex;
+            gap: 2rem;
+            margin-bottom: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .stat {
+            padding: 1rem 1.5rem;
+            background: rgba(255, 0, 0, 0.05);
+            border-left: 3px solid var(--primary);
+            border-radius: 4px;
+        }
+
+        .stat-value {
+            font-size: 1.6rem;
+            font-weight: bold;
+            color: var(--primary);
+        }
+
+        .stat-label {
+            color: #aaa;
+            font-size: 0.9rem;
+            margin-top: 0.3rem;
+        }
+
+        /* Section Title */
+        .section-title {
+            font-size: 1.8rem;
+            font-weight: bold;
+            margin-bottom: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.8rem;
+        }
+
+        .section-title span {
+            color: var(--primary);
+        }
+
+        /* Empty State */
+        .empty-state {
+            text-align: center;
+            padding: 3rem;
+            color: #666;
+        }
+
+        .empty-icon {
+            font-size: 3rem;
+            margin-bottom: 1rem;
+        }
+
+        /* Footer */
+        footer {
+            background: #0f0f0f;
+            border-top: 1px solid #333;
+            padding: 2rem;
+            text-align: center;
+            color: #666;
+            font-size: 0.9rem;
+        }
+
+        /* Responsive */
+        @media (max-width: 768px) {
+            .channels-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .controls {
+                flex-direction: column;
+            }
+
+            .search-box {
+                width: 100%;
+            }
+
+            .language-tabs {
+                justify-content: flex-start;
+            }
+
+            .logo {
+                font-size: 1.5rem;
+            }
+        }
+
+        /* Loading */
+        .loading {
+            text-align: center;
+            padding: 2rem;
+            color: #999;
+        }
+
+        .spinner {
+            display: inline-block;
+            width: 30px;
+            height: 30px;
+            border: 3px solid #333;
+            border-top-color: var(--primary);
+            border-radius: 50%;
+            animation: spin 0.8s linear infinite;
+        }
+
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+
+        /* Animations */
+        .channel-card {
+            animation: fadeIn 0.4s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(10px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <div class="logo">
+                <span>📚</span>
+                <span>Channel Directory</span>
+            </div>
+            <p class="subtitle">Browse 627+ developer YouTube channels by language and alphabet</p>
+
+            <div class="stats-row">
+                <div class="stat">
+                    <div class="stat-value">627</div>
+                    <div class="stat-label">Total Channels</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">21</div>
+                    <div class="stat-label">Languages</div>
+                </div>
+                <div class="stat">
+                    <div class="stat-value">234.8M</div>
+                    <div class="stat-label">Total Subscribers</div>
+                </div>
+            </div>
+
+            <div class="controls">
+                <div class="search-box">
+                    <input type="text" id="searchInput" placeholder="🔍 Search channels by name...">
+                </div>
+                <select id="categoryFilter">
+                    <option value="">📁 All Categories</option>
+                </select>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <!-- Language Tabs -->
+        <div id="languageTabs" class="language-tabs"></div>
+
+        <!-- Alphabet Navigation -->
+        <div id="alphabetNav" class="alphabet-nav"></div>
+
+        <!-- Channels Grid -->
+        <div id="loading" class="loading">
+            <div class="spinner"></div>
+            <p>Loading channels...</p>
+        </div>
+
+        <div id="content" style="display: none;">
+            <div class="section-title">
+                <span id="currentLanguage">English</span>
+                <span id="languageName"></span>
+            </div>
+            <div id="channelsGrid" class="channels-grid"></div>
+        </div>
+
+        <div id="emptyState" class="empty-state" style="display: none;">
+            <div class="empty-icon">🔍</div>
+            <p>No channels found. Try adjusting your filters.</p>
+        </div>
+    </div>
+
+    <footer>
+        <p>📺 Vejeeo TechVids - Complete developer YouTube channel directory | Organized by language and alphabetically</p>
+    </footer>
+
+    <script>
+        let allChannels = {};
+        let currentLanguage = 'English';
+        let filteredChannels = [];
+
+        // Load channels index
+        async function loadChannels() {
+            try {
+                const response = await fetch('channels_index.json');
+                allChannels = await response.json();
+
+                document.getElementById('loading').style.display = 'none';
+                document.getElementById('content').style.display = 'block';
+
+                populateLanguageTabs();
+                populateCategories();
+                displayChannels('English');
+            } catch (error) {
+                console.error('Error loading channels:', error);
+                document.getElementById('loading').textContent = 'Error loading channels. Please refresh the page.';
+            }
+        }
+
+        // Populate language tabs
+        function populateLanguageTabs() {
+            const tabsContainer = document.getElementById('languageTabs');
+            const languages = Object.keys(allChannels).sort();
+
+            languages.forEach(lang => {
+                const count = allChannels[lang].length;
+                const tab = document.createElement('button');
+                tab.className = 'language-tab' + (lang === 'English' ? ' active' : '');
+                tab.textContent = lang + ' (' + count + ')';
+                tab.onclick = () => selectLanguage(lang, tab);
+                tabsContainer.appendChild(tab);
+            });
+        }
+
+        // Populate category filter
+        function populateCategories() {
+            const categories = new Set();
+            Object.values(allChannels).forEach(langs => {
+                langs.forEach(channel => {
+                    categories.add(channel.category);
+                });
+            });
+
+            const filter = document.getElementById('categoryFilter');
+            Array.from(categories).sort().forEach(cat => {
+                const option = document.createElement('option');
+                option.value = cat;
+                option.textContent = cat;
+                filter.appendChild(option);
+            });
+        }
+
+        // Select language
+        function selectLanguage(lang, tab) {
+            currentLanguage = lang;
+            document.querySelectorAll('.language-tab').forEach(t => {
+                t.classList.remove('active');
+            });
+            tab.classList.add('active');
+            displayChannels(lang);
+        }
+
+        // Get alphabet for current language
+        function getAlphabet(lang) {
+            const channels = allChannels[lang] || [];
+            const firstLetters = new Set(channels.map(ch => ch.name[0].toUpperCase()));
+            return Array.from(firstLetters).sort();
+        }
+
+        // Display alphabet navigation
+        function displayAlphabet(lang) {
+            const navContainer = document.getElementById('alphabetNav');
+            navContainer.innerHTML = '';
+
+            const alphabet = getAlphabet(lang);
+            for (let i = 65; i <= 90; i++) {
+                const letter = String.fromCharCode(i);
+                const link = document.createElement('button');
+                link.className = 'alpha-link';
+                link.textContent = letter;
+
+                if (!alphabet.includes(letter)) {
+                    link.classList.add('no-channels');
+                } else {
+                    link.onclick = () => scrollToLetter(letter);
+                }
+
+                navContainer.appendChild(link);
+            }
+        }
+
+        // Display channels
+        function displayChannels(lang) {
+            currentLanguage = lang;
+            const channels = allChannels[lang] || [];
+            const grid = document.getElementById('channelsGrid');
+            grid.innerHTML = '';
+
+            displayAlphabet(lang);
+
+            // Filter by search and category
+            const searchTerm = document.getElementById('searchInput').value.toLowerCase();
+            const selectedCategory = document.getElementById('categoryFilter').value;
+
+            filteredChannels = channels.filter(ch => {
+                const matchesSearch = ch.name.toLowerCase().includes(searchTerm);
+                const matchesCategory = !selectedCategory || ch.category === selectedCategory;
+                return matchesSearch && matchesCategory;
+            });
+
+            if (filteredChannels.length === 0) {
+                document.getElementById('content').style.display = 'none';
+                document.getElementById('emptyState').style.display = 'block';
+                return;
+            }
+
+            document.getElementById('content').style.display = 'block';
+            document.getElementById('emptyState').style.display = 'none';
+
+            let currentLetter = '';
+            filteredChannels.forEach(channel => {
+                const firstLetter = channel.name[0].toUpperCase();
+                if (firstLetter !== currentLetter) {
+                    currentLetter = firstLetter;
+                    const letterHeader = document.createElement('div');
+                    letterHeader.style.cssText = 'grid-column: 1 / -1; padding-top: 1.5rem; border-top: 2px solid #333; margin-top: 1rem;';
+                    const letterTitle = document.createElement('h3');
+                    letterTitle.style.cssText = 'font-size: 1.5rem; color: var(--primary); margin-bottom: 1rem;';
+                    letterTitle.textContent = firstLetter;
+                    letterTitle.id = 'letter-' + firstLetter;
+                    letterHeader.appendChild(letterTitle);
+                    grid.appendChild(letterHeader);
+                }
+
+                const card = createChannelCard(channel);
+                grid.appendChild(card);
+            });
+
+            // Update section title
+            document.getElementById('currentLanguage').textContent = lang;
+            document.getElementById('languageName').textContent = '(' + channels.length + ' channels)';
+        }
+
+        // Create channel card
+        function createChannelCard(channel) {
+            const card = document.createElement('div');
+            card.className = 'channel-card';
+
+            const thumbContainer = document.createElement('div');
+            thumbContainer.className = 'channel-thumbnail';
+            if (channel.thumbnail) {
+                const img = document.createElement('img');
+                img.src = channel.thumbnail;
+                img.alt = channel.name;
+                thumbContainer.appendChild(img);
+            } else {
+                thumbContainer.textContent = '📺';
+            }
+
+            const info = document.createElement('div');
+            info.className = 'channel-info';
+
+            const name = document.createElement('div');
+            name.className = 'channel-name';
+            name.textContent = channel.name;
+
+            const categoryBadge = document.createElement('div');
+            categoryBadge.className = 'category-badge';
+            categoryBadge.textContent = channel.category;
+
+            const meta = document.createElement('div');
+            meta.className = 'channel-meta';
+
+            const subs = document.createElement('div');
+            subs.className = 'meta-item';
+            const subsLabel = document.createElement('span');
+            subsLabel.className = 'meta-label';
+            subsLabel.textContent = '👥';
+            const subsValue = document.createElement('span');
+            subsValue.textContent = formatNumber(channel.subscribers) + ' subs';
+            subs.appendChild(subsLabel);
+            subs.appendChild(subsValue);
+
+            const views = document.createElement('div');
+            views.className = 'meta-item';
+            const viewsLabel = document.createElement('span');
+            viewsLabel.className = 'meta-label';
+            viewsLabel.textContent = '👁️';
+            const viewsValue = document.createElement('span');
+            viewsValue.textContent = formatNumber(channel.views) + ' views';
+            views.appendChild(viewsLabel);
+            views.appendChild(viewsValue);
+
+            const videos = document.createElement('div');
+            videos.className = 'meta-item';
+            const vidsLabel = document.createElement('span');
+            vidsLabel.className = 'meta-label';
+            vidsLabel.textContent = '🎬';
+            const vidsValue = document.createElement('span');
+            vidsValue.textContent = channel.videos + ' videos';
+            videos.appendChild(vidsLabel);
+            videos.appendChild(vidsValue);
+
+            meta.appendChild(subs);
+            meta.appendChild(views);
+            meta.appendChild(videos);
+
+            if (channel.country && channel.country !== 'Unknown') {
+                const country = document.createElement('div');
+                country.className = 'meta-item';
+                const countryFlag = document.createElement('span');
+                countryFlag.className = 'country-flag';
+                countryFlag.textContent = getCountryEmoji(channel.country);
+                const countryValue = document.createElement('span');
+                countryValue.textContent = channel.country;
+                country.appendChild(countryFlag);
+                country.appendChild(countryValue);
+                meta.appendChild(country);
+            }
+
+            const link = document.createElement('a');
+            link.className = 'channel-link';
+            link.href = channel.url;
+            link.target = '_blank';
+            link.rel = 'noopener noreferrer';
+            link.textContent = 'Visit Channel →';
+
+            info.appendChild(name);
+            info.appendChild(categoryBadge);
+            info.appendChild(meta);
+            info.appendChild(link);
+
+            card.appendChild(thumbContainer);
+            card.appendChild(info);
+
+            return card;
+        }
+
+        // Format large numbers
+        function formatNumber(num) {
+            if (num >= 1000000) return (num / 1000000).toFixed(1) + 'M';
+            if (num >= 1000) return (num / 1000).toFixed(1) + 'K';
+            return num.toString();
+        }
+
+        // Get country emoji flag
+        function getCountryEmoji(country) {
+            const flags = {
+                'US': '🇺🇸', 'UK': '🇬🇧', 'CA': '🇨🇦', 'IN': '🇮🇳', 'BR': '🇧🇷',
+                'DE': '🇩🇪', 'FR': '🇫🇷', 'ES': '🇪🇸', 'IT': '🇮🇹', 'RU': '🇷🇺',
+                'JP': '🇯🇵', 'CN': '🇨🇳', 'KR': '🇰🇷', 'TR': '🇹🇷', 'PL': '🇵🇱'
+            };
+            return flags[country] || '🌍';
+        }
+
+        // Scroll to letter
+        function scrollToLetter(letter) {
+            const element = document.getElementById('letter-' + letter);
+            if (element) {
+                element.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            }
+        }
+
+        // Event listeners
+        document.getElementById('searchInput').addEventListener('input', () => {
+            displayChannels(currentLanguage);
+        });
+
+        document.getElementById('categoryFilter').addEventListener('change', () => {
+            displayChannels(currentLanguage);
+        });
+
+        // Load on startup
+        loadChannels();
+    </script>
+</body>
+</html>
